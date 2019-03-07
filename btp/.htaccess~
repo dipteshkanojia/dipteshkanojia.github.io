@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /usr/diptesh/public_html/btp/.htpasswd
+Require valid-user

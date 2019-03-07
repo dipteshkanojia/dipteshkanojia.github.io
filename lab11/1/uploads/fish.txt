@@ -1,0 +1,43 @@
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int fun(int x,int a[],int l,int h)
+{
+    int count=0,m;
+    if(l==h)
+    {
+        if( x <= a[h] )
+            return 1;
+        else 
+            return 0;
+    } 
+    else
+    {
+         while(x>a[l])
+         {
+             x=x+a[l];
+             l++;
+         }
+         if(l>h)
+              return(count);
+         m=l+1;
+         count=1+min( fun(((2*x)-1),a,l,h),fun(x,a,m,h) );    
+    }  
+    return count; 
+}
+
+
+int main()
+{
+    int n,answer,x;
+    cin >> n;
+    int a[n];
+    for(int i=0;i<n;i++)
+        cin >> a[i];
+    cin >> x;
+    sort(a,a+n);
+    answer=fun(x,a,0,n-1);
+    cout << answer << endl;
+    return (0);
+}

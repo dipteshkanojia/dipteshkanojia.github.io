@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /users/rs/diptesh/public_html/seminar/.htpasswd
+require valid-user
