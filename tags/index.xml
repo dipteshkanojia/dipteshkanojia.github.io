@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Diptesh Kanojia</title>
+    <link>https://www.cse.iitb.ac.in/tags/</link>
+    <description>Recent content in Tags on Diptesh Kanojia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.cse.iitb.ac.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>internal-project</title>
+      <link>https://www.cse.iitb.ac.in/tags/internal-project/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/tags/internal-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>https://www.cse.iitb.ac.in/tags/android/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>browserex</title>
+      <link>https://www.cse.iitb.ac.in/tags/browserex/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/tags/browserex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://www.cse.iitb.ac.in/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

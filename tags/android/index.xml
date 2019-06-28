@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android on Diptesh Kanojia</title>
+    <link>https://www.cse.iitb.ac.in/tags/android/</link>
+    <description>Recent content in android on Diptesh Kanojia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.cse.iitb.ac.in/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BrahmiNet - Android</title>
+      <link>https://www.cse.iitb.ac.in/project/brahminet/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/project/brahminet/</guid>
+      <description>A webview based app for BrahmiNet.</description>
+    </item>
+    
+    <item>
+      <title>Hindi Wordnet - Android</title>
+      <link>https://www.cse.iitb.ac.in/project/hindiwordnet/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/project/hindiwordnet/</guid>
+      <description>A webview based app for Hindi Wordnet.</description>
+    </item>
+    
+    <item>
+      <title>Marathi Wordnet - Android</title>
+      <link>https://www.cse.iitb.ac.in/project/marathiwordnet/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/project/marathiwordnet/</guid>
+      <description>A webview based app for Hindi Wordnet.</description>
+    </item>
+    
+    <item>
+      <title>Sanskrit Wordnet - Android</title>
+      <link>https://www.cse.iitb.ac.in/project/sanskritwordnet/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/project/sanskritwordnet/</guid>
+      <description>A webview based app for Hindi Wordnet.</description>
+    </item>
+    
+  </channel>
+</rss>

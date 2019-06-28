@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Diptesh Kanojia</title>
+    <link>https://www.cse.iitb.ac.in/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Diptesh Kanojia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.cse.iitb.ac.in/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NLP Fundamentals at VIVA IET</title>
+      <link>https://www.cse.iitb.ac.in/talk/vivatalk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/talk/vivatalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing and its intersection with Data Science</title>
+      <link>https://www.cse.iitb.ac.in/talk/techfestalk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.cse.iitb.ac.in/talk/techfestalk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
