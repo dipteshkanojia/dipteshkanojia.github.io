@@ -58,15 +58,6 @@
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://www.cse.iitb.ac.in/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://www.cse.iitb.ac.in/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Selected Talks</title>
       <link>https://www.cse.iitb.ac.in/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
@@ -99,25 +90,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://www.cse.iitb.ac.in/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>https://www.cse.iitb.ac.in/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://www.cse.iitb.ac.in/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://www.cse.iitb.ac.in/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://www.cse.iitb.ac.in/home/tags/</guid>
       <description></description>
     </item>
     
