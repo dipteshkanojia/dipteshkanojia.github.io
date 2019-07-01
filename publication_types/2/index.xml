@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Diptesh Kanojia</title>
-    <link>https://www.cse.iitb.ac.in/publication_types/2/</link>
-    <description>Recent content in 2 on Diptesh Kanojia</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>2 on Kanojia, Diptesh</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.cse.iitb.ac.in/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IndoWordNet: Hindi, Marathi, Sanskrit Wordnets and their inclusion in CILI</title>
-      <link>https://www.cse.iitb.ac.in/publication/lilt-2019-hmswn/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0530</pubDate>
+      <link>/publication/lilt-2019-hmswn/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/publication/lilt-2019-hmswn/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/lilt-2019-hmswn/</guid>
+      <description></description>
     </item>
     
   </channel>

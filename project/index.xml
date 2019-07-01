@@ -1,78 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Diptesh Kanojia</title>
-    <link>https://www.cse.iitb.ac.in/project/</link>
-    <description>Recent content in Projects on Diptesh Kanojia</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Projects on Kanojia, Diptesh</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://www.cse.iitb.ac.in/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BrahmiNet - Android</title>
-      <link>https://www.cse.iitb.ac.in/project/brahminet/</link>
+      <link>/project/brahminet/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/project/brahminet/</guid>
-      <description>A webview based app for BrahmiNet.</description>
+      <guid>/project/brahminet/</guid>
+      <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>HWN Chrome Browser Extension</title>
-      <link>https://www.cse.iitb.ac.in/project/hwnchromex/</link>
+      <link>/project/hwnchromex/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/project/hwnchromex/</guid>
-      <description>Browser Extension for Google Chrome</description>
+      <guid>/project/hwnchromex/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Hindi Wordnet - Android</title>
-      <link>https://www.cse.iitb.ac.in/project/hindiwordnet/</link>
+      <link>/project/hindiwordnet/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/project/hindiwordnet/</guid>
-      <description>A webview based app for Hindi Wordnet.</description>
+      <guid>/project/hindiwordnet/</guid>
+      <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>MWN Chrome Browser Extension</title>
-      <link>https://www.cse.iitb.ac.in/project/mwnchromex/</link>
+      <link>/project/mwnchromex/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/project/mwnchromex/</guid>
-      <description>Browser Extension for Google Chrome</description>
+      <guid>/project/mwnchromex/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Marathi Wordnet - Android</title>
-      <link>https://www.cse.iitb.ac.in/project/marathiwordnet/</link>
+      <link>/project/marathiwordnet/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/project/marathiwordnet/</guid>
-      <description>A webview based app for Hindi Wordnet.</description>
+      <guid>/project/marathiwordnet/</guid>
+      <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>SWN Chrome Browser Extension</title>
-      <link>https://www.cse.iitb.ac.in/project/swnchromex/</link>
+      <link>/project/swnchromex/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/project/swnchromex/</guid>
-      <description>Browser Extension for Google Chrome</description>
+      <guid>/project/swnchromex/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Sanskrit Wordnet - Android</title>
-      <link>https://www.cse.iitb.ac.in/project/sanskritwordnet/</link>
+      <link>/project/sanskritwordnet/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/project/sanskritwordnet/</guid>
-      <description>A webview based app for Hindi Wordnet.</description>
+      <guid>/project/sanskritwordnet/</guid>
+      <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

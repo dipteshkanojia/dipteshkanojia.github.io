@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>api on Kanojia, Diptesh</title>
+    <link>/tags/api/</link>
+    <description>Recent content in api on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IndoWordNet: Hindi, Marathi, Sanskrit Wordnets and their inclusion in CILI</title>
+      <link>/publication/lilt-2019-hmswn/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lilt-2019-hmswn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indian Language Wordnets and their Linkages with Princeton WordNet</title>
+      <link>/publication/kanojia-2018-indian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2018-indian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyiwn: A Python-based API to access Indian Language WordNets</title>
+      <link>/publication/panjwani-2018-pyiwn/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/panjwani-2018-pyiwn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

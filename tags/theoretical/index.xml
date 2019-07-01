@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theoretical on Kanojia, Diptesh</title>
+    <link>/tags/theoretical/</link>
+    <description>Recent content in theoretical on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/theoretical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IndoWordNet: Hindi, Marathi, Sanskrit Wordnets and their inclusion in CILI</title>
+      <link>/publication/lilt-2019-hmswn/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lilt-2019-hmswn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Wordnets for Cognate Detection among Indian Languages</title>
+      <link>/publication/gwc-2019-cognate/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gwc-2019-cognate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scanpath Complexity: Modeling Reading Effort using Gaze Information</title>
+      <link>/publication/mishra-2017-scanpath/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mishra-2017-scanpath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SlangNet: A WordNet like resource for English Slang</title>
+      <link>/publication/dhuliawala-2016-slangnet/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dhuliawala-2016-slangnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do not do processing, when you can look up: Towards a Discrimination Net for WSD</title>
+      <link>/publication/kanojia-2014-not/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2014-not/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More than meets the eye: Study of Human Cognition in Sense Annotation</title>
+      <link>/publication/joshi-2013-more/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/joshi-2013-more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study of the Sense Annotation Process: Man v/s Machine.</title>
+      <link>/publication/chatterjee-2012-study/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/chatterjee-2012-study/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

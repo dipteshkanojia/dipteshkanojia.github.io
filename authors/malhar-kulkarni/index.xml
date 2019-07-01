@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malhar Kulkarni on Kanojia, Diptesh</title>
+    <link>/authors/malhar-kulkarni/</link>
+    <description>Recent content in Malhar Kulkarni on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/malhar-kulkarni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IndoWordNet: Hindi, Marathi, Sanskrit Wordnets and their inclusion in CILI</title>
+      <link>/publication/lilt-2019-hmswn/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lilt-2019-hmswn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Wordnets for Cognate Detection among Indian Languages</title>
+      <link>/publication/gwc-2019-cognate/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gwc-2019-cognate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognate Identification to improve Phylogenetic trees for Indian Languages</title>
+      <link>/publication/kanojia-2019-cognate/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2019-cognate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some Strategies to Capture Karaka-Yogyata with Special Reference to apadana</title>
+      <link>/publication/salaskar-2019-some/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/salaskar-2019-some/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindi Wordnet for Language Teaching: Experiences and Lessons Learnt</title>
+      <link>/publication/redkar-2018-hindi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/redkar-2018-hindi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Vistas to study Bhartṛhari: Cognitive NLP</title>
+      <link>/publication/gajjam-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gajjam-2018-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

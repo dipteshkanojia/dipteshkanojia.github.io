@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salil Joshi on Kanojia, Diptesh</title>
+    <link>/authors/salil-joshi/</link>
+    <description>Recent content in Salil Joshi on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/salil-joshi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>More than meets the eye: Study of Human Cognition in Sense Annotation</title>
+      <link>/publication/joshi-2013-more/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/joshi-2013-more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study of the Sense Annotation Process: Man v/s Machine.</title>
+      <link>/publication/chatterjee-2012-study/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/chatterjee-2012-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrimination-net for Hindi</title>
+      <link>/publication/kanojia-2012-discrimination/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2012-discrimination/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

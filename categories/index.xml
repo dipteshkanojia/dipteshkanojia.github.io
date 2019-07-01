@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Diptesh Kanojia</title>
-    <link>https://www.cse.iitb.ac.in/categories/</link>
-    <description>Recent content in Categories on Diptesh Kanojia</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on Kanojia, Diptesh</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="https://www.cse.iitb.ac.in/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

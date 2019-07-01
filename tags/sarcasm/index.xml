@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sarcasm on Kanojia, Diptesh</title>
+    <link>/tags/sarcasm/</link>
+    <description>Recent content in sarcasm on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/sarcasm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Harnessing Cognitive Features for Sarcasm Detection</title>
+      <link>/publication/mishra-2016-harnessing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mishra-2016-harnessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Readers&#39; Sarcasm Understandability by Modeling Gaze Behavior</title>
+      <link>/publication/mishra-2016-predicting/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mishra-2016-predicting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

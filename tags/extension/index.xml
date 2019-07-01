@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>extension on Kanojia, Diptesh</title>
+    <link>/tags/extension/</link>
+    <description>Recent content in extension on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	    <atom:link href="/tags/extension/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HWN Chrome Browser Extension</title>
+      <link>/project/hwnchromex/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/project/hwnchromex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MWN Chrome Browser Extension</title>
+      <link>/project/mwnchromex/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/project/mwnchromex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWN Chrome Browser Extension</title>
+      <link>/project/swnchromex/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/project/swnchromex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

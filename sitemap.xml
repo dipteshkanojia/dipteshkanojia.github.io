@@ -1,500 +1,731 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication_types/1/</loc>
-      <lastmod>2019-06-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication_types/2/</loc>
-      <lastmod>2019-06-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/</loc>
-      <lastmod>2019-06-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/lilt-2019-hmswn/</loc>
-      <lastmod>2019-06-23T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/diptesh-kanojia/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication_types/</loc>
-      <lastmod>2019-06-23T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/lilt-2019-hmswn/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/gwc-2019-cognate/</loc>
-      <lastmod>2019-06-23T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/jaya-saraswati/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2019-cognate/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/salaskar-2019-some/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/kevin-patel/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/talk/vivatalk/</loc>
-      <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/malhar-kulkarni/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/talk/techfestalk/</loc>
-      <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/talk/</loc>
-      <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/tags/</loc>
-      <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/pushpak-bhattacharyya/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/tags/internal-project/</loc>
-      <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/reza-haffari/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/gwc-2019-cognate/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/acl-2018-sandeep/</loc>
-      <lastmod>2018-06-12T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/api/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/mathias-2018-eyes/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/cognate-detection/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/redkar-2018-hindi/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/mapping/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2018-indian/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/phylogenetics/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/gajjam-2018-new/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/theoretical/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/patel-2018-semi/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/wordnets/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2018-synthesizing/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/kanojia-2019-cognate/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/panjwani-2018-pyiwn/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/gholemreza-haffari/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2017-your/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/salaskar-2019-some/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/joshi-2017-sarcasm/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/swaraja-salaskar/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/mishra-2017-scanpath/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/linguistics/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/post/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/vivatalk/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/techfestalk/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/project/brahminet/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/project/hwnchromex/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/talks/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/project/hindiwordnet/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/abhijit-mishra/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/project/mwnchromex/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/mathias-2018-eyes/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/project/marathiwordnet/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/hanumant-redkar/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/redkar-2018-hindi/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/project/swnchromex/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/kanojia-2018-indian/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/project/sanskritwordnet/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/jayashree-gajjam/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/tags/android/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/laxmi-kashyap/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/tags/browserex/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/gajjam-2018-new/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/preethi-jyothi/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+05:30</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/rajita-shukla/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2016-picture/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/ritesh-panjwani/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2016-civique/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/samarth-agarwal/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/mishra-2016-harnessing/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/sandeep-mathias/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/mishra-2016-leveraging/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/sandhya-singh/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/singh-2016-mapping/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/patel-2018-semi/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/mishra-2016-predicting/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/kanojia-2018-synthesizing/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/dhuliawala-2016-slangnet/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/application/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2016-sophisticated/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/essay-grading/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2016-ll/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/gaze-tracking/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2015-transchat/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/hindi/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2015-using/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/panjwani-2018-pyiwn/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/redkar-2015-world/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/sanskrit/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2014-not/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/speech-synthesis/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2014-pacman/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/teaching/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/prabhugaonkar-2014-panchbhoota/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/aditya-joshi/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/joshi-2013-more/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/kanojia-2017-your/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/chatterjee-2012-study/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/kuntal-dey/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/publication/kanojia-2012-discrimination/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/nikhil-wani/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/joshi-2017-sarcasm/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/mishra-2017-scanpath/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.cse.iitb.ac.in/slides/example-slides/</loc>
-    </url>
-    
+  <url>
+    <loc>/authors/seema-nagar/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/prediction/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sarcasm-detection/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sop/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/brahminet/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/hwnchromex/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/hindiwordnet/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/mwnchromex/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/marathiwordnet/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/swnchromex/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sanskritwordnet/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/android/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/extension/</loc>
+    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kanojia-2016-picture/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aaditya-joshi/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kanojia-2016-civique/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mishra-2016-harnessing/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jaya-jha/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/krithi-ramamritham/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/mishra-2016-leveraging/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/singh-2016-mapping/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/meghna-singh/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/mishra-2016-predicting/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pushpak-bhattarcharyya/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/raj-dabre/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/shehzaad-dhuliawala/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/dhuliawala-2016-slangnet/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kanojia-2016-sophisticated/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kanojia-2016-ll/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vishwajeet-kumar/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bilingual/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/emergency-detection/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/images/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-translation/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sarcasm/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sentiment-analysis/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/slang/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/social-media/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/topic-models/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/understandability/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/word-sense-disambiguation/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hanumant-harichandra-redkar/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-j.-carman/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/naman-gupta/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sudha-baban-bhingardive/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kanojia-2015-transchat/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kanojia-2015-using/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/redkar-2015-world/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chat/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/apurva-s-nagvenkar/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kanojia-2014-not/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jd-pawar/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/manish-shrivastava/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/neha-r-prabhugaonkar/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kanojia-2014-pacman/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/prabhugaonkar-2014-panchbhoota/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/siddhartha-gunti/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/corpus-management/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/joshi-2013-more/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/salil-joshi/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/chatterjee-2012-study/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/akhlesh-kumar-meena/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/arindam-chatterjee/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kanojia-2012-discrimination/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/applciation/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
   
 </urlset>

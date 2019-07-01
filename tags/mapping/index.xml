@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mapping on Kanojia, Diptesh</title>
+    <link>/tags/mapping/</link>
+    <description>Recent content in mapping on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IndoWordNet: Hindi, Marathi, Sanskrit Wordnets and their inclusion in CILI</title>
+      <link>/publication/lilt-2019-hmswn/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lilt-2019-hmswn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indian Language Wordnets and their Linkages with Princeton WordNet</title>
+      <link>/publication/kanojia-2018-indian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2018-indian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-automatic WordNet Linking using Word Embeddings</title>
+      <link>/publication/patel-2018-semi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patel-2018-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A picture is worth a thousand words: Using OpenClipArt library for enriching IndoWordNet</title>
+      <link>/publication/kanojia-2016-picture/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2016-picture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping it differently: A solution to the linking challenges</title>
+      <link>/publication/singh-2016-mapping/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singh-2016-mapping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

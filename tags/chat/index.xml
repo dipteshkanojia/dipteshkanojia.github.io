@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chat on Kanojia, Diptesh</title>
+    <link>/tags/chat/</link>
+    <description>Recent content in chat on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/chat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TransChat: Cross-Lingual Instant Messaging for Indian Languages</title>
+      <link>/publication/kanojia-2015-transchat/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2015-transchat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

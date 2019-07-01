@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raj Dabre on Kanojia, Diptesh</title>
+    <link>/authors/raj-dabre/</link>
+    <description>Recent content in Raj Dabre on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/raj-dabre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sophisticated Lexical Databases - Simplified Usage: Mobile Applications and Browser Plugins For Wordnets</title>
+      <link>/publication/kanojia-2016-sophisticated/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2016-sophisticated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do not do processing, when you can look up: Towards a Discrimination Net for WSD</title>
+      <link>/publication/kanojia-2014-not/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2014-not/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaCMan: Parallel Corpus Management Workbench</title>
+      <link>/publication/kanojia-2014-pacman/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2014-pacman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

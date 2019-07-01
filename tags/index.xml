@@ -1,50 +1,319 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Diptesh Kanojia</title>
-    <link>https://www.cse.iitb.ac.in/tags/</link>
-    <description>Recent content in Tags on Diptesh Kanojia</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tags on Kanojia, Diptesh</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.cse.iitb.ac.in/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>internal-project</title>
-      <link>https://www.cse.iitb.ac.in/tags/internal-project/</link>
+      <title>api</title>
+      <link>/tags/api/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognate detection</title>
+      <link>/tags/cognate-detection/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cognate-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mapping</title>
+      <link>/tags/mapping/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogenetics</title>
+      <link>/tags/phylogenetics/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theoretical</title>
+      <link>/tags/theoretical/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/theoretical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wordnets</title>
+      <link>/tags/wordnets/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wordnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistics</title>
+      <link>/tags/linguistics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>/tags/talks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/tags/internal-project/</guid>
+      <guid>/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>application</title>
+      <link>/tags/application/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>essay grading</title>
+      <link>/tags/essay-grading/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/essay-grading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaze tracking</title>
+      <link>/tags/gaze-tracking/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gaze-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hindi</title>
+      <link>/tags/hindi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hindi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sanskrit</title>
+      <link>/tags/sanskrit/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sanskrit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech synthesis</title>
+      <link>/tags/speech-synthesis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/speech-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>/tags/teaching/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prediction</title>
+      <link>/tags/prediction/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sarcasm detection</title>
+      <link>/tags/sarcasm-detection/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sarcasm-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sop</title>
+      <link>/tags/sop/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>android</title>
-      <link>https://www.cse.iitb.ac.in/tags/android/</link>
+      <link>/tags/android/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/tags/android/</guid>
+      <guid>/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>browserex</title>
-      <link>https://www.cse.iitb.ac.in/tags/browserex/</link>
+      <title>extension</title>
+      <link>/tags/extension/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/tags/browserex/</guid>
+      <guid>/tags/extension/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>https://www.cse.iitb.ac.in/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <title>bilingual</title>
+      <link>/tags/bilingual/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.cse.iitb.ac.in/tags/academic/</guid>
+      <guid>/tags/bilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emergency detection</title>
+      <link>/tags/emergency-detection/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/emergency-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>images</title>
+      <link>/tags/images/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine translation</title>
+      <link>/tags/machine-translation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sarcasm</title>
+      <link>/tags/sarcasm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sarcasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment analysis</title>
+      <link>/tags/sentiment-analysis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slang</title>
+      <link>/tags/slang/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/slang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>/tags/social-media/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topic models</title>
+      <link>/tags/topic-models/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/topic-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>understandability</title>
+      <link>/tags/understandability/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/understandability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word sense disambiguation</title>
+      <link>/tags/word-sense-disambiguation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/word-sense-disambiguation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chat</title>
+      <link>/tags/chat/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corpus management</title>
+      <link>/tags/corpus-management/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/corpus-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>applciation</title>
+      <link>/tags/applciation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/applciation/</guid>
       <description></description>
     </item>
     

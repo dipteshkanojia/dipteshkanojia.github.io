@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordnets on Kanojia, Diptesh</title>
+    <link>/tags/wordnets/</link>
+    <description>Recent content in wordnets on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/wordnets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IndoWordNet: Hindi, Marathi, Sanskrit Wordnets and their inclusion in CILI</title>
+      <link>/publication/lilt-2019-hmswn/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lilt-2019-hmswn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Wordnets for Cognate Detection among Indian Languages</title>
+      <link>/publication/gwc-2019-cognate/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gwc-2019-cognate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognate Identification to improve Phylogenetic trees for Indian Languages</title>
+      <link>/publication/kanojia-2019-cognate/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2019-cognate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindi Wordnet for Language Teaching: Experiences and Lessons Learnt</title>
+      <link>/publication/redkar-2018-hindi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/redkar-2018-hindi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indian Language Wordnets and their Linkages with Princeton WordNet</title>
+      <link>/publication/kanojia-2018-indian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2018-indian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-automatic WordNet Linking using Word Embeddings</title>
+      <link>/publication/patel-2018-semi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patel-2018-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Audio for Hindi Wordnet</title>
+      <link>/publication/kanojia-2018-synthesizing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2018-synthesizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyiwn: A Python-based API to access Indian Language WordNets</title>
+      <link>/publication/panjwani-2018-pyiwn/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/panjwani-2018-pyiwn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A picture is worth a thousand words: Using OpenClipArt library for enriching IndoWordNet</title>
+      <link>/publication/kanojia-2016-picture/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2016-picture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping it differently: A solution to the linking challenges</title>
+      <link>/publication/singh-2016-mapping/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singh-2016-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SlangNet: A WordNet like resource for English Slang</title>
+      <link>/publication/dhuliawala-2016-slangnet/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dhuliawala-2016-slangnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sophisticated Lexical Databases - Simplified Usage: Mobile Applications and Browser Plugins For Wordnets</title>
+      <link>/publication/kanojia-2016-sophisticated/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2016-sophisticated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World WordNet database structure: an efficient schema for storing information of WordNets of the world</title>
+      <link>/publication/redkar-2015-world/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/redkar-2015-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do not do processing, when you can look up: Towards a Discrimination Net for WSD</title>
+      <link>/publication/kanojia-2014-not/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2014-not/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

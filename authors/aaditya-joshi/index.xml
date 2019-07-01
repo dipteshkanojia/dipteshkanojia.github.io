@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaditya Joshi on Kanojia, Diptesh</title>
+    <link>/authors/aaditya-joshi/</link>
+    <description>Recent content in Aaditya Joshi on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/aaditya-joshi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>That’ll do fine!: A coarse lexical resource for English-Hindi MT, using polylingual topic models</title>
+      <link>/publication/kanojia-2016-ll/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2016-ll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using multilingual topic models for improved alignment in English-Hindi MT</title>
+      <link>/publication/kanojia-2015-using/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2015-using/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

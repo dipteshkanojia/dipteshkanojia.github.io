@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linguistics on Kanojia, Diptesh</title>
+    <link>/tags/linguistics/</link>
+    <description>Recent content in linguistics on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/linguistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cognate Identification to improve Phylogenetic trees for Indian Languages</title>
+      <link>/publication/kanojia-2019-cognate/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2019-cognate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindi Wordnet for Language Teaching: Experiences and Lessons Learnt</title>
+      <link>/publication/redkar-2018-hindi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/redkar-2018-hindi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Vistas to study Bhartṛhari: Cognitive NLP</title>
+      <link>/publication/gajjam-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gajjam-2018-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-automatic WordNet Linking using Word Embeddings</title>
+      <link>/publication/patel-2018-semi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patel-2018-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Audio for Hindi Wordnet</title>
+      <link>/publication/kanojia-2018-synthesizing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2018-synthesizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarcasm Suite: A browser-based engine for sarcasm detection and generation</title>
+      <link>/publication/joshi-2017-sarcasm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/joshi-2017-sarcasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping it differently: A solution to the linking challenges</title>
+      <link>/publication/singh-2016-mapping/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singh-2016-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sophisticated Lexical Databases - Simplified Usage: Mobile Applications and Browser Plugins For Wordnets</title>
+      <link>/publication/kanojia-2016-sophisticated/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2016-sophisticated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PanchBhoota: Hierarchical phrase based machine translation systems for five Indian languages</title>
+      <link>/publication/prabhugaonkar-2014-panchbhoota/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/prabhugaonkar-2014-panchbhoota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrimination-net for Hindi</title>
+      <link>/publication/kanojia-2012-discrimination/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kanojia-2012-discrimination/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
