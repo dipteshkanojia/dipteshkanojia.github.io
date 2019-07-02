@@ -75,6 +75,24 @@
     </item>
     
     <item>
+      <title>sanskrit</title>
+      <link>/tags/sanskrit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sanskrit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word sense disambiguation</title>
+      <link>/tags/word-sense-disambiguation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/word-sense-disambiguation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>talks</title>
       <link>/tags/talks/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0530</pubDate>
@@ -116,15 +134,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/hindi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sanskrit</title>
-      <link>/tags/sanskrit/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sanskrit/</guid>
       <description></description>
     </item>
     
@@ -228,15 +237,6 @@
     </item>
     
     <item>
-      <title>sarcasm</title>
-      <link>/tags/sarcasm/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sarcasm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sentiment analysis</title>
       <link>/tags/sentiment-analysis/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -278,15 +278,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/understandability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>word sense disambiguation</title>
-      <link>/tags/word-sense-disambiguation/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/word-sense-disambiguation/</guid>
       <description></description>
     </item>
     

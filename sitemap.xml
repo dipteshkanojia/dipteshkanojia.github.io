@@ -154,6 +154,18 @@
   </url>
   
   <url>
+    <loc>/tags/sanskrit/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/word-sense-disambiguation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/talk/techfestalk/</loc>
     <lastmod>2018-12-15T00:00:00+05:30</lastmod>
   </url>
@@ -286,12 +298,6 @@
   <url>
     <loc>/publication/panjwani-2018-pyiwn/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sanskrit/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -539,12 +545,6 @@
   </url>
   
   <url>
-    <loc>/tags/sarcasm/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/sentiment-analysis/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -570,12 +570,6 @@
   
   <url>
     <loc>/tags/understandability/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/word-sense-disambiguation/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
