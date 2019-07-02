@@ -48,18 +48,9 @@
     </item>
     
     <item>
-      <title>NLP Fundamentals at VIVA IET</title>
-      <link>/talk/vivatalk/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>/talk/vivatalk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Natural Language Processing and its intersection with Data Science</title>
       <link>/talk/techfestalk/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0530</pubDate>
       
       <guid>/talk/techfestalk/</guid>
       <description></description>
@@ -152,6 +143,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/mishra-2017-scanpath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP Fundamentals at VIVA IET</title>
+      <link>/talk/vivatalk/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/talk/vivatalk/</guid>
       <description></description>
     </item>
     
