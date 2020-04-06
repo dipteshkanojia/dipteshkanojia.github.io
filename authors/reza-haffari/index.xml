@@ -6,10 +6,19 @@
     <description>Recent content in Reza Haffari on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/reza-haffari/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Utilizing Word Embeddings based Features for Phylogenetic Tree Generation of Sanskrit Texts</title>
+      <link>/publication/iscls-2019-embeddings/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/iscls-2019-embeddings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Utilizing Wordnets for Cognate Detection among Indian Languages</title>

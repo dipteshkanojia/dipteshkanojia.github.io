@@ -6,10 +6,190 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 05:30:00 +0530</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>talks</title>
+      <link>/tags/talks/</link>
+      <pubDate>Fri, 03 Apr 2020 05:30:00 +0530</pubDate>
+      
+      <guid>/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognate dataset</title>
+      <link>/tags/cognate-dataset/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cognate-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognate detection</title>
+      <link>/tags/cognate-detection/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cognate-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-domain sentiment analysis</title>
+      <link>/tags/cross-domain-sentiment-analysis/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cross-domain-sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-lingual word embeddings</title>
+      <link>/tags/cross-lingual-word-embeddings/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cross-lingual-word-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>embeddings</title>
+      <link>/tags/embeddings/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>false friends dataset</title>
+      <link>/tags/false-friends-dataset/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/false-friends-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>false friends detection</title>
+      <link>/tags/false-friends-detection/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/false-friends-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indian language embeddings</title>
+      <link>/tags/indian-language-embeddings/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/indian-language-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resource</title>
+      <link>/tags/resource/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment analysis</title>
+      <link>/tags/sentiment-analysis/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>source domain selection</title>
+      <link>/tags/source-domain-selection/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/source-domain-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theoretical</title>
+      <link>/tags/theoretical/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/theoretical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word embeddings</title>
+      <link>/tags/word-embeddings/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/word-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>commentaries</title>
+      <link>/tags/commentaries/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/commentaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogenetics</title>
+      <link>/tags/phylogenetics/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>textual history</title>
+      <link>/tags/textual-history/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/textual-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indian languages</title>
+      <link>/tags/indian-languages/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/indian-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>siamese networks</title>
+      <link>/tags/siamese-networks/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/siamese-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typological trees</title>
+      <link>/tags/typological-trees/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/typological-trees/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>api</title>
@@ -21,11 +201,11 @@
     </item>
     
     <item>
-      <title>cognate detection</title>
-      <link>/tags/cognate-detection/</link>
+      <title>implementation</title>
+      <link>/tags/implementation/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cognate-detection/</guid>
+      <guid>/tags/implementation/</guid>
       <description></description>
     </item>
     
@@ -39,20 +219,20 @@
     </item>
     
     <item>
-      <title>phylogenetics</title>
-      <link>/tags/phylogenetics/</link>
+      <title>online</title>
+      <link>/tags/online/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/phylogenetics/</guid>
+      <guid>/tags/online/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>theoretical</title>
-      <link>/tags/theoretical/</link>
+      <title>tool</title>
+      <link>/tags/tool/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/theoretical/</guid>
+      <guid>/tags/tool/</guid>
       <description></description>
     </item>
     
@@ -89,15 +269,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/word-sense-disambiguation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>/tags/talks/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>/tags/talks/</guid>
       <description></description>
     </item>
     
@@ -233,15 +404,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/machine-translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sentiment analysis</title>
-      <link>/tags/sentiment-analysis/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sentiment-analysis/</guid>
       <description></description>
     </item>
     

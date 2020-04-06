@@ -6,10 +6,19 @@
     <description>Recent content in Aditya Joshi on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/aditya-joshi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recommendation Chart of Domains for Cross-Domain Sentiment Analysis: Findings of A 20 Domain Study</title>
+      <link>/publication/lrec-2020-cdsa/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lrec-2020-cdsa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sarcasm Suite: A browser-based engine for sarcasm detection and generation</title>

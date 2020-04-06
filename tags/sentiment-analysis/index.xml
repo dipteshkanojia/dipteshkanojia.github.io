@@ -6,10 +6,19 @@
     <description>Recent content in sentiment analysis on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recommendation Chart of Domains for Cross-Domain Sentiment Analysis: Findings of A 20 Domain Study</title>
+      <link>/publication/lrec-2020-cdsa/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lrec-2020-cdsa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Leveraging Cognitive Features for Sentiment Analysis</title>

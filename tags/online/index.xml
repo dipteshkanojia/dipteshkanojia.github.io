@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>online on Kanojia, Diptesh</title>
+    <link>/tags/online/</link>
+    <description>Recent content in online on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/online/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Introduction to the Textual History Tool</title>
+      <link>/publication/iscls-2019-tht/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/iscls-2019-tht/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

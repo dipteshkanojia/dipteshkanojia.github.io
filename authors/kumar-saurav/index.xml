@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kumar Saurav on Kanojia, Diptesh</title>
+    <link>/authors/kumar-saurav/</link>
+    <description>Recent content in Kumar Saurav on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/kumar-saurav/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&#34;A Passage to India&#34;: Pre-trained Word Embeddings for Indian Languages</title>
+      <link>/publication/lrec-2020-embeddings/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lrec-2020-embeddings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

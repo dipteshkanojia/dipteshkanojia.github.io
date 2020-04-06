@@ -6,10 +6,64 @@
     <description>Recent content in Malhar Kulkarni on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/malhar-kulkarni/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Challenge Datasets of Cognate and False Friend Pairs for Indian Languages</title>
+      <link>/publication/lrec-2020-cognate/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lrec-2020-cognate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategies of Effective Digitization of Commentaries and Sub-commentaries: Towards the Construction of Textual History</title>
+      <link>/publication/sssu-2020-commentaries/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sssu-2020-commentaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Keep Your Dimensions on a Leash&#34;: True Cognate Detection using Siamese Deep Neural Networks</title>
+      <link>/publication/cods-2020-cognate/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cods-2020-cognate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harnessing Deep Cross-lingual Word Embeddings to Infer Accurate Phylogenetic Trees</title>
+      <link>/publication/cods-2020-typological/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cods-2020-typological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Word Embeddings based Features for Phylogenetic Tree Generation of Sanskrit Texts</title>
+      <link>/publication/iscls-2019-embeddings/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/iscls-2019-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to the Textual History Tool</title>
+      <link>/publication/iscls-2019-tht/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/iscls-2019-tht/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IndoWordNet: Hindi, Marathi, Sanskrit Wordnets and their inclusion in CILI</title>

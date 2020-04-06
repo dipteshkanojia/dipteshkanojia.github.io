@@ -6,15 +6,24 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 05:30:00 +0530</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Investigations into the use of Distributed Semantics for Cognate Detection and Computational Phylogenetics</title>
+      <link>/talk/csirotalk/</link>
+      <pubDate>Fri, 03 Apr 2020 05:30:00 +0530</pubDate>
+      
+      <guid>/talk/csirotalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Natural Language Processing and its intersection with Data Science</title>
       <link>/talk/techfestalk/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 15 Dec 2018 13:00:00 +0530</pubDate>
       
       <guid>/talk/techfestalk/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>NLP Fundamentals at VIVA IET</title>
       <link>/talk/vivatalk/</link>
-      <pubDate>Mon, 20 Jun 2016 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 20 Jun 2016 09:00:00 +0530</pubDate>
       
       <guid>/talk/vivatalk/</guid>
       <description></description>
