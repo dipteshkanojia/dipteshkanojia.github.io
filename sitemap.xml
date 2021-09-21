@@ -1,45 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-04-03T05:30:00+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/diptesh-kanojia/</loc>
-    <lastmod>2020-04-03T05:30:00+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/csirotalk/</loc>
-    <lastmod>2020-04-03T05:30:00+05:30</lastmod>
+    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-04-03T05:30:00+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2020-04-03T05:30:00+05:30</lastmod>
+    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-04-03T05:30:00+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/talks/</loc>
-    <lastmod>2020-04-03T05:30:00+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
   <url>
@@ -50,19 +45,16 @@
   <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/aditya-joshi/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/akash-sheoran/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -71,33 +63,68 @@
   </url>
   
   <url>
+    <loc>/tags/cognate-dataset/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cognate-detection/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cross-domain-sentiment-analysis/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cross-lingual-word-embeddings/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/embeddings/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/false-friends-dataset/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/false-friends-detection/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/gholamreza-haffari/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/indian-language-embeddings/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/kumar-saunack/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/kumar-saurav/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/malhar-kulkarni/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -108,7 +135,6 @@
   <url>
     <loc>/authors/pushpak-bhattacharyya/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -117,93 +143,48 @@
   </url>
   
   <url>
-    <loc>/tags/cognate-dataset/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cognate-detection/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cross-domain-sentiment-analysis/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cross-lingual-word-embeddings/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/embeddings/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/false-friends-dataset/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/false-friends-detection/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/indian-language-embeddings/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/resource/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/sentiment-analysis/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/source-domain-selection/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/theoretical/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/word-embeddings/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/commentaries/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/eivind-kahrs/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetics/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/sayali-ghodekar/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -212,21 +193,8 @@
   </url>
   
   <url>
-    <loc>/tags/commentaries/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/phylogenetics/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/textual-history/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -240,45 +208,38 @@
   </url>
   
   <url>
-    <loc>/authors/sravan-munukutla/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/yashasvi-mantha/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/indian-languages/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/siamese-networks/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sravan-munukutla/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/typological-trees/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yashasvi-mantha/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/abhijeet-dubey/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/reza-haffari/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -289,11 +250,20 @@
   <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/iscls-2019-tht/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/api/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/implementation/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -305,25 +275,36 @@
   <url>
     <loc>/authors/irawati-kulkarni/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jaya-saraswati/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/kevin-patel/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mapping/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/nilesh-joshi/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/online/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tool/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -332,39 +313,8 @@
   </url>
   
   <url>
-    <loc>/tags/api/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/implementation/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mapping/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/online/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tool/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/wordnets/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -375,7 +325,16 @@
   <url>
     <loc>/authors/gholemreza-haffari/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/linguistics/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sanskrit/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -386,36 +345,31 @@
   <url>
     <loc>/authors/swaraja-salaskar/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/linguistics/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/sanskrit/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/word-sense-disambiguation/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/talk/techfestalk/</loc>
-    <lastmod>2018-12-15T13:00:00+05:30</lastmod>
+    <lastmod>2018-12-15T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/abhijit-mishra/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/application/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/essay-grading/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -424,9 +378,18 @@
   </url>
   
   <url>
+    <loc>/tags/gaze-tracking/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/hanumant-redkar/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hindi/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -442,13 +405,11 @@
   <url>
     <loc>/authors/jayashree-gajjam/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/laxmi-kashyap/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -459,41 +420,45 @@
   <url>
     <loc>/authors/preethi-jyothi/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/panjwani-2018-pyiwn/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/rajita-shukla/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/ritesh-panjwani/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/samarth-agarwal/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sandeep-mathias/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sandhya-singh/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/patel-2018-semi/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/speech-synthesis/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -503,44 +468,8 @@
   </url>
   
   <url>
-    <loc>/tags/application/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/essay-grading/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/gaze-tracking/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hindi/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/panjwani-2018-pyiwn/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/speech-synthesis/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/teaching/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -551,13 +480,21 @@
   <url>
     <loc>/authors/kuntal-dey/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/nikhil-wani/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/prediction/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sarcasm-detection/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -573,83 +510,66 @@
   <url>
     <loc>/authors/seema-nagar/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/prediction/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/sarcasm-detection/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/sop/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/talk/vivatalk/</loc>
-    <lastmod>2016-06-20T09:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/brahminet/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/hwnchromex/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/hindiwordnet/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/mwnchromex/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/marathiwordnet/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/swnchromex/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/sanskritwordnet/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+    <lastmod>2016-06-20T09:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/android/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/brahminet/</loc>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/extension/</loc>
-    <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/hindiwordnet/</loc>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/hwnchromex/</loc>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/marathiwordnet/</loc>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/mwnchromex/</loc>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sanskritwordnet/</loc>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/swnchromex/</loc>
+    <lastmod>2016-04-27T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -660,11 +580,20 @@
   <url>
     <loc>/authors/aaditya-joshi/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bilingual/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/kanojia-2016-civique/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/emergency-detection/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -674,19 +603,27 @@
   </url>
   
   <url>
+    <loc>/tags/images/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/jaya-jha/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/krithi-ramamritham/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/mishra-2016-leveraging/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-translation/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -698,7 +635,6 @@
   <url>
     <loc>/authors/meghna-singh/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -709,23 +645,30 @@
   <url>
     <loc>/authors/pushpak-bhattarcharyya/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/raj-dabre/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/shehzaad-dhuliawala/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/slang/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/dhuliawala-2016-slangnet/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social-media/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -740,81 +683,43 @@
   </url>
   
   <url>
-    <loc>/authors/vishwajeet-kumar/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/bilingual/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/emergency-detection/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/images/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-translation/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/slang/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/social-media/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/topic-models/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/understandability/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/vishwajeet-kumar/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chat/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/hanumant-harichandra-redkar/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/mark-j.-carman/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/naman-gupta/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sudha-baban-bhingardive/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -833,15 +738,13 @@
   </url>
   
   <url>
-    <loc>/tags/chat/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/authors/apurva-s-nagvenkar/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/apurva-s-nagvenkar/</loc>
+    <loc>/tags/corpus-management/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -852,19 +755,16 @@
   <url>
     <loc>/authors/jd-pawar/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/manish-shrivastava/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/neha-r-prabhugaonkar/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -880,13 +780,6 @@
   <url>
     <loc>/authors/siddhartha-gunti/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/corpus-management/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -897,7 +790,6 @@
   <url>
     <loc>/authors/salil-joshi/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -908,13 +800,16 @@
   <url>
     <loc>/authors/akhlesh-kumar-meena/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/applciation/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/arindam-chatterjee/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -923,18 +818,11 @@
   </url>
   
   <url>
-    <loc>/tags/applciation/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

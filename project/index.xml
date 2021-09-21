@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>BrahmiNet - Android</title>
       <link>/project/brahminet/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/project/brahminet/</guid>
       <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
@@ -22,18 +22,9 @@
     </item>
     
     <item>
-      <title>HWN Chrome Browser Extension</title>
-      <link>/project/hwnchromex/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>/project/hwnchromex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hindi Wordnet - Android</title>
       <link>/project/hindiwordnet/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/project/hindiwordnet/</guid>
       <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
@@ -41,18 +32,18 @@
     </item>
     
     <item>
-      <title>MWN Chrome Browser Extension</title>
-      <link>/project/mwnchromex/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      <title>HWN Chrome Browser Extension</title>
+      <link>/project/hwnchromex/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/mwnchromex/</guid>
+      <guid>/project/hwnchromex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marathi Wordnet - Android</title>
       <link>/project/marathiwordnet/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/project/marathiwordnet/</guid>
       <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
@@ -60,22 +51,31 @@
     </item>
     
     <item>
-      <title>SWN Chrome Browser Extension</title>
-      <link>/project/swnchromex/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      <title>MWN Chrome Browser Extension</title>
+      <link>/project/mwnchromex/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/swnchromex/</guid>
+      <guid>/project/mwnchromex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sanskrit Wordnet - Android</title>
       <link>/project/sanskritwordnet/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/project/sanskritwordnet/</guid>
       <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>SWN Chrome Browser Extension</title>
+      <link>/project/swnchromex/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/swnchromex/</guid>
+      <description></description>
     </item>
     
   </channel>
