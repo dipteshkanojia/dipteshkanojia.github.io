@@ -6,10 +6,19 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2020 05:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Dec 2020 10:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unsupervised Neural Machine Translation</title>
+      <link>/talk/icontutorial-2020/</link>
+      <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
+      
+      <guid>/talk/icontutorial-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Investigations into the use of Distributed Semantics for Cognate Detection and Computational Phylogenetics</title>

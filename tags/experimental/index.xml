@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>experimental on Kanojia, Diptesh</title>
+    <link>/tags/experimental/</link>
+    <description>Recent content in experimental on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/experimental/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cognition-aware Cognate Detection</title>
+      <link>/publication/eacl-2021-cognate/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/eacl-2021-cognate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitively Aided Zero-Shot Automatic Essay Grading</title>
+      <link>/publication/icon-2020-aeg/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/icon-2020-aeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour</title>
+      <link>/publication/aacl-2020-aeg/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/aacl-2020-aeg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

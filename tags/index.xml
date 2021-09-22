@@ -6,10 +6,172 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2020 05:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>deep learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>framenet</title>
+      <link>/tags/framenet/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/framenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noun-compound</title>
+      <link>/tags/noun-compound/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/noun-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theoretical</title>
+      <link>/tags/theoretical/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/theoretical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognate detection</title>
+      <link>/tags/cognate-detection/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cognate-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-lingual</title>
+      <link>/tags/cross-lingual/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cross-lingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experimental</title>
+      <link>/tags/experimental/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaze tracking</title>
+      <link>/tags/gaze-tracking/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gaze-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine translation</title>
+      <link>/tags/machine-translation/</link>
+      <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
+      
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unsupervised</title>
+      <link>/tags/unsupervised/</link>
+      <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
+      
+      <guid>/tags/unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automatic essay grading</title>
+      <link>/tags/automatic-essay-grading/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/automatic-essay-grading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-tasking</title>
+      <link>/tags/multi-tasking/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multi-tasking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey</title>
+      <link>/tags/survey/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zero-shot</title>
+      <link>/tags/zero-shot/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/zero-shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distributional semantics</title>
+      <link>/tags/distributional-semantics/</link>
+      <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
+      
+      <guid>/tags/distributional-semantics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantics</title>
+      <link>/tags/semantics/</link>
+      <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
+      
+      <guid>/tags/semantics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>talks</title>
@@ -26,15 +188,6 @@
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/cognate-dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cognate detection</title>
-      <link>/tags/cognate-detection/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cognate-detection/</guid>
       <description></description>
     </item>
     
@@ -116,15 +269,6 @@
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/source-domain-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>theoretical</title>
-      <link>/tags/theoretical/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/theoretical/</guid>
       <description></description>
     </item>
     
@@ -291,15 +435,6 @@
     </item>
     
     <item>
-      <title>gaze tracking</title>
-      <link>/tags/gaze-tracking/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gaze-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hindi</title>
       <link>/tags/hindi/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -395,15 +530,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/images/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine translation</title>
-      <link>/tags/machine-translation/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machine-translation/</guid>
       <description></description>
     </item>
     

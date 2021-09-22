@@ -3,12 +3,232 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/diptesh-kanojia/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/framenet/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/aclfind-2021-nci/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/girish-palshikar/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/girishkumar-ponkiya/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/noun-compound/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pushpak-bhattacharyya/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/theoretical/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cognate-detection/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/eacl-2021-cognate/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cross-lingual/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/experimental/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gaze-tracking/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gholamreza-haffari/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/malhar-kulkarni/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/prashant-sharma/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sayali-ghodekar/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jyotsana-khatri/</loc>
+    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-translation/</loc>
+    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rudra-murthy/</loc>
+    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tamali-banerjee/</loc>
+    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/unsupervised/</loc>
+    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/icontutorial-2020/</loc>
+    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/coling-2020-cognate/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/raj-dabre/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shubham-dewangan/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ijcai-2020-gazesurvey/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhijit-mishra/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/automatic-essay-grading/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/icon-2020-aeg/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/aacl-2020-aeg/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-tasking/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sandeep-mathias/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/survey/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/zero-shot/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/distributional-semantics/</loc>
     <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
@@ -18,17 +238,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/tags/semantics/</loc>
     <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
@@ -39,11 +249,6 @@
   
   <url>
     <loc>/publication/lrec-2020-embeddings/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,11 +269,6 @@
   
   <url>
     <loc>/tags/cognate-dataset/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cognate-detection/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,11 +298,6 @@
   </url>
   
   <url>
-    <loc>/authors/gholamreza-haffari/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/indian-language-embeddings/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -114,26 +309,6 @@
   
   <url>
     <loc>/authors/kumar-saurav/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/malhar-kulkarni/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/pushpak-bhattacharyya/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,11 +333,6 @@
   </url>
   
   <url>
-    <loc>/tags/theoretical/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/word-embeddings/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -179,11 +349,6 @@
   
   <url>
     <loc>/tags/phylogenetics/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sayali-ghodekar/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -234,11 +399,6 @@
   
   <url>
     <loc>/authors/abhijeet-dubey/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/reza-haffari/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -358,11 +518,6 @@
   </url>
   
   <url>
-    <loc>/authors/abhijit-mishra/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/application/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -374,11 +529,6 @@
   
   <url>
     <loc>/publication/mathias-2018-eyes/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gaze-tracking/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -439,11 +589,6 @@
   
   <url>
     <loc>/authors/samarth-agarwal/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sandeep-mathias/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -623,11 +768,6 @@
   </url>
   
   <url>
-    <loc>/tags/machine-translation/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/singh-2016-mapping/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -644,11 +784,6 @@
   
   <url>
     <loc>/authors/pushpak-bhattarcharyya/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/raj-dabre/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   

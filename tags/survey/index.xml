@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survey on Kanojia, Diptesh</title>
+    <link>/tags/survey/</link>
+    <description>Recent content in survey on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Survey on Using Gaze Behaviour for Natural Language Processing</title>
+      <link>/publication/ijcai-2020-gazesurvey/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ijcai-2020-gazesurvey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
