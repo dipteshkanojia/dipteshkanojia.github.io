@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tharindu Ranasinghe on Kanojia, Diptesh</title>
+    <link>/authors/tharindu-ranasinghe/</link>
+    <description>Recent content in Tharindu Ranasinghe on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/tharindu-ranasinghe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation</title>
+      <link>/publication/wmt-2021-qeeval/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wmt-2021-qeeval/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

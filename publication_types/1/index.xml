@@ -6,10 +6,28 @@
     <description>Recent content in 1 on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&#39;So You Think You’re Funny?&#39;: Rating the Humour Quotient in Standup Comedy</title>
+      <link>/publication/emnlp-2021-standup/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/emnlp-2021-standup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation</title>
+      <link>/publication/wmt-2021-qeeval/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wmt-2021-qeeval/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FrameNet-assisted Noun Compound Interpretation</title>

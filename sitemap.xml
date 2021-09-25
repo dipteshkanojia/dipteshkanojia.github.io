@@ -3,22 +3,147 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication/emnlp-2021-standup/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anirudh-mittal/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <loc>/tags/computational-humour/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/constantin-or-asan/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dataset/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/diptesh-kanojia/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/empirical/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/evaluation/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/frederic-blain/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lucia-specia/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-translation/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/marina-fomicheva/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multimodal/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/perturbations/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pranav-jeevan/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/prerak-gandhi/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wmt-2021-qeeval/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pushpak-bhattacharyya/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quality-estimation/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rating-humour/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/standup-comedy/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tharindu-ranasinghe/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,32 +168,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/noun-compound/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/pushpak-bhattacharyya/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -124,11 +224,6 @@
   
   <url>
     <loc>/authors/jyotsana-khatri/</loc>
-    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-translation/</loc>
     <lastmod>2020-12-18T10:00:00+00:00</lastmod>
   </url>
   
@@ -724,11 +819,6 @@
   
   <url>
     <loc>/tags/emergency-detection/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/empirical/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   

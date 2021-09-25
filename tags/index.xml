@@ -6,10 +6,100 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>computational humour</title>
+      <link>/tags/computational-humour/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computational-humour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dataset</title>
+      <link>/tags/dataset/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>empirical</title>
+      <link>/tags/empirical/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evaluation</title>
+      <link>/tags/evaluation/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine translation</title>
+      <link>/tags/machine-translation/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal</title>
+      <link>/tags/multimodal/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perturbations</title>
+      <link>/tags/perturbations/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/perturbations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quality estimation</title>
+      <link>/tags/quality-estimation/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quality-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rating humour</title>
+      <link>/tags/rating-humour/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rating-humour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>standup comedy</title>
+      <link>/tags/standup-comedy/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/standup-comedy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>deep learning</title>
@@ -80,15 +170,6 @@
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/gaze-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine translation</title>
-      <link>/tags/machine-translation/</link>
-      <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
-      
-      <guid>/tags/machine-translation/</guid>
       <description></description>
     </item>
     
@@ -521,15 +602,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/emergency-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>empirical</title>
-      <link>/tags/empirical/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/empirical/</guid>
       <description></description>
     </item>
     
