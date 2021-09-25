@@ -336,29 +336,11 @@
     </item>
     
     <item>
-      <title>api</title>
-      <link>/tags/api/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>implementation</title>
       <link>/tags/implementation/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/implementation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mapping</title>
-      <link>/tags/mapping/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mapping/</guid>
       <description></description>
     </item>
     
@@ -417,6 +399,15 @@
     </item>
     
     <item>
+      <title>api</title>
+      <link>/tags/api/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>application</title>
       <link>/tags/application/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -440,6 +431,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/hindi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mapping</title>
+      <link>/tags/mapping/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mapping/</guid>
       <description></description>
     </item>
     
@@ -525,6 +525,15 @@
     </item>
     
     <item>
+      <title>empirical</title>
+      <link>/tags/empirical/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>images</title>
       <link>/tags/images/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -579,11 +588,47 @@
     </item>
     
     <item>
+      <title>demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>competition</title>
+      <link>/tags/competition/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>corpus management</title>
       <link>/tags/corpus-management/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/corpus-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shared task</title>
+      <link>/tags/shared-task/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shared-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>winner</title>
+      <link>/tags/winner/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/winner/</guid>
       <description></description>
     </item>
     

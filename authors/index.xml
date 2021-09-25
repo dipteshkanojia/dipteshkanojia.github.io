@@ -228,15 +228,6 @@
     </item>
     
     <item>
-      <title>Jaya Saraswati</title>
-      <link>/authors/jaya-saraswati/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/jaya-saraswati/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kevin Patel</title>
       <link>/authors/kevin-patel/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
@@ -269,6 +260,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/hanumant-redkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaya Saraswati</title>
+      <link>/authors/jaya-saraswati/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jaya-saraswati/</guid>
       <description></description>
     </item>
     
@@ -390,6 +390,15 @@
     </item>
     
     <item>
+      <title>Mark J. Carman</title>
+      <link>/authors/mark-j.-carman/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mark-j.-carman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Meghna Singh</title>
       <link>/authors/meghna-singh/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -435,15 +444,6 @@
     </item>
     
     <item>
-      <title>Mark J. Carman</title>
-      <link>/authors/mark-j.-carman/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mark-j.-carman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Naman Gupta</title>
       <link>/authors/naman-gupta/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -471,11 +471,11 @@
     </item>
     
     <item>
-      <title>JD Pawar</title>
-      <link>/authors/jd-pawar/</link>
+      <title>Jyoti D. Pawar</title>
+      <link>/authors/jyoti-d.-pawar/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/authors/jd-pawar/</guid>
+      <guid>/authors/jyoti-d.-pawar/</guid>
       <description></description>
     </item>
     

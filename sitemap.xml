@@ -408,17 +408,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/iscls-2019-tht/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/api/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -428,27 +418,12 @@
   </url>
   
   <url>
-    <loc>/publication/lilt-2019-hmswn/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/irawati-kulkarni/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jaya-saraswati/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/kevin-patel/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mapping/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -513,6 +488,11 @@
   </url>
   
   <url>
+    <loc>/tags/api/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/application/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -548,12 +528,22 @@
   </url>
   
   <url>
+    <loc>/authors/jaya-saraswati/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/jayashree-gajjam/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/laxmi-kashyap/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mapping/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -738,6 +728,11 @@
   </url>
   
   <url>
+    <loc>/tags/empirical/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/mishra-2016-harnessing/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -764,6 +759,11 @@
   
   <url>
     <loc>/publication/singh-2016-mapping/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-j.-carman/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -833,12 +833,12 @@
   </url>
   
   <url>
-    <loc>/authors/hanumant-harichandra-redkar/</loc>
+    <loc>/tags/demo/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/mark-j.-carman/</loc>
+    <loc>/authors/hanumant-harichandra-redkar/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -873,6 +873,11 @@
   </url>
   
   <url>
+    <loc>/tags/competition/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/corpus-management/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -883,7 +888,7 @@
   </url>
   
   <url>
-    <loc>/authors/jd-pawar/</loc>
+    <loc>/authors/jyoti-d.-pawar/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -908,7 +913,17 @@
   </url>
   
   <url>
+    <loc>/tags/shared-task/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/siddhartha-gunti/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/winner/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
