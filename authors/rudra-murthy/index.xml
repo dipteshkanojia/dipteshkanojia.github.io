@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rudra Murthy on Kanojia, Diptesh</title>
-    <link>/authors/rudra-murthy/</link>
+    <link>https://dipteshkanojia.github.io/authors/rudra-murthy/</link>
     <description>Recent content in Rudra Murthy on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Dec 2020 10:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/rudra-murthy/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/authors/rudra-murthy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unsupervised Neural Machine Translation</title>
-      <link>/talk/icontutorial-2020/</link>
+      <link>https://dipteshkanojia.github.io/talk/icontutorial-2020/</link>
       <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
       
-      <guid>/talk/icontutorial-2020/</guid>
+      <guid>https://dipteshkanojia.github.io/talk/icontutorial-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitively Aided Zero-Shot Automatic Essay Grading</title>
-      <link>/publication/icon-2020-aeg/</link>
+      <link>https://dipteshkanojia.github.io/publication/icon-2020-aeg/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/icon-2020-aeg/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/icon-2020-aeg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour</title>
-      <link>/publication/aacl-2020-aeg/</link>
+      <link>https://dipteshkanojia.github.io/publication/aacl-2020-aeg/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/aacl-2020-aeg/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/aacl-2020-aeg/</guid>
       <description></description>
     </item>
     

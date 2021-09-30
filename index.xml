@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kanojia, Diptesh</title>
-    <link>/</link>
+    <link>https://dipteshkanojia.github.io/</link>
     <description>Recent content on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://dipteshkanojia.github.io/publication/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://dipteshkanojia.github.io/talk/</link>
       <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>https://dipteshkanojia.github.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://dipteshkanojia.github.io/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/</guid>
+      <guid>https://dipteshkanojia.github.io/project/</guid>
       <description></description>
     </item>
     

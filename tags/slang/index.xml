@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>slang on Kanojia, Diptesh</title>
-    <link>/tags/slang/</link>
+    <link>https://dipteshkanojia.github.io/tags/slang/</link>
     <description>Recent content in slang on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/slang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/tags/slang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SlangNet: A WordNet like resource for English Slang</title>
-      <link>/publication/dhuliawala-2016-slangnet/</link>
+      <link>https://dipteshkanojia.github.io/publication/dhuliawala-2016-slangnet/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/dhuliawala-2016-slangnet/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/dhuliawala-2016-slangnet/</guid>
       <description></description>
     </item>
     

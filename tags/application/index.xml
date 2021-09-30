@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>application on Kanojia, Diptesh</title>
-    <link>/tags/application/</link>
+    <link>https://dipteshkanojia.github.io/tags/application/</link>
     <description>Recent content in application on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/application/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/tags/application/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>pyiwn: A Python-based API to access Indian Language WordNets</title>
-      <link>/publication/panjwani-2018-pyiwn/</link>
+      <link>https://dipteshkanojia.github.io/publication/panjwani-2018-pyiwn/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/panjwani-2018-pyiwn/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/panjwani-2018-pyiwn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesizing Audio for Hindi Wordnet</title>
-      <link>/publication/kanojia-2018-synthesizing/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2018-synthesizing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2018-synthesizing/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2018-synthesizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is your Statement Purposeless? Predicting Computer Science Graduation Admission Acceptance based on Statement Of Purpose</title>
-      <link>/publication/kanojia-2017-your/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2017-your/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2017-your/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2017-your/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sarcasm Suite: A browser-based engine for sarcasm detection and generation</title>
-      <link>/publication/joshi-2017-sarcasm/</link>
+      <link>https://dipteshkanojia.github.io/publication/joshi-2017-sarcasm/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/joshi-2017-sarcasm/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/joshi-2017-sarcasm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A picture is worth a thousand words: Using OpenClipArt library for enriching IndoWordNet</title>
-      <link>/publication/kanojia-2016-picture/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2016-picture/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2016-picture/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2016-picture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Civique: Using Social Media to detect Urban Emergencies</title>
-      <link>/publication/kanojia-2016-civique/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2016-civique/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2016-civique/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2016-civique/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sophisticated Lexical Databases - Simplified Usage: Mobile Applications and Browser Plugins For Wordnets</title>
-      <link>/publication/kanojia-2016-sophisticated/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2016-sophisticated/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2016-sophisticated/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2016-sophisticated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>That’ll do fine!: A coarse lexical resource for English-Hindi MT, using polylingual topic models</title>
-      <link>/publication/kanojia-2016-ll/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2016-ll/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2016-ll/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2016-ll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TransChat: Cross-Lingual Instant Messaging for Indian Languages</title>
-      <link>/publication/kanojia-2015-transchat/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2015-transchat/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2015-transchat/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2015-transchat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using multilingual topic models for improved alignment in English-Hindi MT</title>
-      <link>/publication/kanojia-2015-using/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2015-using/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2015-using/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2015-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>World WordNet database structure: an efficient schema for storing information of WordNets of the world</title>
-      <link>/publication/redkar-2015-world/</link>
+      <link>https://dipteshkanojia.github.io/publication/redkar-2015-world/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/redkar-2015-world/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/redkar-2015-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaCMan: Parallel Corpus Management Workbench</title>
-      <link>/publication/kanojia-2014-pacman/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2014-pacman/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2014-pacman/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2014-pacman/</guid>
       <description></description>
     </item>
     

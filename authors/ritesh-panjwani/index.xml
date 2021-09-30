@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ritesh Panjwani on Kanojia, Diptesh</title>
-    <link>/authors/ritesh-panjwani/</link>
+    <link>https://dipteshkanojia.github.io/authors/ritesh-panjwani/</link>
     <description>Recent content in Ritesh Panjwani on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/ritesh-panjwani/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/authors/ritesh-panjwani/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>pyiwn: A Python-based API to access Indian Language WordNets</title>
-      <link>/publication/panjwani-2018-pyiwn/</link>
+      <link>https://dipteshkanojia.github.io/publication/panjwani-2018-pyiwn/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/panjwani-2018-pyiwn/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/panjwani-2018-pyiwn/</guid>
       <description></description>
     </item>
     

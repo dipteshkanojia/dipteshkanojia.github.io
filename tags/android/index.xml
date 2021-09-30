@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>android on Kanojia, Diptesh</title>
-    <link>/tags/android/</link>
+    <link>https://dipteshkanojia.github.io/tags/android/</link>
     <description>Recent content in android on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
-	    <atom:link href="/tags/android/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BrahmiNet - Android</title>
-      <link>/project/brahminet/</link>
+      <link>https://dipteshkanojia.github.io/project/brahminet/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/brahminet/</guid>
+      <guid>https://dipteshkanojia.github.io/project/brahminet/</guid>
       <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hindi Wordnet - Android</title>
-      <link>/project/hindiwordnet/</link>
+      <link>https://dipteshkanojia.github.io/project/hindiwordnet/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/hindiwordnet/</guid>
+      <guid>https://dipteshkanojia.github.io/project/hindiwordnet/</guid>
       <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Marathi Wordnet - Android</title>
-      <link>/project/marathiwordnet/</link>
+      <link>https://dipteshkanojia.github.io/project/marathiwordnet/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/marathiwordnet/</guid>
+      <guid>https://dipteshkanojia.github.io/project/marathiwordnet/</guid>
       <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sanskrit Wordnet - Android</title>
-      <link>/project/sanskritwordnet/</link>
+      <link>https://dipteshkanojia.github.io/project/sanskritwordnet/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/sanskritwordnet/</guid>
+      <guid>https://dipteshkanojia.github.io/project/sanskritwordnet/</guid>
       <description>&lt;p&gt;One of my first few projects in Android development. I created and hosted a webview based Android application.&lt;/p&gt;
 </description>
     </item>

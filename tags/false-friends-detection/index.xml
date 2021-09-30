@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>false friends detection on Kanojia, Diptesh</title>
-    <link>/tags/false-friends-detection/</link>
+    <link>https://dipteshkanojia.github.io/tags/false-friends-detection/</link>
     <description>Recent content in false friends detection on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/false-friends-detection/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/tags/false-friends-detection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Challenge Datasets of Cognate and False Friend Pairs for Indian Languages</title>
-      <link>/publication/lrec-2020-cognate/</link>
+      <link>https://dipteshkanojia.github.io/publication/lrec-2020-cognate/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lrec-2020-cognate/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/lrec-2020-cognate/</guid>
       <description></description>
     </item>
     

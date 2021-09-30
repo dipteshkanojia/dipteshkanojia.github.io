@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kumar Saunack on Kanojia, Diptesh</title>
-    <link>/authors/kumar-saunack/</link>
+    <link>https://dipteshkanojia.github.io/authors/kumar-saunack/</link>
     <description>Recent content in Kumar Saunack on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/kumar-saunack/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/authors/kumar-saunack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>&#34;A Passage to India&#34;: Pre-trained Word Embeddings for Indian Languages</title>
-      <link>/publication/lrec-2020-embeddings/</link>
+      <link>https://dipteshkanojia.github.io/publication/lrec-2020-embeddings/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lrec-2020-embeddings/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/lrec-2020-embeddings/</guid>
       <description></description>
     </item>
     

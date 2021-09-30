@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sentiment analysis on Kanojia, Diptesh</title>
-    <link>/tags/sentiment-analysis/</link>
+    <link>https://dipteshkanojia.github.io/tags/sentiment-analysis/</link>
     <description>Recent content in sentiment analysis on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recommendation Chart of Domains for Cross-Domain Sentiment Analysis: Findings of A 20 Domain Study</title>
-      <link>/publication/lrec-2020-cdsa/</link>
+      <link>https://dipteshkanojia.github.io/publication/lrec-2020-cdsa/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lrec-2020-cdsa/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/lrec-2020-cdsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging Cognitive Features for Sentiment Analysis</title>
-      <link>/publication/mishra-2016-leveraging/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2016-leveraging/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2016-leveraging/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-leveraging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Readers&#39; Sarcasm Understandability by Modeling Gaze Behavior</title>
-      <link>/publication/mishra-2016-predicting/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2016-predicting/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2016-predicting/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-predicting/</guid>
       <description></description>
     </item>
     

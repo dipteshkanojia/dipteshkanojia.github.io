@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>competition on Kanojia, Diptesh</title>
-    <link>/tags/competition/</link>
+    <link>https://dipteshkanojia.github.io/tags/competition/</link>
     <description>Recent content in competition on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/competition/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/tags/competition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PanchBhoota: Hierarchical phrase based machine translation systems for five Indian languages</title>
-      <link>/publication/prabhugaonkar-2014-panchbhoota/</link>
+      <link>https://dipteshkanojia.github.io/publication/prabhugaonkar-2014-panchbhoota/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/prabhugaonkar-2014-panchbhoota/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/prabhugaonkar-2014-panchbhoota/</guid>
       <description></description>
     </item>
     

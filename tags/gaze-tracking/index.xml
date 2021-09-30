@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gaze tracking on Kanojia, Diptesh</title>
-    <link>/tags/gaze-tracking/</link>
+    <link>https://dipteshkanojia.github.io/tags/gaze-tracking/</link>
     <description>Recent content in gaze tracking on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/gaze-tracking/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/tags/gaze-tracking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cognition-aware Cognate Detection</title>
-      <link>/publication/eacl-2021-cognate/</link>
+      <link>https://dipteshkanojia.github.io/publication/eacl-2021-cognate/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/eacl-2021-cognate/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/eacl-2021-cognate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Survey on Using Gaze Behaviour for Natural Language Processing</title>
-      <link>/publication/ijcai-2020-gazesurvey/</link>
+      <link>https://dipteshkanojia.github.io/publication/ijcai-2020-gazesurvey/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ijcai-2020-gazesurvey/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/ijcai-2020-gazesurvey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitively Aided Zero-Shot Automatic Essay Grading</title>
-      <link>/publication/icon-2020-aeg/</link>
+      <link>https://dipteshkanojia.github.io/publication/icon-2020-aeg/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/icon-2020-aeg/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/icon-2020-aeg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour</title>
-      <link>/publication/aacl-2020-aeg/</link>
+      <link>https://dipteshkanojia.github.io/publication/aacl-2020-aeg/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/aacl-2020-aeg/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/aacl-2020-aeg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eyes are the Windows to the Soul: Predicting the Rating of Text Quality Using Gaze Behaviour</title>
-      <link>/publication/mathias-2018-eyes/</link>
+      <link>https://dipteshkanojia.github.io/publication/mathias-2018-eyes/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mathias-2018-eyes/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mathias-2018-eyes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Vistas to study Bhartṛhari: Cognitive NLP</title>
-      <link>/publication/gajjam-2018-new/</link>
+      <link>https://dipteshkanojia.github.io/publication/gajjam-2018-new/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/gajjam-2018-new/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/gajjam-2018-new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scanpath Complexity: Modeling Reading Effort using Gaze Information</title>
-      <link>/publication/mishra-2017-scanpath/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2017-scanpath/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2017-scanpath/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2017-scanpath/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harnessing Cognitive Features for Sarcasm Detection</title>
-      <link>/publication/mishra-2016-harnessing/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2016-harnessing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2016-harnessing/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-harnessing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging Cognitive Features for Sentiment Analysis</title>
-      <link>/publication/mishra-2016-leveraging/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2016-leveraging/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2016-leveraging/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-leveraging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Readers&#39; Sarcasm Understandability by Modeling Gaze Behavior</title>
-      <link>/publication/mishra-2016-predicting/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2016-predicting/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2016-predicting/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-predicting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More than meets the eye: Study of Human Cognition in Sense Annotation</title>
-      <link>/publication/joshi-2013-more/</link>
+      <link>https://dipteshkanojia.github.io/publication/joshi-2013-more/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/joshi-2013-more/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/joshi-2013-more/</guid>
       <description></description>
     </item>
     

@@ -2,372 +2,372 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pushpak Bhattacharyya on Kanojia, Diptesh</title>
-    <link>/authors/pushpak-bhattacharyya/</link>
+    <link>https://dipteshkanojia.github.io/authors/pushpak-bhattacharyya/</link>
     <description>Recent content in Pushpak Bhattacharyya on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/pushpak-bhattacharyya/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/authors/pushpak-bhattacharyya/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>&#39;So You Think You’re Funny?&#39;: Rating the Humour Quotient in Standup Comedy</title>
-      <link>/publication/emnlp-2021-standup/</link>
+      <link>https://dipteshkanojia.github.io/publication/emnlp-2021-standup/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/emnlp-2021-standup/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/emnlp-2021-standup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FrameNet-assisted Noun Compound Interpretation</title>
-      <link>/publication/aclfind-2021-nci/</link>
+      <link>https://dipteshkanojia.github.io/publication/aclfind-2021-nci/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/aclfind-2021-nci/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/aclfind-2021-nci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognition-aware Cognate Detection</title>
-      <link>/publication/eacl-2021-cognate/</link>
+      <link>https://dipteshkanojia.github.io/publication/eacl-2021-cognate/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/eacl-2021-cognate/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/eacl-2021-cognate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Neural Machine Translation</title>
-      <link>/talk/icontutorial-2020/</link>
+      <link>https://dipteshkanojia.github.io/talk/icontutorial-2020/</link>
       <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
       
-      <guid>/talk/icontutorial-2020/</guid>
+      <guid>https://dipteshkanojia.github.io/talk/icontutorial-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harnessing Cross-lingual Features to Improve Cognate Detection for Low-resource Languages</title>
-      <link>/publication/coling-2020-cognate/</link>
+      <link>https://dipteshkanojia.github.io/publication/coling-2020-cognate/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/coling-2020-cognate/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/coling-2020-cognate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Survey on Using Gaze Behaviour for Natural Language Processing</title>
-      <link>/publication/ijcai-2020-gazesurvey/</link>
+      <link>https://dipteshkanojia.github.io/publication/ijcai-2020-gazesurvey/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ijcai-2020-gazesurvey/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/ijcai-2020-gazesurvey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitively Aided Zero-Shot Automatic Essay Grading</title>
-      <link>/publication/icon-2020-aeg/</link>
+      <link>https://dipteshkanojia.github.io/publication/icon-2020-aeg/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/icon-2020-aeg/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/icon-2020-aeg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour</title>
-      <link>/publication/aacl-2020-aeg/</link>
+      <link>https://dipteshkanojia.github.io/publication/aacl-2020-aeg/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/aacl-2020-aeg/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/aacl-2020-aeg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#34;A Passage to India&#34;: Pre-trained Word Embeddings for Indian Languages</title>
-      <link>/publication/lrec-2020-embeddings/</link>
+      <link>https://dipteshkanojia.github.io/publication/lrec-2020-embeddings/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lrec-2020-embeddings/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/lrec-2020-embeddings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenge Datasets of Cognate and False Friend Pairs for Indian Languages</title>
-      <link>/publication/lrec-2020-cognate/</link>
+      <link>https://dipteshkanojia.github.io/publication/lrec-2020-cognate/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lrec-2020-cognate/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/lrec-2020-cognate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommendation Chart of Domains for Cross-Domain Sentiment Analysis: Findings of A 20 Domain Study</title>
-      <link>/publication/lrec-2020-cdsa/</link>
+      <link>https://dipteshkanojia.github.io/publication/lrec-2020-cdsa/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lrec-2020-cdsa/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/lrec-2020-cdsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategies of Effective Digitization of Commentaries and Sub-commentaries: Towards the Construction of Textual History</title>
-      <link>/publication/sssu-2020-commentaries/</link>
+      <link>https://dipteshkanojia.github.io/publication/sssu-2020-commentaries/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sssu-2020-commentaries/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/sssu-2020-commentaries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#34;Keep Your Dimensions on a Leash&#34;: True Cognate Detection using Siamese Deep Neural Networks</title>
-      <link>/publication/cods-2020-cognate/</link>
+      <link>https://dipteshkanojia.github.io/publication/cods-2020-cognate/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cods-2020-cognate/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/cods-2020-cognate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harnessing Deep Cross-lingual Word Embeddings to Infer Accurate Phylogenetic Trees</title>
-      <link>/publication/cods-2020-typological/</link>
+      <link>https://dipteshkanojia.github.io/publication/cods-2020-typological/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cods-2020-typological/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/cods-2020-typological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Utilizing Word Embeddings based Features for Phylogenetic Tree Generation of Sanskrit Texts</title>
-      <link>/publication/iscls-2019-embeddings/</link>
+      <link>https://dipteshkanojia.github.io/publication/iscls-2019-embeddings/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/iscls-2019-embeddings/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/iscls-2019-embeddings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Introduction to the Textual History Tool</title>
-      <link>/publication/iscls-2019-tht/</link>
+      <link>https://dipteshkanojia.github.io/publication/iscls-2019-tht/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/iscls-2019-tht/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/iscls-2019-tht/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Utilizing Wordnets for Cognate Detection among Indian Languages</title>
-      <link>/publication/gwc-2019-cognate/</link>
+      <link>https://dipteshkanojia.github.io/publication/gwc-2019-cognate/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/gwc-2019-cognate/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/gwc-2019-cognate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognate Identification to improve Phylogenetic trees for Indian Languages</title>
-      <link>/publication/kanojia-2019-cognate/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2019-cognate/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2019-cognate/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2019-cognate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eyes are the Windows to the Soul: Predicting the Rating of Text Quality Using Gaze Behaviour</title>
-      <link>/publication/mathias-2018-eyes/</link>
+      <link>https://dipteshkanojia.github.io/publication/mathias-2018-eyes/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mathias-2018-eyes/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mathias-2018-eyes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hindi Wordnet for Language Teaching: Experiences and Lessons Learnt</title>
-      <link>/publication/redkar-2018-hindi/</link>
+      <link>https://dipteshkanojia.github.io/publication/redkar-2018-hindi/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/redkar-2018-hindi/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/redkar-2018-hindi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indian Language Wordnets and their Linkages with Princeton WordNet</title>
-      <link>/publication/kanojia-2018-indian/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2018-indian/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2018-indian/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2018-indian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pyiwn: A Python-based API to access Indian Language WordNets</title>
-      <link>/publication/panjwani-2018-pyiwn/</link>
+      <link>https://dipteshkanojia.github.io/publication/panjwani-2018-pyiwn/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/panjwani-2018-pyiwn/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/panjwani-2018-pyiwn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-automatic WordNet Linking using Word Embeddings</title>
-      <link>/publication/patel-2018-semi/</link>
+      <link>https://dipteshkanojia.github.io/publication/patel-2018-semi/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/patel-2018-semi/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/patel-2018-semi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesizing Audio for Hindi Wordnet</title>
-      <link>/publication/kanojia-2018-synthesizing/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2018-synthesizing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2018-synthesizing/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2018-synthesizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is your Statement Purposeless? Predicting Computer Science Graduation Admission Acceptance based on Statement Of Purpose</title>
-      <link>/publication/kanojia-2017-your/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2017-your/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2017-your/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2017-your/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sarcasm Suite: A browser-based engine for sarcasm detection and generation</title>
-      <link>/publication/joshi-2017-sarcasm/</link>
+      <link>https://dipteshkanojia.github.io/publication/joshi-2017-sarcasm/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/joshi-2017-sarcasm/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/joshi-2017-sarcasm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scanpath Complexity: Modeling Reading Effort using Gaze Information</title>
-      <link>/publication/mishra-2017-scanpath/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2017-scanpath/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2017-scanpath/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2017-scanpath/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harnessing Cognitive Features for Sarcasm Detection</title>
-      <link>/publication/mishra-2016-harnessing/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2016-harnessing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2016-harnessing/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-harnessing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging Cognitive Features for Sentiment Analysis</title>
-      <link>/publication/mishra-2016-leveraging/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2016-leveraging/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2016-leveraging/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-leveraging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping it differently: A solution to the linking challenges</title>
-      <link>/publication/singh-2016-mapping/</link>
+      <link>https://dipteshkanojia.github.io/publication/singh-2016-mapping/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/singh-2016-mapping/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/singh-2016-mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Readers&#39; Sarcasm Understandability by Modeling Gaze Behavior</title>
-      <link>/publication/mishra-2016-predicting/</link>
+      <link>https://dipteshkanojia.github.io/publication/mishra-2016-predicting/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mishra-2016-predicting/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-predicting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SlangNet: A WordNet like resource for English Slang</title>
-      <link>/publication/dhuliawala-2016-slangnet/</link>
+      <link>https://dipteshkanojia.github.io/publication/dhuliawala-2016-slangnet/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/dhuliawala-2016-slangnet/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/dhuliawala-2016-slangnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>That’ll do fine!: A coarse lexical resource for English-Hindi MT, using polylingual topic models</title>
-      <link>/publication/kanojia-2016-ll/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2016-ll/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2016-ll/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2016-ll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>World WordNet database structure: an efficient schema for storing information of WordNets of the world</title>
-      <link>/publication/redkar-2015-world/</link>
+      <link>https://dipteshkanojia.github.io/publication/redkar-2015-world/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/redkar-2015-world/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/redkar-2015-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do not do processing, when you can look up: Towards a Discrimination Net for WSD</title>
-      <link>/publication/kanojia-2014-not/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2014-not/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2014-not/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2014-not/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaCMan: Parallel Corpus Management Workbench</title>
-      <link>/publication/kanojia-2014-pacman/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2014-pacman/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2014-pacman/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2014-pacman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PanchBhoota: Hierarchical phrase based machine translation systems for five Indian languages</title>
-      <link>/publication/prabhugaonkar-2014-panchbhoota/</link>
+      <link>https://dipteshkanojia.github.io/publication/prabhugaonkar-2014-panchbhoota/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/prabhugaonkar-2014-panchbhoota/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/prabhugaonkar-2014-panchbhoota/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More than meets the eye: Study of Human Cognition in Sense Annotation</title>
-      <link>/publication/joshi-2013-more/</link>
+      <link>https://dipteshkanojia.github.io/publication/joshi-2013-more/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/joshi-2013-more/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/joshi-2013-more/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Study of the Sense Annotation Process: Man v/s Machine.</title>
-      <link>/publication/chatterjee-2012-study/</link>
+      <link>https://dipteshkanojia.github.io/publication/chatterjee-2012-study/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/chatterjee-2012-study/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/chatterjee-2012-study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discrimination-net for Hindi</title>
-      <link>/publication/kanojia-2012-discrimination/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2012-discrimination/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2012-discrimination/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2012-discrimination/</guid>
       <description></description>
     </item>
     

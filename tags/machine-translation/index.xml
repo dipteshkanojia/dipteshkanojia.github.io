@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine translation on Kanojia, Diptesh</title>
-    <link>/tags/machine-translation/</link>
+    <link>https://dipteshkanojia.github.io/tags/machine-translation/</link>
     <description>Recent content in machine translation on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.github.io/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation</title>
-      <link>/publication/wmt-2021-qeeval/</link>
+      <link>https://dipteshkanojia.github.io/publication/wmt-2021-qeeval/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/wmt-2021-qeeval/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/wmt-2021-qeeval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Neural Machine Translation</title>
-      <link>/talk/icontutorial-2020/</link>
+      <link>https://dipteshkanojia.github.io/talk/icontutorial-2020/</link>
       <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
       
-      <guid>/talk/icontutorial-2020/</guid>
+      <guid>https://dipteshkanojia.github.io/talk/icontutorial-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harnessing Cross-lingual Features to Improve Cognate Detection for Low-resource Languages</title>
-      <link>/publication/coling-2020-cognate/</link>
+      <link>https://dipteshkanojia.github.io/publication/coling-2020-cognate/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/coling-2020-cognate/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/coling-2020-cognate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>That’ll do fine!: A coarse lexical resource for English-Hindi MT, using polylingual topic models</title>
-      <link>/publication/kanojia-2016-ll/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2016-ll/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2016-ll/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2016-ll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TransChat: Cross-Lingual Instant Messaging for Indian Languages</title>
-      <link>/publication/kanojia-2015-transchat/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2015-transchat/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2015-transchat/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2015-transchat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using multilingual topic models for improved alignment in English-Hindi MT</title>
-      <link>/publication/kanojia-2015-using/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2015-using/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2015-using/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2015-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaCMan: Parallel Corpus Management Workbench</title>
-      <link>/publication/kanojia-2014-pacman/</link>
+      <link>https://dipteshkanojia.github.io/publication/kanojia-2014-pacman/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kanojia-2014-pacman/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/kanojia-2014-pacman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PanchBhoota: Hierarchical phrase based machine translation systems for five Indian languages</title>
-      <link>/publication/prabhugaonkar-2014-panchbhoota/</link>
+      <link>https://dipteshkanojia.github.io/publication/prabhugaonkar-2014-panchbhoota/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/prabhugaonkar-2014-panchbhoota/</guid>
+      <guid>https://dipteshkanojia.github.io/publication/prabhugaonkar-2014-panchbhoota/</guid>
       <description></description>
     </item>
     
