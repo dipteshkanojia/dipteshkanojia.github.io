@@ -6,10 +6,19 @@
     <description>Recent content in Prashant Sharma on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/authors/prashant-sharma/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ensemble Approach to Acronym Extraction using Transformers</title>
+      <link>https://dipteshkanojia.github.io/publication/sdu-st-aaai-2022-acronym/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sdu-st-aaai-2022-acronym/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cognition-aware Cognate Detection</title>

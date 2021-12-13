@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>acronym extraction</title>
+      <link>https://dipteshkanojia.github.io/tags/acronym-extraction/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/acronym-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data analysis</title>
+      <link>https://dipteshkanojia.github.io/tags/data-analysis/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data augmentation</title>
+      <link>https://dipteshkanojia.github.io/tags/data-augmentation/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/data-augmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ensemble approach</title>
+      <link>https://dipteshkanojia.github.io/tags/ensemble-approach/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/ensemble-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shared task</title>
+      <link>https://dipteshkanojia.github.io/tags/shared-task/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/shared-task/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>evidence collection</title>
@@ -737,15 +782,6 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/corpus-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shared task</title>
-      <link>https://dipteshkanojia.github.io/tags/shared-task/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/shared-task/</guid>
       <description></description>
     </item>
     

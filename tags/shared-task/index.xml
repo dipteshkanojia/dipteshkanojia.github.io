@@ -6,10 +6,19 @@
     <description>Recent content in shared task on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/shared-task/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ensemble Approach to Acronym Extraction using Transformers</title>
+      <link>https://dipteshkanojia.github.io/publication/sdu-st-aaai-2022-acronym/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sdu-st-aaai-2022-acronym/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PanchBhoota: Hierarchical phrase based machine translation systems for five Indian languages</title>
