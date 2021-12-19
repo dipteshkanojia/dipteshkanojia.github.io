@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dipteshkanojia.github.io/authors/</loc>
+    <loc>https://dipteshkanojia.github.io/talk/msrintalk/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/cognate-detection/</loc>
+    <loc>https://dipteshkanojia.github.io/tags/adversarial-evaluation/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,27 +23,27 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/distributional-semantics/</loc>
-    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/talk/msrintalk/</loc>
+    <loc>https://dipteshkanojia.github.io/tags/machine-translation/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/probing-systems/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/quality-estimation/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dipteshkanojia.github.io/talk/</loc>
-    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/semantics/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,11 +193,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/machine-translation/</loc>
-    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/authors/marina-fomicheva/</loc>
     <lastmod>2021-09-24T00:00:00+00:00</lastmod>
   </url>
@@ -224,11 +224,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/authors/pushpak-bhattacharyya/</loc>
-    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/quality-estimation/</loc>
     <lastmod>2021-09-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -284,6 +279,11 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/best-paper-honourable-mention/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/cognate-detection/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -418,7 +418,17 @@
   </url>
   
   <url>
+    <loc>https://dipteshkanojia.github.io/tags/distributional-semantics/</loc>
+    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dipteshkanojia.github.io/talk/csirotalk/</loc>
+    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/semantics/</loc>
     <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
