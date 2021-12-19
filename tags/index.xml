@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cognate detection</title>
+      <link>https://dipteshkanojia.github.io/tags/cognate-detection/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/cognate-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distributional semantics</title>
+      <link>https://dipteshkanojia.github.io/tags/distributional-semantics/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/distributional-semantics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantics</title>
+      <link>https://dipteshkanojia.github.io/tags/semantics/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/semantics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://dipteshkanojia.github.io/tags/talks/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>acronym extraction</title>
@@ -228,15 +264,6 @@
     </item>
     
     <item>
-      <title>cognate detection</title>
-      <link>https://dipteshkanojia.github.io/tags/cognate-detection/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/cognate-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cross-lingual</title>
       <link>https://dipteshkanojia.github.io/tags/cross-lingual/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
@@ -323,33 +350,6 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/zero-shot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>distributional semantics</title>
-      <link>https://dipteshkanojia.github.io/tags/distributional-semantics/</link>
-      <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/distributional-semantics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>semantics</title>
-      <link>https://dipteshkanojia.github.io/tags/semantics/</link>
-      <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/semantics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>https://dipteshkanojia.github.io/tags/talks/</link>
-      <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://dipteshkanojia.github.io/talk/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -17,15 +26,6 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://dipteshkanojia.github.io/talk/</link>
-      <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/talk/</guid>
       <description></description>
     </item>
     

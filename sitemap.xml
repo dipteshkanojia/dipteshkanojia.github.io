@@ -3,17 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dipteshkanojia.github.io/authors/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/cognate-detection/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/diptesh-kanojia/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/distributional-semantics/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/msrintalk/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/semantics/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dipteshkanojia.github.io/publication_types/1/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/acronym-extraction/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/authors/diptesh-kanojia/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/ensemble-approach/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url>
@@ -49,11 +89,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/authors/hadeel-saadany/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,11 +114,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/shared-task/</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,11 +288,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/cognate-detection/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/publication/eacl-2021-cognate/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
   </url>
@@ -299,11 +324,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/authors/jyotsana-khatri/</loc>
-    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/talk/</loc>
     <lastmod>2020-12-18T10:00:00+00:00</lastmod>
   </url>
   
@@ -398,22 +418,7 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/distributional-semantics/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/talk/csirotalk/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/semantics/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
     <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
