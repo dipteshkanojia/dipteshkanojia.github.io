@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dipteshkanojia.github.io/talk/msrintalk/</loc>
-    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/adversarial-evaluation/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url>
@@ -39,6 +34,11 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/quality-estimation/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/msrintalk/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url>
   
