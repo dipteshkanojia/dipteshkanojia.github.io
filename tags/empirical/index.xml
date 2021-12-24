@@ -6,10 +6,19 @@
     <description>Recent content in empirical on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/empirical/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation</title>
+      <link>https://dipteshkanojia.github.io/publication/wmt-2021-qeeval/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/wmt-2021-qeeval/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&#39;So You Think You’re Funny?&#39;: Rating the Humour Quotient in Standup Comedy</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/publication/emnlp-2021-standup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation</title>
-      <link>https://dipteshkanojia.github.io/publication/wmt-2021-qeeval/</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/publication/wmt-2021-qeeval/</guid>
       <description></description>
     </item>
     
