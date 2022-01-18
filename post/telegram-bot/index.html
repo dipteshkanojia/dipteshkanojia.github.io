@@ -792,7 +792,7 @@
 </figure>
 
 <p>👉 You can see that I have redacted my token ID from the picture, but please copy your token ID and keep it noted as you will need it for steps further.</p>
-<h5 id="disclaimer--please-save-the-token-id-of-the-bot-securely-anyone-with-your-token-id-can-manipulate-this-bot">DISCLAIMER — Please save the token ID of the bot securely. Anyone with your token ID can manipulate this bot.</h5>
+<h6 id="disclaimer--please-save-the-token-id-of-the-bot-securely-anyone-with-your-token-id-can-manipulate-this-bot">DISCLAIMER — Please save the token ID of the bot securely. Anyone with your token ID can manipulate this bot.</h6>
 <p>👉 Start a 💬 conversation with you bot but do not expect any replies yet. :)
 &ndash; Find the bot user on Telegram by using the username you had selected for the both. For example, the screenshot shows that my bot is named @diptesh_bot. Just write any message to it, say &ldquo;Hi!&quot;.</p>
 <p>👉 Go to the URL: <a href="https://api.telegram.org/bot">https://api.telegram.org/bot</a>&lt;tokenID&gt;/getUpdates where you need to replace &lt;tokenID&gt; with your own bot token ID identified from the step above.</p>
@@ -811,9 +811,10 @@
 </figure>
 
 <p>For example, you can see that my 💬 ID is 1600389501, note your 💬 ID down as it is going to be used along with the token ID in Python later.</p>
+<h2 id="step-2-setup-your-python-codebase">Step 2: Setup your Python codebase!</h2>
 <ol start="2">
-<li>The Python Setup- You can choose to go through the tutorials available on 💡 <a href="https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/">GeeksforGeeks</a> or the one on 💡 <a href="https://www.codementor.io/@karandeepbatra/part-1-how-to-create-a-telegram-bot-in-python-in-under-10-minutes-19yfdv4wrq">CodeMentor</a>. They appear on top of the Google search for &lsquo;create telegram bot for python&rsquo;. These tutorial provide you with a more extensive use of the API by the use of extended classes present with the python-telegram-bot library, however, you can also choose to complete this blog post tutorial which provides you with a simpler version of the same.</li>
-</ol>
+<li>
+<p>The Python Setup- You can choose to go through the tutorials available on 💡 <a href="https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/">GeeksforGeeks</a> or the one on 💡 <a href="https://www.codementor.io/@karandeepbatra/part-1-how-to-create-a-telegram-bot-in-python-in-under-10-minutes-19yfdv4wrq">CodeMentor</a>. They appear on top of the Google search for &lsquo;create telegram bot for python&rsquo;. These tutorial provide you with a more extensive use of the API by the use of extended classes present with the python-telegram-bot library, however, you can also choose to complete this blog post tutorial which provides you with a simpler version of the same.</p>
 <p>👉 Ensuring the code environment (optional)
 &ndash; Since some of us use conda environments and virtual environments to execute our code with specific libraries (and their versions! do not get me started about the versioning and pip!), it is a good idea to ensure that you install the telegram library in the right environment. So change the environment via your terminal and activate the one you are going to use this bot with.</p>
 <p>👉 Install the library - Execute the following via Terminal or via your notebook 📚:</p>
@@ -827,13 +828,16 @@
   
 </code></pre><p>👉 Once this installation finishes, open your code and simple add this cell as show below, or add it at the end of your code execution. In the code snippet shown below, replace the REDACTED-TOKEN-ID-FROM-POST with your token id inside the quotes, and use your 💬 ID you noted down earlier to replace 0000000000.</p>
 <pre><code class="language-code" data-lang="code">
- import telegram
- bot = telegram.Bot(token=&quot;REDACTED-TOKEN-ID-FROM-POST&quot;) 
- ## token ID needs to be obtained as shown earlier.
- bot.sendMessage(chat_id=0000000000, text=&quot;Training is done&quot;) 
- ## chat_id needs to be obtained via the Telegram API as shown later.
+   import telegram
+   bot = telegram.Bot(token=&quot;REDACTED-TOKEN-ID-FROM-POST&quot;) 
+   ## token ID needs to be obtained as shown earlier.
+   bot.sendMessage(chat_id=0000000000, text=&quot;Training is done&quot;) 
+   ## chat_id needs to be obtained via the Telegram API as shown later.
 
-</code></pre><ol start="3">
+</code></pre></li>
+</ol>
+<h2 id="step-3-execute">Step 3: Execute!</h2>
+<ol start="3">
 <li>Execute your code- To watch this bot in action, execute the code and at its successfull execution you shall see that you recieve the message &ldquo;Training is done&rdquo; via the bot. Now if you have Telegram installed on your phone, you will recieve this message as long as you have internet connection and the Telegram API server is not down (which will hopefully not be the case!). If you add this snippet at the end of each model tranining your bot will probably end up having one-sided conversation with you; something like this:</li>
 </ol>
 
@@ -849,9 +853,7 @@
 
 </figure>
 
-<ol start="4">
-<li>More on this later, for now, setup this and have fun training models continously while getting progress notifications.</li>
-</ol>
+<p>👉 More on this later, for now, setup this and have fun training models continously while getting progress notifications.</p>
 
     </div>
 
