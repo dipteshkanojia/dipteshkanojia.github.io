@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="There are many ways using which developers get updates from Python. Some use the &lsquo;knockknock&rsquo; library, some use the &lsquo;wandb&rsquo; package to track the progress and generate report, and so on. However, I recently found this nifty way of sending yourself updates when, let us say, your machine/deep learning model has finished training or when your single-core-utilizing-python-code has finished executing which was taking an awful amount of time to do a simple lookup across a very large knowledge base (&ldquo;been there, phew!">
+  <meta name="description" content="There are many ways using which developers get updates from Python. Some use the &lsquo;knockknock&rsquo; library, some use the &lsquo;wandb&rsquo; package to track the progress and generate report, and so on. However, I recently found this nifty way of sending yourself updates when, let us say, your machine/deep learning model has finished training or when your single-core-utilizing-python-code has finished executing which was taking an awful amount of time to do a multiple simple lookups across a very large knowledge base (&ldquo;been there, phew!">
 
   
   <link rel="alternate" hreflang="en-us" href="https://dipteshkanojia.github.io/post/telegram-bot/">
@@ -114,8 +114,8 @@
   <meta property="og:site_name" content="Kanojia, Diptesh">
   <meta property="og:url" content="https://dipteshkanojia.github.io/post/telegram-bot/">
   <meta property="og:title" content="Creating a Telegram Bot to Share Updates via Python | Kanojia, Diptesh">
-  <meta property="og:description" content="There are many ways using which developers get updates from Python. Some use the &lsquo;knockknock&rsquo; library, some use the &lsquo;wandb&rsquo; package to track the progress and generate report, and so on. However, I recently found this nifty way of sending yourself updates when, let us say, your machine/deep learning model has finished training or when your single-core-utilizing-python-code has finished executing which was taking an awful amount of time to do a simple lookup across a very large knowledge base (&ldquo;been there, phew!"><meta property="og:image" content="https://dipteshkanojia.github.io/img/sharingimage.png">
-  <meta property="twitter:image" content="https://dipteshkanojia.github.io/img/sharingimage.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="There are many ways using which developers get updates from Python. Some use the &lsquo;knockknock&rsquo; library, some use the &lsquo;wandb&rsquo; package to track the progress and generate report, and so on. However, I recently found this nifty way of sending yourself updates when, let us say, your machine/deep learning model has finished training or when your single-core-utilizing-python-code has finished executing which was taking an awful amount of time to do a multiple simple lookups across a very large knowledge base (&ldquo;been there, phew!"><meta property="og:image" content="https://dipteshkanojia.github.io/post/telegram-bot/featured.png">
+  <meta property="twitter:image" content="https://dipteshkanojia.github.io/post/telegram-bot/featured.png"><meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2022-01-18T11:13:13&#43;00:00">
   
@@ -427,12 +427,170 @@
 
 
 
-  
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/post/telegram-bot/featured_hu225cf9fa7ae6ab8d9413f8a06c078517_28037_800x0_resize_lanczos_2.png');"></div>
+  <span class="article-header-caption">Telegram bot for your Python code!</span>
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">Creating a Telegram Bot to Share Updates via Python</h1>
+
+        
+        <p class="page-subtitle">Welcome 👋 to the first blog post!</p>
+        
+
+        
+
+
+
+<meta content="2022-01-18 11:13:13 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-01-18 11:13:13 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
 
   
   
   
-<div class="article-container pt-3">
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/diptesh-kanojia/">Diptesh Kanojia</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Jan 18, 2022</time>
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    6 min read
+  </span>
+  
+
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder"></i>
+    <a href="/categories/python/">python</a>, <a href="/categories/notifications/">notifications</a>, <a href="/categories/telegram/">telegram</a>, <a href="/categories/hacks/">hacks</a></span>
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://dipteshkanojia.github.io/post/telegram-bot/&amp;text=Creating%20a%20Telegram%20Bot%20to%20Share%20Updates%20via%20Python" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Creating%20a%20Telegram%20Bot%20to%20Share%20Updates%20via%20Python&amp;body=https://dipteshkanojia.github.io/post/telegram-bot/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://dipteshkanojia.github.io/post/telegram-bot/&amp;title=Creating%20a%20Telegram%20Bot%20to%20Share%20Updates%20via%20Python" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://reddit.com/submit?url=https://dipteshkanojia.github.io/post/telegram-bot/&amp;title=Creating%20a%20Telegram%20Bot%20to%20Share%20Updates%20via%20Python" target="_blank" rel="noopener" class="share-btn-reddit">
+          <i class="fab fa-reddit-alien"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/post/telegram-bot/featured_hu225cf9fa7ae6ab8d9413f8a06c078517_28037_680x500_fill_q90_lanczos_smart1_2.png" itemprop="image" alt="">
+        <span class="article-header-caption">Telegram bot for your Python code!</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
   <h1 itemprop="name">Creating a Telegram Bot to Share Updates via Python</h1>
 
   
@@ -440,7 +598,6 @@
   
 
   
-    
 
 
 
@@ -559,22 +716,21 @@
 
 </div>
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
@@ -582,7 +738,7 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>There are many ways using which developers get updates from Python. Some use the &lsquo;<a href="https://pypi.org/project/knockknock/">knockknock</a>&rsquo; library, some use the &lsquo;<a href="https://pypi.org/project/wandb/">wandb</a>&rsquo; package to track the progress and generate report, and so on. However, I recently found this nifty way of sending yourself updates when, let us say, your machine/deep learning model has finished training or when your single-core-utilizing-python-code has finished executing which was taking an awful amount of time to do a simple lookup across a very large knowledge base (&ldquo;been there, phew!&quot;). This blog post tries to provide you with steps to setup your own Telegram bot which can send you messages via Python. Your message is something you can personalize given an error thrown or a successful model training, but it will be a simple message notifying you that the process execution has come to a halt and you should probably tell your machine what to do next. I mean we have not yet developed smart ML/DL training processes which take care of all the possible model training and hyperparameter tuning on its own, right? Yes, you probably can write a long loop, but what if you wanted to have a look at the results and output on your own, and then change the hyperparameters accordingly? Motivated enough to do this? Let us get on with it!</p>
+      <p>There are many ways using which developers get updates from Python. Some use the &lsquo;<a href="https://pypi.org/project/knockknock/">knockknock</a>&rsquo; library, some use the &lsquo;<a href="https://pypi.org/project/wandb/">wandb</a>&rsquo; package to track the progress and generate report, and so on. However, I recently found this nifty way of sending yourself updates when, let us say, your machine/deep learning model has finished training or when your single-core-utilizing-python-code has finished executing which was taking an awful amount of time to do a multiple simple lookups across a very large knowledge base (&ldquo;been there, phew!&quot;). This blog post tries to provide you with steps to setup your own Telegram bot which can send you messages via Python. Your message is something you can personalize given an error thrown or a successful model training, but it will be a simple message notifying you that the process execution has come to a halt and you should probably tell your machine what to do next. I mean we have not yet developed smart ML/DL training processes which take care of all the possible model training and hyperparameter tuning on its own, right? Yes, you probably can write a long loop, but what if you wanted to have a look at the results and output on your own, and then change the hyperparameters accordingly? Motivated enough to do this? Let us get on with it!</p>
 <h2 id="requirements">Requirements:</h2>
 <p>👉 A Telegram Account: If you don’t have the Telegram app installed just download it from the play store. After downloading create an account using your mobile number just like WhatsApp.</p>
 <p>👉 python-telegram-bot library: We will need a library module called python-telegram-bot. This library provides a pure Python interface for the Telegram Bot API. It’s compatible with Python versions 3.6.8+. In addition to the pure API implementation, this library features a number of high-level classes to make the development of bots easy and straightforward. These classes are contained in the “telegram.ext” submodule. For more information, you can check their <a href="https://github.com/python-telegram-bot/python-telegram-bot">official GitHub repo</a>.</p>
