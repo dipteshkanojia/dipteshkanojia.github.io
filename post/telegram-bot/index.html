@@ -582,16 +582,10 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>There are many ways using which developers get updates from Python. Some use the &lsquo;knockknock&rsquo; library, some use the &lsquo;wandb&rsquo; package to track the progress and generate report, and so on. However, I recently found this nifty way of sending yourself updates when, let us say, your machine/deep learning model has finished training or when your single-core-utilizing-python-code has finished executing which was taking an awful amount of time to do a simple lookup across a very large knowledge base (&ldquo;been there, phew!&quot;). This blog post tries to provide you with steps to setup your own Telegram bot which can send you messages via Python. Your message is something you can personalize given an error thrown or a successful model training, but it will be a simple message notifying you that the process execution has come to a halt and you should probably tell your machine what to do next. I mean we have not yet developed smart ML/DL training processes which take care of all the possible model training and hyperparameter tuning on its own, right? Yes, you probably can write a long loop, but what if you wanted to have a look at the results and output on your own, and then change the hyperparameters accordingly? Motivated enough to do this? Let us get on with it!</p>
+      <p>There are many ways using which developers get updates from Python. Some use the &lsquo;<a href="https://pypi.org/project/knockknock/">knockknock</a>&rsquo; library, some use the &lsquo;<a href="https://pypi.org/project/wandb/">wandb</a>&rsquo; package to track the progress and generate report, and so on. However, I recently found this nifty way of sending yourself updates when, let us say, your machine/deep learning model has finished training or when your single-core-utilizing-python-code has finished executing which was taking an awful amount of time to do a simple lookup across a very large knowledge base (&ldquo;been there, phew!&quot;). This blog post tries to provide you with steps to setup your own Telegram bot which can send you messages via Python. Your message is something you can personalize given an error thrown or a successful model training, but it will be a simple message notifying you that the process execution has come to a halt and you should probably tell your machine what to do next. I mean we have not yet developed smart ML/DL training processes which take care of all the possible model training and hyperparameter tuning on its own, right? Yes, you probably can write a long loop, but what if you wanted to have a look at the results and output on your own, and then change the hyperparameters accordingly? Motivated enough to do this? Let us get on with it!</p>
 <h2 id="requirements">Requirements:</h2>
-<ul>
-<li>
-<p>A Telegram Account: If you don’t have the Telegram app installed just download it from the play store. After downloading create an account using your mobile number just like WhatsApp.</p>
-</li>
-<li>
-<p>.python-telegram-bot module: Here we will need a module called python-telegram-bot, This library provides a pure Python interface for the Telegram Bot API. It’s compatible with Python versions 3.6.8+. In addition to the pure API implementation, this library features a number of high-level classes to make the development of bots easy and straightforward. These classes are contained in the “telegram.ext” submodule. For more information, you can check their official GitHub repo.</p>
-</li>
-</ul>
+<p>👉 A Telegram Account: If you don’t have the Telegram app installed just download it from the play store. After downloading create an account using your mobile number just like WhatsApp.</p>
+<p>👉 python-telegram-bot library: We will need a library module called python-telegram-bot. This library provides a pure Python interface for the Telegram Bot API. It’s compatible with Python versions 3.6.8+. In addition to the pure API implementation, this library features a number of high-level classes to make the development of bots easy and straightforward. These classes are contained in the “telegram.ext” submodule. For more information, you can check their <a href="https://github.com/python-telegram-bot/python-telegram-bot">official GitHub repo</a>.</p>
 <p>It is a very simple process but has many steps so bear with me please.</p>
 <h2 id="step-1-setup-your-own-bot">Step 1: Setup your own Bot!</h2>
 <ol>
@@ -610,9 +604,7 @@
 
 </figure>
 
-<ul>
-<li>Start the conversation with BotFather by pressing the &lsquo;Start&rsquo; button, and you will see a command &lsquo;/start&rsquo; initiate the conversation.</li>
-</ul>
+<p>👉 Start the conversation with BotFather by pressing the &lsquo;Start&rsquo; button, and you will see a command &lsquo;/start&rsquo; initiate the conversation.</p>
 
 
 
@@ -626,9 +618,7 @@
 
 </figure>
 
-<ul>
-<li>Now, type in the command to create a new bot to yourself &lsquo;/newbot&rsquo; and send this message. But wait, it will ask you various questions as shown below and help you setup this bot for you. It will ask you for a name (as you can see I was going for a name with an emoji which it denied me!); and you can also choose the bot picture there itself by sending it a picture or you can change it later.</li>
-</ul>
+<p>👉 Now, type in the command to create a new bot to yourself &lsquo;/newbot&rsquo; and send this message. But wait, it will ask you various questions as shown below and help you setup this bot for you. It will ask you for a name (as you can see I was going for a name with an emoji which it denied me!); and you can also choose the bot picture there itself by sending it a picture or you can change it later.</p>
 
 
 
@@ -642,22 +632,12 @@
 
 </figure>
 
-<ul>
-<li>You can see that I have redacted my token ID from the picture, but please copy your token ID and keep it noted as you will need it for steps further.</li>
-</ul>
+<p>👉 You can see that I have redacted my token ID from the picture, but please copy your token ID and keep it noted as you will need it for steps further.</p>
 <h5 id="disclaimer--please-save-the-token-id-of-the-bot-securely-anyone-with-your-token-id-can-manipulate-this-bot">DISCLAIMER — Please save the token ID of the bot securely. Anyone with your token ID can manipulate this bot.</h5>
-<ul>
-<li>
-<p>Start a chat with you bot but do not expect any replies yet. :)
+<p>👉 Start a 💬 conversation with you bot but do not expect any replies yet. :)
 &ndash; Find the bot user on Telegram by using the username you had selected for the both. For example, the screenshot shows that my bot is named @diptesh_bot. Just write any message to it, say &ldquo;Hi!&quot;.</p>
-</li>
-<li>
-<p>Go to the URL: <a href="https://api.telegram.org/bot">https://api.telegram.org/bot</a>&lt;tokenID&gt;/getUpdates where you need to replace &lt;tokenID&gt; with your own bot token ID identified from the step above.</p>
-</li>
-<li>
-<p>The page shown is the response from the Telegram API which lets you know what messages your bot has received. Do not worry, we don&rsquo;t have to keep tabs on this page, we just need to chat ID from here and we shall move on to the Python codebase you need to setup. Look at the screenshot below and find the chat ID from your API response.</p>
-</li>
-</ul>
+<p>👉 Go to the URL: <a href="https://api.telegram.org/bot">https://api.telegram.org/bot</a>&lt;tokenID&gt;/getUpdates where you need to replace &lt;tokenID&gt; with your own bot token ID identified from the step above.</p>
+<p>👉 The page shown is the response from the Telegram API which lets you know what messages your bot has received. Do not worry, we don&rsquo;t have to keep tabs on this page, we just need to 💬 (chat) ID from here and we shall move on to the Python codebase you need to setup. Look at the screenshot below and find the 💬 ID from your API response.</p>
 
 
 
@@ -671,19 +651,13 @@
 
 </figure>
 
-<p>For example, you can see that my chat ID is 1600389501, note your chat ID down as it is going to be used along with the token ID in Python later.</p>
+<p>For example, you can see that my 💬 ID is 1600389501, note your 💬 ID down as it is going to be used along with the token ID in Python later.</p>
 <ol start="2">
-<li>The Python Setup- You can choose to go through the tutorials on <a href="https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/">GeeksforGeeks</a> or the one on <a href="https://www.codementor.io/@karandeepbatra/part-1-how-to-create-a-telegram-bot-in-python-in-under-10-minutes-19yfdv4wrq">CodeMentor</a>. They appear on top of the Google search for &lsquo;create telegram bot for python&rsquo;. These tutorial provide you with a more extensive use of the API by the use of extended classes present with the python-telegram-bot library, however, you can also choose to complete this blog post tutorial which provides you with a simpler version of the same.</li>
+<li>The Python Setup- You can choose to go through the tutorials available on 💡 <a href="https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/">GeeksforGeeks</a> or the one on 💡 <a href="https://www.codementor.io/@karandeepbatra/part-1-how-to-create-a-telegram-bot-in-python-in-under-10-minutes-19yfdv4wrq">CodeMentor</a>. They appear on top of the Google search for &lsquo;create telegram bot for python&rsquo;. These tutorial provide you with a more extensive use of the API by the use of extended classes present with the python-telegram-bot library, however, you can also choose to complete this blog post tutorial which provides you with a simpler version of the same.</li>
 </ol>
-<ul>
-<li>
-<p>Ensuring the code environment (optional)
+<p>👉 Ensuring the code environment (optional)
 &ndash; Since some of us use conda environments and virtual environments to execute our code with specific libraries (and their versions! do not get me started about the versioning and pip!), it is a good idea to ensure that you install the telegram library in the right environment. So change the environment via your terminal and activate the one you are going to use this bot with.</p>
-</li>
-<li>
-<p>Install the library - Execute the following via Terminal or via your notebook:</p>
-</li>
-</ul>
+<p>👉 Install the library - Execute the following via Terminal or via your notebook 📚:</p>
 <p>&ndash; For terminal</p>
 <pre><code class="language-code" data-lang="code">
    pip install python-telegram-bot
@@ -692,9 +666,7 @@
 <pre><code class="language-code" data-lang="code">
    !pip install python-telegram-bot
   
-</code></pre><ul>
-<li>Once this installation finishes, open your code and simple add this cell as show below, or add it at the end of your code execution. In the code snippet shown below, replace the REDACTED-TOKEN-ID-FROM-POST with your token id inside the quotes, and use your chat ID you noted down earlier to replace 0000000000.</li>
-</ul>
+</code></pre><p>👉 Once this installation finishes, open your code and simple add this cell as show below, or add it at the end of your code execution. In the code snippet shown below, replace the REDACTED-TOKEN-ID-FROM-POST with your token id inside the quotes, and use your 💬 ID you noted down earlier to replace 0000000000.</p>
 <pre><code class="language-code" data-lang="code">
  import telegram
  bot = telegram.Bot(token=&quot;REDACTED-TOKEN-ID-FROM-POST&quot;) 
