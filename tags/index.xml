@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jan 2022 11:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Mar 2022 12:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>machine translation</title>
+      <link>https://dipteshkanojia.github.io/tags/machine-translation/</link>
+      <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural machine translation</title>
+      <link>https://dipteshkanojia.github.io/tags/neural-machine-translation/</link>
+      <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/neural-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://dipteshkanojia.github.io/tags/talks/</link>
+      <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>translators</title>
+      <link>https://dipteshkanojia.github.io/tags/translators/</link>
+      <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/translators/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hacks</title>
@@ -102,15 +138,6 @@
     </item>
     
     <item>
-      <title>machine translation</title>
-      <link>https://dipteshkanojia.github.io/tags/machine-translation/</link>
-      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/machine-translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>probing systems</title>
       <link>https://dipteshkanojia.github.io/tags/probing-systems/</link>
       <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
@@ -125,15 +152,6 @@
       <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/quality-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>https://dipteshkanojia.github.io/tags/talks/</link>
-      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
       <description></description>
     </item>
     
