@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Area"
-AuthUserFile /users/prjengr/diptesh/public_html/btp/.htpasswd
-Require valid-user
