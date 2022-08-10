@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Mar 2022 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>attention</title>
+      <link>https://dipteshkanojia.github.io/tags/attention/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bert</title>
+      <link>https://dipteshkanojia.github.io/tags/bert/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://dipteshkanojia.github.io/tags/talks/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transformers</title>
+      <link>https://dipteshkanojia.github.io/tags/transformers/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/transformers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>machine translation</title>
@@ -26,15 +62,6 @@
       <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/neural-machine-translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>https://dipteshkanojia.github.io/tags/talks/</link>
-      <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
       <description></description>
     </item>
     
@@ -408,24 +435,6 @@
     </item>
     
     <item>
-      <title>attention</title>
-      <link>https://dipteshkanojia.github.io/tags/attention/</link>
-      <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bert</title>
-      <link>https://dipteshkanojia.github.io/tags/bert/</link>
-      <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/bert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>distributional semantics</title>
       <link>https://dipteshkanojia.github.io/tags/distributional-semantics/</link>
       <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
@@ -440,15 +449,6 @@
       <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/semantics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transformers</title>
-      <link>https://dipteshkanojia.github.io/tags/transformers/</link>
-      <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/transformers/</guid>
       <description></description>
     </item>
     

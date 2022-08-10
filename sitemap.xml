@@ -3,22 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dipteshkanojia.github.io/tags/attention/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dipteshkanojia.github.io/authors/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/bert/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://dipteshkanojia.github.io/authors/diptesh-kanojia/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/talk/nmttalk/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://dipteshkanojia.github.io/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/transformers/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/cvssptalk/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/nmttalk/</loc>
     <lastmod>2022-03-04T12:00:00+00:00</lastmod>
   </url>
   
@@ -29,21 +64,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/neural-machine-translation/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/talk/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
     <lastmod>2022-03-04T12:00:00+00:00</lastmod>
   </url>
   
@@ -488,16 +508,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/attention/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/bert/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/distributional-semantics/</loc>
     <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
@@ -509,16 +519,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/semantics/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/transformers/</loc>
-    <lastmod>2020-04-03T05:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/talk/cvssptalk/</loc>
     <lastmod>2020-04-03T05:30:00+01:00</lastmod>
   </url>
   
