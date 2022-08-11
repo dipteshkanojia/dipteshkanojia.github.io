@@ -21,7 +21,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>HiNER: A Large Hindi Named Entity Recognition Dataset</title>
       <link>https://dipteshkanojia.github.io/publication/lrec-2022-hiner/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
@@ -49,8 +48,6 @@
     </item>
     
     <item>
-=======
->>>>>>> 3e7afd84ab84c70dadd6703b5b1c533d0e50d6e2
       <title>Introducing Neural Machine Translation (NMT) to Translators</title>
       <link>https://dipteshkanojia.github.io/talk/nmttalk/</link>
       <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
