@@ -53,6 +53,7 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://dipteshkanojia.github.io/publication_types/1/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url>
@@ -233,6 +234,8 @@
   </url>
   
   <url>
+=======
+>>>>>>> 3e7afd84ab84c70dadd6703b5b1c533d0e50d6e2
     <loc>https://dipteshkanojia.github.io/talk/nmttalk/</loc>
     <lastmod>2022-03-04T12:00:00+00:00</lastmod>
   </url>
