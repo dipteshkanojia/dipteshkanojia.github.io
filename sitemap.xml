@@ -3,22 +3,237 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dipteshkanojia.github.io/tags/attention/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dipteshkanojia.github.io/authors/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/bert/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://dipteshkanojia.github.io/authors/diptesh-kanojia/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/talk/nmttalk/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://dipteshkanojia.github.io/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/transformers/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/cvssptalk/</loc>
+    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/publication_types/1/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/abbreviation-detection/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/abbreviations/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/acronym-detection/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/constantin-orasan/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/dataset/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/domain-specific/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/empirical/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/evaluation/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/hadeel-saadany/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/hindi/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/hindi-ner/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/publication/lrec-2022-hiner/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/jyotsana-khatri/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/leonardo-zilio/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/named-entity-recognition/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/ner/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/pallab-bhattacharjee/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/publication/lrec-2022-plod/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/prashant-sharma/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/publication_types/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/publication/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/pushpak-bhattacharyya/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/rahul-sharnagat/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/rudra-murthy/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/scientific/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/token-classification/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/transfer-learning/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/discourse/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/emotion-recognition/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/empathy-prediction/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/felix-do-carmo/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/sentiment/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/shared-task/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/shenbin-qian/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/publication/wassa-2022-emotion/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/nmttalk/</loc>
     <lastmod>2022-03-04T12:00:00+00:00</lastmod>
   </url>
   
@@ -29,21 +244,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/neural-machine-translation/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/talk/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
     <lastmod>2022-03-04T12:00:00+00:00</lastmod>
   </url>
   
@@ -108,22 +308,12 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/publication_types/1/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/acronym-extraction/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dipteshkanojia.github.io/publication/sdu-st-aaai-2022-acronym/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/constantin-orasan/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,36 +329,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/ensemble-approach/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/hadeel-saadany/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/leonardo-zilio/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/prashant-sharma/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/publication_types/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/publication/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/shared-task/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,16 +383,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/empirical/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/evaluation/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/authors/frederic-blain/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url>
@@ -278,11 +428,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/dataset/</loc>
-    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/multimodal/</loc>
     <lastmod>2021-09-24T00:00:00+00:00</lastmod>
   </url>
@@ -294,11 +439,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/authors/prerak-gandhi/</loc>
-    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/pushpak-bhattacharyya/</loc>
     <lastmod>2021-09-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -390,16 +530,6 @@
   <url>
     <loc>https://dipteshkanojia.github.io/authors/sayali-ghodekar/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/jyotsana-khatri/</loc>
-    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/rudra-murthy/</loc>
-    <lastmod>2020-12-18T10:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -769,11 +899,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/authors/hanumant-redkar/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/hindi/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   

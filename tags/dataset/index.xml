@@ -6,10 +6,28 @@
     <description>Recent content in dataset on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HiNER: A Large Hindi Named Entity Recognition Dataset</title>
+      <link>https://dipteshkanojia.github.io/publication/lrec-2022-hiner/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/lrec-2022-hiner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLOD: An Abbreviation Detection Dataset for Scientific Documents</title>
+      <link>https://dipteshkanojia.github.io/publication/lrec-2022-plod/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/lrec-2022-plod/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&#39;So You Think You’re Funny?&#39;: Rating the Humour Quotient in Standup Comedy</title>
