@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Harnessing Abstractive Summarization for Fact-Checked Claim Detection</title>
+      <link>https://dipteshkanojia.github.io/publication/coling-2022-factcheck/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/coling-2022-factcheck/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HiNER: A Large Hindi Named Entity Recognition Dataset</title>
