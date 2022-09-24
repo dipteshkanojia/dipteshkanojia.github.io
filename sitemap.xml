@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dipteshkanojia.github.io/authors/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/chat/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/chatbots/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/lithmetalk/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/diptesh-kanojia/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/intent-classification/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/ner/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
+    <lastmod>2022-09-16T13:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dipteshkanojia.github.io/publication_types/1/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -13,17 +68,7 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/authors/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/automatic-pipeline/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/diptesh-kanojia/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/misinformation/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -73,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/twitter-data/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -94,16 +129,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/bert/</loc>
-    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/talk/</loc>
-    <lastmod>2022-08-10T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
     <lastmod>2022-08-10T00:00:00+01:00</lastmod>
   </url>
   
@@ -189,11 +214,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/named-entity-recognition/</loc>
-    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/ner/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1250,11 +1270,6 @@
   <url>
     <loc>https://dipteshkanojia.github.io/authors/vishwajeet-kumar/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/chat/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
