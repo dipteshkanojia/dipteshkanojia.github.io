@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2022 13:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cognate detection</title>
+      <link>https://dipteshkanojia.github.io/tags/cognate-detection/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/cognate-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive</title>
+      <link>https://dipteshkanojia.github.io/tags/cognitive/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/cognitive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive-nlp</title>
+      <link>https://dipteshkanojia.github.io/tags/cognitive-nlp/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/cognitive-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://dipteshkanojia.github.io/tags/talks/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transformers</title>
+      <link>https://dipteshkanojia.github.io/tags/transformers/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/transformers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>chat</title>
@@ -44,15 +89,6 @@
       <pubDate>Fri, 16 Sep 2022 13:30:00 +0100</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/ner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>https://dipteshkanojia.github.io/tags/talks/</link>
-      <pubDate>Fri, 16 Sep 2022 13:30:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
       <description></description>
     </item>
     
@@ -134,15 +170,6 @@
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0100</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/bert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transformers</title>
-      <link>https://dipteshkanojia.github.io/tags/transformers/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/transformers/</guid>
       <description></description>
     </item>
     
@@ -561,15 +588,6 @@
     </item>
     
     <item>
-      <title>cognate detection</title>
-      <link>https://dipteshkanojia.github.io/tags/cognate-detection/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/cognate-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cross-lingual</title>
       <link>https://dipteshkanojia.github.io/tags/cross-lingual/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
@@ -908,15 +926,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/application/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cognitive</title>
-      <link>https://dipteshkanojia.github.io/tags/cognitive/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/cognitive/</guid>
       <description></description>
     </item>
     
