@@ -6,10 +6,64 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dataset</title>
+      <link>https://dipteshkanojia.github.io/tags/dataset/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>discourse</title>
+      <link>https://dipteshkanojia.github.io/tags/discourse/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/discourse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sarcasm detection</title>
+      <link>https://dipteshkanojia.github.io/tags/sarcasm-detection/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/sarcasm-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sarcasm prediction</title>
+      <link>https://dipteshkanojia.github.io/tags/sarcasm-prediction/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/sarcasm-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment</title>
+      <link>https://dipteshkanojia.github.io/tags/sentiment/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weak supervision</title>
+      <link>https://dipteshkanojia.github.io/tags/weak-supervision/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/weak-supervision/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cognate detection</title>
@@ -237,15 +291,6 @@
     </item>
     
     <item>
-      <title>dataset</title>
-      <link>https://dipteshkanojia.github.io/tags/dataset/</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>domain-specific</title>
       <link>https://dipteshkanojia.github.io/tags/domain-specific/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
@@ -327,15 +372,6 @@
     </item>
     
     <item>
-      <title>discourse</title>
-      <link>https://dipteshkanojia.github.io/tags/discourse/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/discourse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>emotion recognition</title>
       <link>https://dipteshkanojia.github.io/tags/emotion-recognition/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
@@ -350,15 +386,6 @@
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/empathy-prediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sentiment</title>
-      <link>https://dipteshkanojia.github.io/tags/sentiment/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/sentiment/</guid>
       <description></description>
     </item>
     
@@ -971,15 +998,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/prediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sarcasm detection</title>
-      <link>https://dipteshkanojia.github.io/tags/sarcasm-detection/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/sarcasm-detection/</guid>
       <description></description>
     </item>
     
