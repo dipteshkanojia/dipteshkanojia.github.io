@@ -6,10 +6,19 @@
     <description>Recent content in Marina Fomicheva on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/authors/marina-fomicheva/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Findings of the WMT 2022 Shared Task on Quality Estimation</title>
+      <link>https://dipteshkanojia.github.io/publication/wmt-2022-findings-qe/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/wmt-2022-findings-qe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation</title>
