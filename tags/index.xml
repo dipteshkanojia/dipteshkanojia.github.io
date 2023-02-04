@@ -6,10 +6,109 @@
     <description>Recent content in Tags on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2023 12:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>machine translation</title>
+      <link>https://dipteshkanojia.github.io/tags/machine-translation/</link>
+      <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural language processing</title>
+      <link>https://dipteshkanojia.github.io/tags/natural-language-processing/</link>
+      <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural machine translation</title>
+      <link>https://dipteshkanojia.github.io/tags/neural-machine-translation/</link>
+      <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/neural-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>https://dipteshkanojia.github.io/tags/nlp/</link>
+      <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://dipteshkanojia.github.io/tags/talks/</link>
+      <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>translators</title>
+      <link>https://dipteshkanojia.github.io/tags/translators/</link>
+      <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/translators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machinetranslation</title>
+      <link>https://dipteshkanojia.github.io/tags/machinetranslation/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/machinetranslation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilingual</title>
+      <link>https://dipteshkanojia.github.io/tags/multilingual/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilinguality</title>
+      <link>https://dipteshkanojia.github.io/tags/multilinguality/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/multilinguality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuralmachinetranslation</title>
+      <link>https://dipteshkanojia.github.io/tags/neuralmachinetranslation/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/neuralmachinetranslation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qualityestimation</title>
+      <link>https://dipteshkanojia.github.io/tags/qualityestimation/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/tags/qualityestimation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>APE</title>
@@ -165,15 +264,6 @@
     </item>
     
     <item>
-      <title>talks</title>
-      <link>https://dipteshkanojia.github.io/tags/talks/</link>
-      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>transformers</title>
       <link>https://dipteshkanojia.github.io/tags/transformers/</link>
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
@@ -188,15 +278,6 @@
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/adversarial-evaluation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine translation</title>
-      <link>https://dipteshkanojia.github.io/tags/machine-translation/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/machine-translation/</guid>
       <description></description>
     </item>
     
@@ -449,24 +530,6 @@
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.github.io/tags/shared-task/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural machine translation</title>
-      <link>https://dipteshkanojia.github.io/tags/neural-machine-translation/</link>
-      <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/neural-machine-translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>translators</title>
-      <link>https://dipteshkanojia.github.io/tags/translators/</link>
-      <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.github.io/tags/translators/</guid>
       <description></description>
     </item>
     

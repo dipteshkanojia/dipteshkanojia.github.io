@@ -3,6 +3,101 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dipteshkanojia.github.io/talk/convposter/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/authors/diptesh-kanojia/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/machine-translation/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/natural-language-processing/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/neural-machine-translation/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/nlp/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/translators/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/convworkshopnmt/</loc>
+    <lastmod>2023-02-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/machinetranslation/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/multilingual/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/multilinguality/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/neuralmachinetranslation/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/talk/convpaneltalk/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/tags/qualityestimation/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dipteshkanojia.github.io/publication_types/1/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +109,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/ape/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,11 +129,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/dataset/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/authors/diptesh-kanojia/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +179,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/authors/jose-g.-c.-de-souza/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,11 +278,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/tags/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/publication/nlpcss-emnlp-2022-sarcasm/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url>
@@ -233,27 +308,12 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/talk/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/talks/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/transformers/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dipteshkanojia.github.io/tags/adversarial-evaluation/</loc>
-    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/machine-translation/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -489,16 +549,6 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/talk/nmttalk/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/neural-machine-translation/</loc>
-    <lastmod>2022-03-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/translators/</loc>
     <lastmod>2022-03-04T12:00:00+00:00</lastmod>
   </url>
   
