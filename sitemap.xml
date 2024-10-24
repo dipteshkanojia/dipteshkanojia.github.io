@@ -553,61 +553,6 @@
   </url>
   
   <url>
-    <loc>https://dipteshkanojia.github.io/categories/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/post/telegram-bot/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/hacks/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/categories/hacks/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/notifications/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/categories/notifications/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/post/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/python/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/categories/python/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/tags/telegram/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dipteshkanojia.github.io/categories/telegram/</loc>
-    <lastmod>2022-01-18T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dipteshkanojia.github.io/tags/acronym-extraction/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1584,6 +1529,10 @@
   
   <url>
     <loc>https://dipteshkanojia.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dipteshkanojia.github.io/categories/</loc>
   </url>
   
 </urlset>
