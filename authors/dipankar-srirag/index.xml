@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dipankar Srirag on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.github.io/authors/dipankar-srirag/</link>
+    <description>Recent content in Dipankar Srirag on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.github.io/authors/dipankar-srirag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English</title>
+      <link>https://dipteshkanojia.github.io/publication/srirag-etal-2025-besstie/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/srirag-etal-2025-besstie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences from Creating a Benchmark for Sentiment Classification for Varieties of English</title>
+      <link>https://dipteshkanojia.github.io/publication/srirag-etal-2024-experiences/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/srirag-etal-2024-experiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling Strategies for Creation of a Benchmark for Dialectal Sentiment Classification</title>
+      <link>https://dipteshkanojia.github.io/publication/srirag-etal-2024-sampling/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/srirag-etal-2024-sampling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

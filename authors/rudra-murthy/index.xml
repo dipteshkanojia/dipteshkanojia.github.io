@@ -6,10 +6,37 @@
     <description>Recent content in Rudra Murthy on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/authors/rudra-murthy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Airavata: Introducing Hindi Instruction-tuned LLM</title>
+      <link>https://dipteshkanojia.github.io/publication/gala-etal-2024-airavata/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/gala-etal-2024-airavata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Political Aggression on Social Media Platforms</title>
+      <link>https://dipteshkanojia.github.io/publication/rawat-2023-modelling-political-aggression/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/rawat-2023-modelling-political-aggression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Safer Communities: Detecting Aggression and Offensive Language in Code-Mixed Tweets to Combat Cyberbullying</title>
+      <link>https://dipteshkanojia.github.io/publication/nafis-etal-2023-towards/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/nafis-etal-2023-towards/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HiNER: A Large Hindi Named Entity Recognition Dataset</title>

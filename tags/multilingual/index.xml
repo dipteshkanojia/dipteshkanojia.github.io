@@ -6,10 +6,28 @@
     <description>Recent content in multilingual on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/multilingual/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2024-together/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2024-together/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CreoleVal: Multilingual Multitask Benchmarks for Creoles</title>
+      <link>https://dipteshkanojia.github.io/publication/lent-etal-2024-creoleval/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/lent-etal-2024-creoleval/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quality Estimation for Machine Translation</title>

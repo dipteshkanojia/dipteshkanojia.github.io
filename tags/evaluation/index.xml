@@ -6,10 +6,37 @@
     <description>Recent content in evaluation on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reference-Less Evaluation of Machine Translation: Navigating Through the Resource-Scarce Scenarios</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Large Language Models Need for Machine Translation Evaluation?</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2024-large/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2024-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Machine Translation for Emotion-loaded User Generated Content (TransEval4Emo-UGC)</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2024-evaluating/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2024-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Findings of the WMT 2022 Shared Task on Quality Estimation</title>

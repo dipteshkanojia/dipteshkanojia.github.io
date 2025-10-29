@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swapnil Bhosale on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.github.io/authors/swapnil-bhosale/</link>
+    <description>Recent content in Swapnil Bhosale on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.github.io/authors/swapnil-bhosale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NEAR²: A Nested Embedding Approach to Efficient Product Retrieval and Ranking</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2025-near/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2025-near/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Audio-Visual Segmentation with Modality Alignment</title>
+      <link>https://dipteshkanojia.github.io/publication/bhosale-etal-2025-unsupervised/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/bhosale-etal-2025-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AV-GS: Learning Material and Geometry aware Priors for Novel View Acoustic Synthesis</title>
+      <link>https://dipteshkanojia.github.io/publication/bhosale-etal-2024-av/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/bhosale-etal-2024-av/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centrality-aware Product Retrieval and Ranking</title>
+      <link>https://dipteshkanojia.github.io/publication/saadany-etal-2024-centrality/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/saadany-etal-2024-centrality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Retrieval and Ranking for Alphanumeric Queries</title>
+      <link>https://dipteshkanojia.github.io/publication/saadany-etal-2024-product/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/saadany-etal-2024-product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffSED: Sound Event Detection with Denoising Diffusion</title>
+      <link>https://dipteshkanojia.github.io/publication/bhosale-etal-2024-diffsed/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/bhosale-etal-2024-diffsed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarcasm in Sight and Sound: Benchmarking and Expansion to Improve Multimodal Sarcasm Detection</title>
+      <link>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-sarcasm/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-sarcasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Foundation Models for Unsupervised Audio-Visual Segmentation</title>
+      <link>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-leveraging/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-leveraging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,15 +1,204 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Constantin Orăsan on Kanojia, Diptesh</title>
+    <title>Constantin Orasan on Kanojia, Diptesh</title>
     <link>https://dipteshkanojia.github.io/authors/constantin-orasan/</link>
-    <description>Recent content in Constantin Orăsan on Kanojia, Diptesh</description>
+    <description>Recent content in Constantin Orasan on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/authors/constantin-orasan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reference-Less Evaluation of Machine Translation: Navigating Through the Resource-Scarce Scenarios</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-alope/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-alope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEAR²: A Nested Embedding Approach to Efficient Product Retrieval and Ranking</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2025-near/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2025-near/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompt-based Explainable Quality Estimation for English-Malayalam</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-prompt/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Generating Chinese Homophone Words to Probe Machine Translation Estimation Systems</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2025-automatically/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2025-automatically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-llms/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-task Learning Framework for Evaluating Machine Translation of Emotion-loaded User-generated Content</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2024-multi/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2024-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2024-large-language/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2024-large-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the Quality Estimation Shared Task at WMT 2024: Are LLMs Closing the Gap in QE?</title>
+      <link>https://dipteshkanojia.github.io/publication/zerva-etal-2024-findings/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/zerva-etal-2024-findings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centrality-aware Product Retrieval and Ranking</title>
+      <link>https://dipteshkanojia.github.io/publication/saadany-etal-2024-centrality/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/saadany-etal-2024-centrality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Large Language Models Need for Machine Translation Evaluation?</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2024-large/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2024-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Retrieval and Ranking for Alphanumeric Queries</title>
+      <link>https://dipteshkanojia.github.io/publication/saadany-etal-2024-product/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/saadany-etal-2024-product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Quality Estimation for Low-Resource Language Translations: Exploring the Role of Language Relatedness</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2024-optimizing/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2024-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Machine Translation for Emotion-loaded User Generated Content (TransEval4Emo-UGC)</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2024-evaluating/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2024-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using character-level models for efficient abbreviation and long-form detection</title>
+      <link>https://dipteshkanojia.github.io/publication/zilio-etal-2024-using/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/zilio-etal-2024-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Translate Error Analysis for Mental Healthcare Information: Evaluating Accuracy, Comprehensibility, and Implications for Multilingual Healthcare Communication</title>
+      <link>https://dipteshkanojia.github.io/publication/delfani-etal-2024-google/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/delfani-etal-2024-google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT 2023 Shared Task on Quality Estimation</title>
+      <link>https://dipteshkanojia.github.io/publication/blain-etal-2023-findings/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/blain-etal-2023-findings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SurreyAI 2023 Submission for the Quality Estimation Shared Task</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2023-surreyai/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2023-surreyai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges of Human vs Machine Translation of Emotion-Loaded Chinese Microblog Texts</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2023-challenges/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2023-challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-task Learning Framework for Quality Estimation</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-multi/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Chinese-English Machine Translation of Emotion-Loaded Microblog Texts: A Human Annotated Dataset for the Quality Assessment of Emotion Translation</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-2023-evaluation-chinese-english-mt/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-2023-evaluation-chinese-english-mt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Findings of the WMT 2022 Shared Task on Quality Estimation</title>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhe Wu on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.github.io/authors/zhe-wu/</link>
+    <description>Recent content in Zhe Wu on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.github.io/authors/zhe-wu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NEAR²: A Nested Embedding Approach to Efficient Product Retrieval and Ranking</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2025-near/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2025-near/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centrality-aware Product Retrieval and Ranking</title>
+      <link>https://dipteshkanojia.github.io/publication/saadany-etal-2024-centrality/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/saadany-etal-2024-centrality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Retrieval and Ranking for Alphanumeric Queries</title>
+      <link>https://dipteshkanojia.github.io/publication/saadany-etal-2024-product/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/saadany-etal-2024-product/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archchana Sindhujan on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.github.io/authors/archchana-sindhujan/</link>
+    <description>Recent content in Archchana Sindhujan on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.github.io/authors/archchana-sindhujan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reference-Less Evaluation of Machine Translation: Navigating Through the Resource-Scarce Scenarios</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-alope/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-alope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompt-based Explainable Quality Estimation for English-Malayalam</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-prompt/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-llms/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Large Language Models Need for Machine Translation Evaluation?</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2024-large/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2024-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Quality Estimation for Low-Resource Language Translations: Exploring the Role of Language Relatedness</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2024-optimizing/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2024-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SurreyAI 2023 Submission for the Quality Estimation Shared Task</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2023-surreyai/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2023-surreyai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

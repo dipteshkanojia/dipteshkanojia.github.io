@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multi-task learning on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.github.io/tags/multi-task-learning/</link>
+    <description>Recent content in multi-task learning on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.github.io/tags/multi-task-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Multi-task Learning Framework for Evaluating Machine Translation of Emotion-loaded User-generated Content</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2024-multi/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2024-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality Estimation-Assisted Automatic Post-Editing</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-quality/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-task Learning Framework for Quality Estimation</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-multi/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

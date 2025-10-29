@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Mind&#39;s Eye: A Multi-Faceted Reward Framework for Guiding Visual Metaphor Generation</title>
+      <link>https://dipteshkanojia.github.io/publication/koushik-etal-2025-mind/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/koushik-etal-2025-mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEAR²: A Nested Embedding Approach to Efficient Product Retrieval and Ranking</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2025-near/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2025-near/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAMU: Context Augmentation for Meme Understanding</title>
+      <link>https://dipteshkanojia.github.io/publication/koushik-etal-2025-camu/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/koushik-etal-2025-camu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGFM: Full Body Dance Generation Driven by Music Foundation Models</title>
+      <link>https://dipteshkanojia.github.io/publication/liu-etal-2025-dgfm/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/liu-etal-2025-dgfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCDance: Genre-Controlled 3D Full Body Dance Generation Driven By Music</title>
+      <link>https://dipteshkanojia.github.io/publication/liu-etal-2025-gcdance/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/liu-etal-2025-gcdance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation</title>
+      <link>https://dipteshkanojia.github.io/publication/nazarieh-etal-2024-portraittalk/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/nazarieh-etal-2024-portraittalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences from Creating a Benchmark for Sentiment Classification for Varieties of English</title>
+      <link>https://dipteshkanojia.github.io/publication/srirag-etal-2024-experiences/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/srirag-etal-2024-experiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling Strategies for Creation of a Benchmark for Dialectal Sentiment Classification</title>
+      <link>https://dipteshkanojia.github.io/publication/srirag-etal-2024-sampling/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/srirag-etal-2024-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edit Distances and Their Applications to Downstream Tasks in Research and Commercial Contexts</title>
+      <link>https://dipteshkanojia.github.io/publication/carmo-etal-2024-edit/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/carmo-etal-2024-edit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting Ideas in &#39;Lower-Resource&#39; Scenarios: NLP for National Varieties, Creoles and Other Low-resource Scenarios</title>
+      <link>https://dipteshkanojia.github.io/publication/joshi-etal-2024-connecting/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/joshi-etal-2024-connecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Translate Error Analysis for Mental Healthcare Information: Evaluating Accuracy, Comprehensibility, and Implications for Multilingual Healthcare Communication</title>
+      <link>https://dipteshkanojia.github.io/publication/delfani-etal-2024-google/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/delfani-etal-2024-google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airavata: Introducing Hindi Instruction-tuned LLM</title>
+      <link>https://dipteshkanojia.github.io/publication/gala-etal-2024-airavata/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/gala-etal-2024-airavata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APE-then-QE: Correcting then Filtering Pseudo Parallel Corpora for MT Training Data Creation</title>
+      <link>https://dipteshkanojia.github.io/publication/batheja-etal-2023-ape/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/batheja-etal-2023-ape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarcasm in Sight and Sound: Benchmarking and Expansion to Improve Multimodal Sarcasm Detection</title>
+      <link>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-sarcasm/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-sarcasm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

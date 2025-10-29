@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>low-resource languages on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.github.io/tags/low-resource-languages/</link>
+    <description>Recent content in low-resource languages on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.github.io/tags/low-resource-languages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reference-Less Evaluation of Machine Translation: Navigating Through the Resource-Scarce Scenarios</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-alope/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-alope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompt-based Explainable Quality Estimation for English-Malayalam</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-prompt/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-llms/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2024-together/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2024-together/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting Ideas in &#39;Lower-Resource&#39; Scenarios: NLP for National Varieties, Creoles and Other Low-resource Scenarios</title>
+      <link>https://dipteshkanojia.github.io/publication/joshi-etal-2024-connecting/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/joshi-etal-2024-connecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Quality Estimation for Low-Resource Language Translations: Exploring the Role of Language Relatedness</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2024-optimizing/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2024-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT 2023 Shared Task on Quality Estimation</title>
+      <link>https://dipteshkanojia.github.io/publication/blain-etal-2023-findings/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/blain-etal-2023-findings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

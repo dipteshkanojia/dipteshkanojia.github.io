@@ -6,10 +6,55 @@
     <description>Recent content in Tharindu Ranasinghe on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/authors/tharindu-ranasinghe/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What do Large Language Models Need for Machine Translation Evaluation?</title>
+      <link>https://dipteshkanojia.github.io/publication/qian-etal-2024-large/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/qian-etal-2024-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Multimodal Sarcasm Detection</title>
+      <link>https://dipteshkanojia.github.io/publication/farabi-etal-2024-survey/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/farabi-etal-2024-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality Estimation-Assisted Automatic Post-Editing</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-quality/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SurreyAI 2023 Submission for the Quality Estimation Shared Task</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2023-surreyai/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2023-surreyai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-task Learning Framework for Quality Estimation</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-multi/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-multi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation</title>

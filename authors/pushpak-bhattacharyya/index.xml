@@ -6,10 +6,100 @@
     <description>Recent content in Pushpak Bhattacharyya on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.github.io/authors/pushpak-bhattacharyya/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Giving the Old a Fresh Spin: Quality Estimation-Assisted Constrained Decoding for Automatic Post-Editing</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2025-giving/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2025-giving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refer to the Reference: Reference-focused Synthetic Automatic Post-Editing Data Generation</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2025-refer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2025-refer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the Quality Estimation Shared Task at WMT 2024: Are LLMs Closing the Gap in QE?</title>
+      <link>https://dipteshkanojia.github.io/publication/zerva-etal-2024-findings/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/zerva-etal-2024-findings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2024-together/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2024-together/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APE-then-QE: Correcting then Filtering Pseudo Parallel Corpora for MT Training Data Creation</title>
+      <link>https://dipteshkanojia.github.io/publication/batheja-etal-2023-ape/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/batheja-etal-2023-ape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT 2023 Shared Task on Automatic Post-Editing</title>
+      <link>https://dipteshkanojia.github.io/publication/bhattacharyya-2023-wmt-ape-findings/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/bhattacharyya-2023-wmt-ape-findings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predict and Use: Harnessing Predicted Gaze to Improve Multimodal Sarcasm Detection</title>
+      <link>https://dipteshkanojia.github.io/publication/tiwari-etal-2023-predict/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/tiwari-etal-2023-predict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality Estimation-Assisted Automatic Post-Editing</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-quality/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarcasm in Sight and Sound: Benchmarking and Expansion to Improve Multimodal Sarcasm Detection</title>
+      <link>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-sarcasm/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-sarcasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-task Learning Framework for Quality Estimation</title>
+      <link>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-multi/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/deoghare-etal-2023-multi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Findings of the WMT 2022 Shared Task on Automatic Post-Editing</title>

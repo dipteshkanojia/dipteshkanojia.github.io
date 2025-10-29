@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reference-Less Evaluation of Machine Translation: Navigating Through the Resource-Scarce Scenarios</title>
+      <link>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/sindhujan-etal-2025-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing for Dialects of a Language: A Survey</title>
+      <link>https://dipteshkanojia.github.io/publication/joshi-etal-2025-natural/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/joshi-etal-2025-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CreoleVal: Multilingual Multitask Benchmarks for Creoles</title>
+      <link>https://dipteshkanojia.github.io/publication/lent-etal-2024-creoleval/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.github.io/publication/lent-etal-2024-creoleval/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
