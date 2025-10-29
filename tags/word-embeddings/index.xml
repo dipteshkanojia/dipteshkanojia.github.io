@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>word embeddings on Kanojia, Diptesh</title>
-    <link>https://dipteshkanojia.github.io/tags/word-embeddings/</link>
+    <link>https://dipteshkanojia.co.uk/tags/word-embeddings/</link>
     <description>Recent content in word embeddings on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://dipteshkanojia.github.io/tags/word-embeddings/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.co.uk/tags/word-embeddings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>&#34;A Passage to India&#34;: Pre-trained Word Embeddings for Indian Languages</title>
-      <link>https://dipteshkanojia.github.io/publication/lrec-2020-embeddings/</link>
+      <link>https://dipteshkanojia.co.uk/publication/lrec-2020-embeddings/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/lrec-2020-embeddings/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/lrec-2020-embeddings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommendation Chart of Domains for Cross-Domain Sentiment Analysis: Findings of A 20 Domain Study</title>
-      <link>https://dipteshkanojia.github.io/publication/lrec-2020-cdsa/</link>
+      <link>https://dipteshkanojia.co.uk/publication/lrec-2020-cdsa/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/lrec-2020-cdsa/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/lrec-2020-cdsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategies of Effective Digitization of Commentaries and Sub-commentaries: Towards the Construction of Textual History</title>
-      <link>https://dipteshkanojia.github.io/publication/sssu-2020-commentaries/</link>
+      <link>https://dipteshkanojia.co.uk/publication/sssu-2020-commentaries/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/sssu-2020-commentaries/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/sssu-2020-commentaries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#34;Keep Your Dimensions on a Leash&#34;: True Cognate Detection using Siamese Deep Neural Networks</title>
-      <link>https://dipteshkanojia.github.io/publication/cods-2020-cognate/</link>
+      <link>https://dipteshkanojia.co.uk/publication/cods-2020-cognate/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/cods-2020-cognate/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/cods-2020-cognate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harnessing Deep Cross-lingual Word Embeddings to Infer Accurate Phylogenetic Trees</title>
-      <link>https://dipteshkanojia.github.io/publication/cods-2020-typological/</link>
+      <link>https://dipteshkanojia.co.uk/publication/cods-2020-typological/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/cods-2020-typological/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/cods-2020-typological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Utilizing Word Embeddings based Features for Phylogenetic Tree Generation of Sanskrit Texts</title>
-      <link>https://dipteshkanojia.github.io/publication/iscls-2019-embeddings/</link>
+      <link>https://dipteshkanojia.co.uk/publication/iscls-2019-embeddings/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/iscls-2019-embeddings/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/iscls-2019-embeddings/</guid>
       <description></description>
     </item>
     

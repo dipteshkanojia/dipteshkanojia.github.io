@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Kanojia, Diptesh</title>
-    <link>https://dipteshkanojia.github.io/talk/</link>
+    <link>https://dipteshkanojia.co.uk/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Feb 2023 12:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://dipteshkanojia.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.co.uk/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Advances in Natural Language Processing @ Surrey</title>
-      <link>https://dipteshkanojia.github.io/talk/convposter/</link>
+      <link>https://dipteshkanojia.co.uk/talk/convposter/</link>
       <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/convposter/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/convposter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop: Teaching Neural Machine Translation to Translators</title>
-      <link>https://dipteshkanojia.github.io/talk/convworkshopnmt/</link>
+      <link>https://dipteshkanojia.co.uk/talk/convworkshopnmt/</link>
       <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/convworkshopnmt/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/convworkshopnmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality Estimation for Machine Translation</title>
-      <link>https://dipteshkanojia.github.io/talk/convpaneltalk/</link>
+      <link>https://dipteshkanojia.co.uk/talk/convpaneltalk/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/convpaneltalk/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/convpaneltalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitive Natural Language Processing</title>
-      <link>https://dipteshkanojia.github.io/talk/cmcbseminar/</link>
+      <link>https://dipteshkanojia.co.uk/talk/cmcbseminar/</link>
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/cmcbseminar/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/cmcbseminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality Estimation</title>
-      <link>https://dipteshkanojia.github.io/talk/kitguestlec/</link>
+      <link>https://dipteshkanojia.co.uk/talk/kitguestlec/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/kitguestlec/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/kitguestlec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dialouge Processing: The role of NLP and building blocks of a chatbot</title>
-      <link>https://dipteshkanojia.github.io/talk/lithmetalk/</link>
+      <link>https://dipteshkanojia.co.uk/talk/lithmetalk/</link>
       <pubDate>Fri, 16 Sep 2022 13:30:00 +0100</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/lithmetalk/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/lithmetalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transformers: Perspectives from NLP</title>
-      <link>https://dipteshkanojia.github.io/talk/cvssptalk/</link>
+      <link>https://dipteshkanojia.co.uk/talk/cvssptalk/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/cvssptalk/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/cvssptalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducing Neural Machine Translation (NMT) to Translators</title>
-      <link>https://dipteshkanojia.github.io/talk/nmttalk/</link>
+      <link>https://dipteshkanojia.co.uk/talk/nmttalk/</link>
       <pubDate>Fri, 04 Mar 2022 12:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/nmttalk/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/nmttalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality Estimation for Machine Translation</title>
-      <link>https://dipteshkanojia.github.io/talk/msrintalk/</link>
+      <link>https://dipteshkanojia.co.uk/talk/msrintalk/</link>
       <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/msrintalk/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/msrintalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Neural Machine Translation</title>
-      <link>https://dipteshkanojia.github.io/talk/icontutorial-2020/</link>
+      <link>https://dipteshkanojia.co.uk/talk/icontutorial-2020/</link>
       <pubDate>Fri, 18 Dec 2020 10:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/icontutorial-2020/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/icontutorial-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigations into the use of Distributed Semantics for Cognate Detection and Computational Phylogenetics</title>
-      <link>https://dipteshkanojia.github.io/talk/csirotalk/</link>
+      <link>https://dipteshkanojia.co.uk/talk/csirotalk/</link>
       <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/csirotalk/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/csirotalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Language Processing and its intersection with Data Science</title>
-      <link>https://dipteshkanojia.github.io/talk/techfestalk/</link>
+      <link>https://dipteshkanojia.co.uk/talk/techfestalk/</link>
       <pubDate>Sat, 15 Dec 2018 13:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/techfestalk/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/techfestalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP Fundamentals at VIVA IET</title>
-      <link>https://dipteshkanojia.github.io/talk/vivatalk/</link>
+      <link>https://dipteshkanojia.co.uk/talk/vivatalk/</link>
       <pubDate>Mon, 20 Jun 2016 09:00:00 +0100</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/talk/vivatalk/</guid>
+      <guid>https://dipteshkanojia.co.uk/talk/vivatalk/</guid>
       <description></description>
     </item>
     

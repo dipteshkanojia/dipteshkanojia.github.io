@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dataset on Kanojia, Diptesh</title>
-    <link>https://dipteshkanojia.github.io/tags/dataset/</link>
+    <link>https://dipteshkanojia.co.uk/tags/dataset/</link>
     <description>Recent content in dataset on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://dipteshkanojia.github.io/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.co.uk/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Utilizing Weak Supervision to Create S3D: A Sarcasm Annotated Dataset</title>
-      <link>https://dipteshkanojia.github.io/publication/nlpcss-emnlp-2022-sarcasm/</link>
+      <link>https://dipteshkanojia.co.uk/publication/nlpcss-emnlp-2022-sarcasm/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/nlpcss-emnlp-2022-sarcasm/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/nlpcss-emnlp-2022-sarcasm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HiNER: A Large Hindi Named Entity Recognition Dataset</title>
-      <link>https://dipteshkanojia.github.io/publication/lrec-2022-hiner/</link>
+      <link>https://dipteshkanojia.co.uk/publication/lrec-2022-hiner/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/lrec-2022-hiner/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/lrec-2022-hiner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PLOD: An Abbreviation Detection Dataset for Scientific Documents</title>
-      <link>https://dipteshkanojia.github.io/publication/lrec-2022-plod/</link>
+      <link>https://dipteshkanojia.co.uk/publication/lrec-2022-plod/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/lrec-2022-plod/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/lrec-2022-plod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#39;So You Think You’re Funny?&#39;: Rating the Humour Quotient in Standup Comedy</title>
-      <link>https://dipteshkanojia.github.io/publication/emnlp-2021-standup/</link>
+      <link>https://dipteshkanojia.co.uk/publication/emnlp-2021-standup/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/emnlp-2021-standup/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/emnlp-2021-standup/</guid>
       <description></description>
     </item>
     

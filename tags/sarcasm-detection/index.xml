@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sarcasm detection on Kanojia, Diptesh</title>
-    <link>https://dipteshkanojia.github.io/tags/sarcasm-detection/</link>
+    <link>https://dipteshkanojia.co.uk/tags/sarcasm-detection/</link>
     <description>Recent content in sarcasm detection on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://dipteshkanojia.github.io/tags/sarcasm-detection/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dipteshkanojia.co.uk/tags/sarcasm-detection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English</title>
-      <link>https://dipteshkanojia.github.io/publication/srirag-etal-2025-besstie/</link>
+      <link>https://dipteshkanojia.co.uk/publication/srirag-etal-2025-besstie/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/srirag-etal-2025-besstie/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/srirag-etal-2025-besstie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Survey of Multimodal Sarcasm Detection</title>
-      <link>https://dipteshkanojia.github.io/publication/farabi-etal-2024-survey/</link>
+      <link>https://dipteshkanojia.co.uk/publication/farabi-etal-2024-survey/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/farabi-etal-2024-survey/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/farabi-etal-2024-survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predict and Use: Harnessing Predicted Gaze to Improve Multimodal Sarcasm Detection</title>
-      <link>https://dipteshkanojia.github.io/publication/tiwari-etal-2023-predict/</link>
+      <link>https://dipteshkanojia.co.uk/publication/tiwari-etal-2023-predict/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/tiwari-etal-2023-predict/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/tiwari-etal-2023-predict/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sarcasm in Sight and Sound: Benchmarking and Expansion to Improve Multimodal Sarcasm Detection</title>
-      <link>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-sarcasm/</link>
+      <link>https://dipteshkanojia.co.uk/publication/bhosale-etal-2023-sarcasm/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/bhosale-etal-2023-sarcasm/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/bhosale-etal-2023-sarcasm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Utilizing Weak Supervision to Create S3D: A Sarcasm Annotated Dataset</title>
-      <link>https://dipteshkanojia.github.io/publication/nlpcss-emnlp-2022-sarcasm/</link>
+      <link>https://dipteshkanojia.co.uk/publication/nlpcss-emnlp-2022-sarcasm/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/nlpcss-emnlp-2022-sarcasm/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/nlpcss-emnlp-2022-sarcasm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sarcasm Suite: A browser-based engine for sarcasm detection and generation</title>
-      <link>https://dipteshkanojia.github.io/publication/joshi-2017-sarcasm/</link>
+      <link>https://dipteshkanojia.co.uk/publication/joshi-2017-sarcasm/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/joshi-2017-sarcasm/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/joshi-2017-sarcasm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harnessing Cognitive Features for Sarcasm Detection</title>
-      <link>https://dipteshkanojia.github.io/publication/mishra-2016-harnessing/</link>
+      <link>https://dipteshkanojia.co.uk/publication/mishra-2016-harnessing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-harnessing/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/mishra-2016-harnessing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Readers&#39; Sarcasm Understandability by Modeling Gaze Behavior</title>
-      <link>https://dipteshkanojia.github.io/publication/mishra-2016-predicting/</link>
+      <link>https://dipteshkanojia.co.uk/publication/mishra-2016-predicting/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.github.io/publication/mishra-2016-predicting/</guid>
+      <guid>https://dipteshkanojia.co.uk/publication/mishra-2016-predicting/</guid>
       <description></description>
     </item>
     
