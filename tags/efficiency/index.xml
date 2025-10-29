@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>efficiency on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.co.uk/tags/efficiency/</link>
+    <description>Recent content in efficiency on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0100</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.co.uk/tags/efficiency/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficient and Explainable Information Retrieval</title>
+      <link>https://dipteshkanojia.co.uk/talk/ebay2023-efficient-explainable-ir/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/talk/ebay2023-efficient-explainable-ir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

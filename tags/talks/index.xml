@@ -6,10 +6,37 @@
     <description>Recent content in talks on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/tags/talks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From Search Relevance to Content Safety</title>
+      <link>https://dipteshkanojia.co.uk/talk/ebay2025-search-safety/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/talk/ebay2025-search-safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative AI and Natural Language Processing</title>
+      <link>https://dipteshkanojia.co.uk/talk/iet2024-generative-ai-nlp/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/talk/iet2024-generative-ai-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient and Explainable Information Retrieval</title>
+      <link>https://dipteshkanojia.co.uk/talk/ebay2023-efficient-explainable-ir/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/talk/ebay2023-efficient-explainable-ir/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Workshop: Teaching Neural Machine Translation to Translators</title>

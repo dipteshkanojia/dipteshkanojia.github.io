@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>people-centred-ai on Kanojia, Diptesh</title>
+    <link>https://dipteshkanojia.co.uk/tags/people-centred-ai/</link>
+    <description>Recent content in people-centred-ai on Kanojia, Diptesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.co.uk/tags/people-centred-ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generative AI and Natural Language Processing</title>
+      <link>https://dipteshkanojia.co.uk/talk/iet2024-generative-ai-nlp/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/talk/iet2024-generative-ai-nlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
