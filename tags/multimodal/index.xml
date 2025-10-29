@@ -6,10 +6,19 @@
     <description>Recent content in multimodal on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/tags/multimodal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Towards a Robust Framework for Multimodal Hate Detection: A Study on Video vs. Image-based Content</title>
+      <link>https://dipteshkanojia.co.uk/publication/koushik-etal-2025-multimodal-hate-detection/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/koushik-etal-2025-multimodal-hate-detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CAMU: Context Augmentation for Meme Understanding</title>

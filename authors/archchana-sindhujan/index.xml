@@ -6,10 +6,19 @@
     <description>Recent content in Archchana Sindhujan on Kanojia, Diptesh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/archchana-sindhujan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models</title>
+      <link>https://dipteshkanojia.co.uk/talk/nlpcafe2025-alope/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/talk/nlpcafe2025-alope/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reference-Less Evaluation of Machine Translation: Navigating Through the Resource-Scarce Scenarios</title>
