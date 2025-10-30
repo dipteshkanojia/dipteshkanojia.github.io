@@ -123,9 +123,9 @@
   <meta property="twitter:site" content="@diptesh">
   <meta property="twitter:creator" content="@diptesh">
   
-  <meta property="og:site_name" content="दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:site_name" content="Diptesh Kanojia">
   <meta property="og:url" content="https://dipteshkanojia.co.uk/publication/blain-etal-2023-findings/">
-  <meta property="og:title" content="Findings of the WMT 2023 Shared Task on Quality Estimation | दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:title" content="Findings of the WMT 2023 Shared Task on Quality Estimation | Diptesh Kanojia">
   <meta property="og:description" content="We report the results of the WMT 2023 shared task on Quality Estimation, in which the challenge is to predict the quality of the output of neural machine translation systems at the word and sentence levels, without access to reference translations. This edition introduces a few novel aspects and extensions that aim to enable more fine-grained, and explainable quality estimation approaches. We introduce an updated quality annotation scheme using Multidimensional Quality Metrics to obtain sentence- and word-level quality scores for three language pairs. We also extend the provided data to new language pairs: we specifically target low-resource languages and provide training, development and test data for English-Hindi, English-Tamil, English-Telegu and English-Gujarati as well as a zero-shot test-set for English-Farsi. Further, we introduce a novel fine-grained error prediction task aspiring to motivate research towards more detailed quality predictions."><meta property="og:image" content="https://dipteshkanojia.co.uk/img/sharing.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/img/sharing.png"><meta property="og:locale" content="en-us">
   
@@ -169,7 +169,50 @@ if (!doNotTrack) {
 }
 </style>
 
-  <title>Findings of the WMT 2023 Shared Task on Quality Estimation | दिप्तेश कनोजिया | Diptesh Kanojia</title>
+<style>
+   
+
+  .navbar-brand.name-hover-effect {
+    font-size: 1.3rem; 
+    position: relative;
+    min-width: 200px;
+  }
+
+  .navbar-brand.name-hover-effect .en-name,
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    transition: opacity 0.4s ease-in-out, font-size 0.4s ease-in-out;  
+  }
+
+  .navbar-brand.name-hover-effect .en-name {
+     
+    opacity: 1;
+    position: relative;
+  }
+
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    position: absolute;
+    top: 12px;  
+    left: 0;
+    opacity: 0;
+    pointer-events: none; 
+  }
+
+   
+  .navbar-brand.name-hover-effect:hover .en-name {
+     
+    opacity: 0;
+  }
+  .navbar-brand.name-hover-effect:hover .hi-name {
+     
+    font-size: 1.5rem;  
+    opacity: 1;
+    pointer-events: auto;  
+  }
+</style>
+
+  <title>Findings of the WMT 2023 Shared Task on Quality Estimation | Diptesh Kanojia</title>
 
 </head>
 
@@ -213,7 +256,8 @@ if (!doNotTrack) {
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">दिप्तेश कनोजिया | Diptesh Kanojia</a>
+    <a class="navbar-brand name-hover-effect" href="/"><span class="en-name">Diptesh Kanojia</span>
+        <span class="hi-name">दिप्तेश कनोजिया</span></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -871,7 +915,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 30-10-2025 12:53:16</p>
+	<p>Last Updated: 30-10-2025 15:43:26</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

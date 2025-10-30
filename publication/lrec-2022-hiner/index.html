@@ -123,9 +123,9 @@
   <meta property="twitter:site" content="@diptesh">
   <meta property="twitter:creator" content="@diptesh">
   
-  <meta property="og:site_name" content="दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:site_name" content="Diptesh Kanojia">
   <meta property="og:url" content="https://dipteshkanojia.co.uk/publication/lrec-2022-hiner/">
-  <meta property="og:title" content="HiNER: A Large Hindi Named Entity Recognition Dataset | दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:title" content="HiNER: A Large Hindi Named Entity Recognition Dataset | Diptesh Kanojia">
   <meta property="og:description" content="Named Entity Recognition (NER) is a foundational NLP task that aims to provide class labels like Person, Location, Organisation, Time, and Number to words in free text. Named Entities can also be multi-word expressions where the additional I-O-B annotation information helps label them during the NER annotation process. While English and European languages have considerable annotated data for the NER task, Indian languages lack on that front- both in terms of quantity and following annotation standards. This paper releases a significantly sized standard-abiding Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens, annotated with 11 tags. We discuss the dataset statistics in all their essential detail and provide an in-depth analysis of the NER tag-set used with our data. The statistics of tag-set in our dataset show a healthy per-tag distribution, especially for prominent classes like Person, Location and Organisation. Since the proof of resource-effectiveness is in building models with the resource and testing the model on benchmark data and against the leader-board entries in shared tasks, we do the same with the aforesaid data. We use different language models to perform the sequence labelling task for NER and show the efficacy of our data by performing a comparative evaluation with models trained on another dataset available for the Hindi NER task. Our dataset helps achieve a weighted F1 score of 88.78 with all the tags and 92.22 when we collapse the tag-set, as discussed in the paper. To the best of our knowledge, no available dataset meets the standards of volume (amount) and variability (diversity), as far as Hindi NER is concerned. We fill this gap through this work, which we hope will significantly help NLP for Hindi. We release this dataset with our code and models for further research."><meta property="og:image" content="https://dipteshkanojia.co.uk/publication/lrec-2022-hiner/featured.jpg">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/publication/lrec-2022-hiner/featured.jpg"><meta property="og:locale" content="en-us">
   
@@ -169,7 +169,50 @@ if (!doNotTrack) {
 }
 </style>
 
-  <title>HiNER: A Large Hindi Named Entity Recognition Dataset | दिप्तेश कनोजिया | Diptesh Kanojia</title>
+<style>
+   
+
+  .navbar-brand.name-hover-effect {
+    font-size: 1.3rem; 
+    position: relative;
+    min-width: 200px;
+  }
+
+  .navbar-brand.name-hover-effect .en-name,
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    transition: opacity 0.4s ease-in-out, font-size 0.4s ease-in-out;  
+  }
+
+  .navbar-brand.name-hover-effect .en-name {
+     
+    opacity: 1;
+    position: relative;
+  }
+
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    position: absolute;
+    top: 12px;  
+    left: 0;
+    opacity: 0;
+    pointer-events: none; 
+  }
+
+   
+  .navbar-brand.name-hover-effect:hover .en-name {
+     
+    opacity: 0;
+  }
+  .navbar-brand.name-hover-effect:hover .hi-name {
+     
+    font-size: 1.5rem;  
+    opacity: 1;
+    pointer-events: auto;  
+  }
+</style>
+
+  <title>HiNER: A Large Hindi Named Entity Recognition Dataset | Diptesh Kanojia</title>
 
 </head>
 
@@ -213,7 +256,8 @@ if (!doNotTrack) {
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">दिप्तेश कनोजिया | Diptesh Kanojia</a>
+    <a class="navbar-brand name-hover-effect" href="/"><span class="en-name">Diptesh Kanojia</span>
+        <span class="hi-name">दिप्तेश कनोजिया</span></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -1147,7 +1191,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 30-10-2025 12:53:16</p>
+	<p>Last Updated: 30-10-2025 15:43:26</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

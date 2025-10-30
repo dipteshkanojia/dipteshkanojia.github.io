@@ -123,9 +123,9 @@
   <meta property="twitter:site" content="@diptesh">
   <meta property="twitter:creator" content="@diptesh">
   
-  <meta property="og:site_name" content="दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:site_name" content="Diptesh Kanojia">
   <meta property="og:url" content="https://dipteshkanojia.co.uk/publication/chatterjee-2012-study/">
-  <meta property="og:title" content="A Study of the Sense Annotation Process: Man v/s Machine. | दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:title" content="A Study of the Sense Annotation Process: Man v/s Machine. | Diptesh Kanojia">
   <meta property="og:description" content="Does context help determine sense? This question might seem frivolous, even preposterous to anybody sensible. However, our long time research on Word Sense Disambiguation (WSD) shows that in almost all disambiguation algorithms, the sense distribution parameter P(S/W), where P is the probability of the sense of a word W being S, plays the deciding role. The widely reported accuracy figure of around 60% for all-words-domain-independent WSD is contributed to mainly by P(S/W), as one ablation test after another reveals. The story with human annotation is different though. Our experience of working with human annotators who mark with WordNet sense ids, general and domain specific corpora brings to light the interesting fact that producing sense ids without looking at the context is a heavy cognitive load. Sense annotators do form hypothesis in their minds about the possible sense of a word (‘most frequent sense’ bias), but then look at the context for clues to accept or reject the hypothesis. Such clues are minimal, just one or two words, but are critical nonetheless. Without these clues the annotator is left in an indecisive state as to whether or not to put down the first sense coming to his mind. The task becomes all the more cognitively challenging, if the senses are fine grained and seem equally probable. These facts increase the annotation time by a factor of almost 1.5. In the current paper we explore the dichotomy that might exist between machines and humans in the way they determine senses. We study the various parameters for WSD and also the sense marking behavior of human sense annotators. The observations, though not completely conclusive, establish the need for context for humans and that for accurate sense distribution parameters for machines."><meta property="og:image" content="https://dipteshkanojia.co.uk/publication/chatterjee-2012-study/featured.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/publication/chatterjee-2012-study/featured.png"><meta property="og:locale" content="en-us">
   
@@ -169,7 +169,50 @@ if (!doNotTrack) {
 }
 </style>
 
-  <title>A Study of the Sense Annotation Process: Man v/s Machine. | दिप्तेश कनोजिया | Diptesh Kanojia</title>
+<style>
+   
+
+  .navbar-brand.name-hover-effect {
+    font-size: 1.3rem; 
+    position: relative;
+    min-width: 200px;
+  }
+
+  .navbar-brand.name-hover-effect .en-name,
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    transition: opacity 0.4s ease-in-out, font-size 0.4s ease-in-out;  
+  }
+
+  .navbar-brand.name-hover-effect .en-name {
+     
+    opacity: 1;
+    position: relative;
+  }
+
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    position: absolute;
+    top: 12px;  
+    left: 0;
+    opacity: 0;
+    pointer-events: none; 
+  }
+
+   
+  .navbar-brand.name-hover-effect:hover .en-name {
+     
+    opacity: 0;
+  }
+  .navbar-brand.name-hover-effect:hover .hi-name {
+     
+    font-size: 1.5rem;  
+    opacity: 1;
+    pointer-events: auto;  
+  }
+</style>
+
+  <title>A Study of the Sense Annotation Process: Man v/s Machine. | Diptesh Kanojia</title>
 
 </head>
 
@@ -213,7 +256,8 @@ if (!doNotTrack) {
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">दिप्तेश कनोजिया | Diptesh Kanojia</a>
+    <a class="navbar-brand name-hover-effect" href="/"><span class="en-name">Diptesh Kanojia</span>
+        <span class="hi-name">दिप्तेश कनोजिया</span></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -1073,7 +1117,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 30-10-2025 12:53:16</p>
+	<p>Last Updated: 30-10-2025 15:43:26</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

@@ -123,9 +123,9 @@
   <meta property="twitter:site" content="@diptesh">
   <meta property="twitter:creator" content="@diptesh">
   
-  <meta property="og:site_name" content="दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:site_name" content="Diptesh Kanojia">
   <meta property="og:url" content="https://dipteshkanojia.co.uk/publication/zilio-etal-2024-using/">
-  <meta property="og:title" content="Using character-level models for efficient abbreviation and long-form detection | दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:title" content="Using character-level models for efficient abbreviation and long-form detection | Diptesh Kanojia">
   <meta property="og:description" content="Abbreviations and their associated long forms are important textual elements that are present in almost every scientific communication, and having information about these forms can help improve several NLP tasks. In this paper, our aim is to fine-tune language models for automatically identifying abbreviations and long forms. We used existing datasets which are annotated with abbreviations and long forms to train and test several language models, including transformer models, character-level language models, stacking of different embeddings, and ensemble methods. Our experiments showed that it was possible to achieve state-of-the-art results by stacking RoBERTa embeddings with domain-specific embeddings. However, the analysis of our first run showed that one of the datasets had issues in the BIO annotation, which led us to propose a revised dataset. After re-training selected models on the revised dataset, results show that character-level models achieve comparable results, especially when detecting abbreviations, but both RoBERTa large and the stacking of embeddings presented better results on biomedical data. When tested on a different subdomain (segments extracted from computer science texts), an ensemble method proved to yield the best results for the detection of long forms, and a character-level model had the best performance in detecting abbreviations."><meta property="og:image" content="https://dipteshkanojia.co.uk/img/sharing.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/img/sharing.png"><meta property="og:locale" content="en-us">
   
@@ -169,7 +169,50 @@ if (!doNotTrack) {
 }
 </style>
 
-  <title>Using character-level models for efficient abbreviation and long-form detection | दिप्तेश कनोजिया | Diptesh Kanojia</title>
+<style>
+   
+
+  .navbar-brand.name-hover-effect {
+    font-size: 1.3rem; 
+    position: relative;
+    min-width: 200px;
+  }
+
+  .navbar-brand.name-hover-effect .en-name,
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    transition: opacity 0.4s ease-in-out, font-size 0.4s ease-in-out;  
+  }
+
+  .navbar-brand.name-hover-effect .en-name {
+     
+    opacity: 1;
+    position: relative;
+  }
+
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    position: absolute;
+    top: 12px;  
+    left: 0;
+    opacity: 0;
+    pointer-events: none; 
+  }
+
+   
+  .navbar-brand.name-hover-effect:hover .en-name {
+     
+    opacity: 0;
+  }
+  .navbar-brand.name-hover-effect:hover .hi-name {
+     
+    font-size: 1.5rem;  
+    opacity: 1;
+    pointer-events: auto;  
+  }
+</style>
+
+  <title>Using character-level models for efficient abbreviation and long-form detection | Diptesh Kanojia</title>
 
 </head>
 
@@ -213,7 +256,8 @@ if (!doNotTrack) {
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">दिप्तेश कनोजिया | Diptesh Kanojia</a>
+    <a class="navbar-brand name-hover-effect" href="/"><span class="en-name">Diptesh Kanojia</span>
+        <span class="hi-name">दिप्तेश कनोजिया</span></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -887,7 +931,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 30-10-2025 12:53:16</p>
+	<p>Last Updated: 30-10-2025 15:43:26</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

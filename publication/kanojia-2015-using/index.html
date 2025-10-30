@@ -123,9 +123,9 @@
   <meta property="twitter:site" content="@diptesh">
   <meta property="twitter:creator" content="@diptesh">
   
-  <meta property="og:site_name" content="दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:site_name" content="Diptesh Kanojia">
   <meta property="og:url" content="https://dipteshkanojia.co.uk/publication/kanojia-2015-using/">
-  <meta property="og:title" content="Using Multilingual Topic Models for Improved Alignment in English-Hindi MT | दिप्तेश कनोजिया | Diptesh Kanojia">
+  <meta property="og:title" content="Using Multilingual Topic Models for Improved Alignment in English-Hindi MT | Diptesh Kanojia">
   <meta property="og:description" content="Parallel corpora are often injected with bilingual dictionaries for improved Indian language machine translation (MT). In absence of such dictionaries, a coarse dictionary may be required. This paper demonstrates the use of a multilingual topic model for creating coarse dictionaries for English-Hindi MT. We compare our approaches with: (a) a baseline with no additional dictionary injection, and (b) a corpus with a good quality dictionary. Our results show that the existing Cartesian product approach which is used to create the pseudo-parallel data results in a degradation on tourism and health datasets, for English-Hindi MT. Our paper points to the fact that existing Cartesian approach using multilingual topics (devised for European languages) may be detrimental for Indian language MT. On the other hand, we present an alternate ‘sentential’ approach that leads to a slight improvement. However, our sentential approach (using a parallel corpus injected with a coarse dictionary) outperforms a system trained using parallel corpus and a good quality dictionary."><meta property="og:image" content="https://dipteshkanojia.co.uk/publication/kanojia-2015-using/featured.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/publication/kanojia-2015-using/featured.png"><meta property="og:locale" content="en-us">
   
@@ -169,7 +169,50 @@ if (!doNotTrack) {
 }
 </style>
 
-  <title>Using Multilingual Topic Models for Improved Alignment in English-Hindi MT | दिप्तेश कनोजिया | Diptesh Kanojia</title>
+<style>
+   
+
+  .navbar-brand.name-hover-effect {
+    font-size: 1.3rem; 
+    position: relative;
+    min-width: 200px;
+  }
+
+  .navbar-brand.name-hover-effect .en-name,
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    transition: opacity 0.4s ease-in-out, font-size 0.4s ease-in-out;  
+  }
+
+  .navbar-brand.name-hover-effect .en-name {
+     
+    opacity: 1;
+    position: relative;
+  }
+
+  .navbar-brand.name-hover-effect .hi-name {
+     
+    position: absolute;
+    top: 12px;  
+    left: 0;
+    opacity: 0;
+    pointer-events: none; 
+  }
+
+   
+  .navbar-brand.name-hover-effect:hover .en-name {
+     
+    opacity: 0;
+  }
+  .navbar-brand.name-hover-effect:hover .hi-name {
+     
+    font-size: 1.5rem;  
+    opacity: 1;
+    pointer-events: auto;  
+  }
+</style>
+
+  <title>Using Multilingual Topic Models for Improved Alignment in English-Hindi MT | Diptesh Kanojia</title>
 
 </head>
 
@@ -213,7 +256,8 @@ if (!doNotTrack) {
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">दिप्तेश कनोजिया | Diptesh Kanojia</a>
+    <a class="navbar-brand name-hover-effect" href="/"><span class="en-name">Diptesh Kanojia</span>
+        <span class="hi-name">दिप्तेश कनोजिया</span></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -1075,7 +1119,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 30-10-2025 12:53:16</p>
+	<p>Last Updated: 30-10-2025 15:43:26</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 
