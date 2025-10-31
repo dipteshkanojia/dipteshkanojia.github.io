@@ -213,6 +213,102 @@ if (!doNotTrack) {
   }
 </style>
 
+<style>
+   
+
+  .nav-text-wrapper {
+    position: relative;
+    display: inline-block;
+  }
+
+  .en-nav, .hi-nav, .hi-big-nav, .hi-med-nav, .hi-sm-nav {
+    transition: opacity 0.5s ease-in-out;
+  }
+
+  .en-nav {
+    opacity: 1;
+    position: relative;
+  }
+
+  .hi-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: center;
+  }
+  
+  .hi-big-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: center;
+  }
+
+  .hi-sm-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: left;
+  }
+
+  .hi-med-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: center;
+  }
+
+   
+  .nav-link:hover .en-nav,
+  .nav-text-wrapper:hover .en-nav {
+    opacity: 0;
+  }
+
+  .nav-link:hover .hi-nav,
+  .nav-text-wrapper:hover .hi-nav {
+    opacity: 1.1;
+    font-size: 1.25rem;
+    pointer-events: auto;
+  }
+
+  .nav-link:hover .hi-big-nav,
+  .nav-text-wrapper:hover .hi-big-nav {
+    opacity: 1.1;
+    font-size: 2.5rem;
+    pointer-events: auto;
+  }
+
+  .nav-link:hover .hi-med-nav,
+  .nav-text-wrapper:hover .hi-med-nav {
+    opacity: 1.1;
+    font-size: 1.5rem;
+    pointer-events: auto;
+  }
+
+  .nav-link:hover .hi-sm-nav,
+  .nav-text-wrapper:hover .hi-sm-nav {
+    opacity: 1;
+    font-size: 1rem;
+    pointer-events: auto;
+  }
+</style>
+
 
 
   <title>Diptesh Kanojia</title>
@@ -300,7 +396,12 @@ if (!doNotTrack) {
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+          <a class="nav-link " href="/#about" data-target="#about">
+              
+
+                <span>Home</span>
+                
+              </a>
         </li>
 
         
@@ -329,7 +430,18 @@ if (!doNotTrack) {
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#experience" data-target="#experience"><span>Experience</span></a>
+          <a class="nav-link " href="/#experience" data-target="#experience">
+              
+
+                <span class="nav-text-wrapper">
+                  <span class="en-nav">Experience</span>
+                  <span class="hi-nav">
+                    अनुभव
+                    
+                  </span>
+                </span>
+
+              </a>
         </li>
 
         
@@ -358,7 +470,12 @@ if (!doNotTrack) {
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#accomplishments" data-target="#accomplishments"><span>Awards</span></a>
+          <a class="nav-link " href="/#accomplishments" data-target="#accomplishments">
+              
+
+                <span>Awards</span>
+                
+              </a>
         </li>
 
         
@@ -387,58 +504,18 @@ if (!doNotTrack) {
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured" data-target="#featured"><span>Publications</span></a>
-        </li>
+          <a class="nav-link " href="/#featured" data-target="#featured">
+              
 
-        
-        
+                <span class="nav-text-wrapper">
+                  <span class="en-nav">Research</span>
+                  <span class="hi-nav">
+                    अनुसंधान
+                    
+                  </span>
+                </span>
 
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/talk/"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts" data-target="#posts"><span>Posts</span></a>
+              </a>
         </li>
 
         
@@ -467,7 +544,86 @@ if (!doNotTrack) {
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/#talks" data-target="#talks">
+              
+
+                <span>Talks</span>
+                
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts" data-target="#posts">
+              
+
+                <span class="nav-text-wrapper">
+                  <span class="en-nav">Blog</span>
+                  <span class="hi-nav">
+                    पोस्ट
+                    
+                  </span>
+                </span>
+
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact">
+              
+
+                <span>Contact</span>
+                
+              </a>
         </li>
 
         
@@ -721,7 +877,7 @@ if (!doNotTrack) {
     
     <h1>Biography</h1>
 
-    <p><a href="https://www.surrey.ac.uk/people/diptesh-kanojia" target="_blank">Researcher</a> working on problems within areas of Natural Language Processing (NLP) and Machine Learning (ML) at the <a href="https://www.surrey.ac.uk/artificial-intelligence" target="_blank">Institute for People-Centred AI (PAI)</a> and <a href="https://www.surrey.ac.uk/school-computer-science-and-electronic-engineering" target="_blank">School of Computer Science and Electronic Engineering</a>. As a research lead, I manage Human-Machine Interaction @ PAI, and the NLP subgroup within the <a href="https://www.surrey.ac.uk/nature-inspired-computing-and-engineering-research-group" target="_blank">Nature Inspired Computing and Engineering group (NICE)</a> @ <a href="https://www.surrey.ac.uk/computer-science-research-centre" target="_blank">Computer Science Research Centre</a>. I also lead teaching on the NLP module offered to both undergraduate and postgraduate students.</p>
+    <p><a href="https://www.surrey.ac.uk/people/diptesh-kanojia" target="_blank">Researcher</a> working on problems within areas of Natural Language Processing (NLP) and Machine Learning (ML) at the <a href="https://www.surrey.ac.uk/artificial-intelligence" target="_blank">Institute for People-Centred AI (PAI)</a> and <a href="https://www.surrey.ac.uk/school-computer-science-and-electronic-engineering" target="_blank">School of Computer Science and Electronic Engineering</a>. As a research lead, I manage the NLP subgroup within the <a href="https://www.surrey.ac.uk/nature-inspired-computing-and-engineering-research-group" target="_blank">Nature Inspired Computing and Engineering group (NICE)</a> @ <a href="https://www.surrey.ac.uk/computer-science-research-centre" target="_blank">Computer Science Research Centre</a>. I also lead teaching on the NLP module offered to both undergraduate and postgraduate students.</p>
 <p>My research focuses on developing scalable and safe human-machine interaction using foundation models. Guided by the principles of Responsible and Inclusive AI, my work emphasises cross-lingual and multimodal representation learning to address challenges like online toxicity, misinformation, and digital accessibility for low-resource languages. Our research outcomes- code, data, and models, are publicly available on the <a href="https://github.com/surrey-nlp/" target="_blank">SurreyNLP GitHub</a> and  <a href="https://huggingface.co/surrey-nlp" target="_blank">HuggingFace</a>.</p>
 <p>My prior roles include a Postdoctoral Fellowship at the <a href="https://www.surrey.ac.uk/centre-translation-studies" target="_blank">Centre for Translation Studies</a>, a joint PhD from <a href="https://www.iitb.ac.in/" target="_blank">IIT Bombay</a> and <a href="https://www.monash.edu/" target="_blank">Monash University</a>, and Research Engineer at the <a href="https://www.cfilt.iitb.ac.in/" target="_blank">CFILT Lab</a>.</p>
 
@@ -729,27 +885,94 @@ if (!doNotTrack) {
     <div class="row">
 
       
-      <div class="col-md-5">
+      <div class="col-md-6">
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>Natural Language Processing</li>
+          <li>
+            
+            
+
+            
+            
+
+              <span class="nav-text-wrapper">
+                <span class="en-nav">Natural Language Processing</span>
+                <span class="hi-sm-nav">
+                  प्राकृतिक भाषा प्रसंस्करण
+                  
+                </span>
+              </span>
+
+            
+          </li>
           
-          <li>Cross-lingual Representation Learning</li>
+          <li>
+            
+            
+
+            
+            
+
+              Cross-lingual Representation Learning
+
+            
+          </li>
           
-          <li>Multimodal NLP</li>
+          <li>
+            
+            
+
+            
+            
+
+              Multimodal NLP
+
+            
+          </li>
           
-          <li>Computational Linguistics</li>
+          <li>
+            
+            
+
+            
+            
+
+              Computational Linguistics
+
+            
+          </li>
           
-          <li>Artificial Intelligence</li>
+          <li>
+            
+            
+
+            
+            
+
+              <span class="nav-text-wrapper">
+                <span class="en-nav">Artificial Intelligence</span>
+                <span class="hi-sm-nav">
+                  कृत्रिम बुद्धिमत्ता
+                  
+                </span>
+              </span>
+
+            
+          </li>
           
         </ul>
       </div>
       
 
       
-      <div class="col-md-7">
-        <h3>Education</h3>
+      <div class="col-md-6">
+        <h3>
+          <span class="nav-text-wrapper">
+            <span class="en-nav">Education</span>
+            <span class="hi-med-nav">शिक्षा</span>
+          </span>
+        </h3>
         <ul class="ul-edu fa-ul">
           
           <li>
@@ -825,7 +1048,12 @@ if (!doNotTrack) {
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Experience</h1>
+    <h1>
+      <span class="nav-text-wrapper">
+        <span class="en-nav">Experience</span>
+        <span class="hi-big-nav">अनुभव</span>
+      </span>
+    </h1>
     
   </div>
   <div class="col-12 col-lg-8">
@@ -1318,7 +1546,7 @@ if (!doNotTrack) {
           </div>
 
           
-            <div class="card-text">Awarded the best poster paper presentation in the PhD Early Researchers category from amongst all students of the IITB-Monash Research Academy</div>
+            <div class="card-text">Awarded the best poster paper presentation in the PhD Early Researchers category</div>
           
 
           
@@ -1335,7 +1563,7 @@ if (!doNotTrack) {
           </div>
 
           
-            <div class="card-text">Awarded the CISCO fellowship from among all the applicants of Computer Science and Engineering Department, IIT Bombay</div>
+            <div class="card-text">Awarded the CISCO fellowship for pursuing PhD research</div>
           
 
           
@@ -1354,7 +1582,7 @@ if (!doNotTrack) {
           </div>
 
           
-            <div class="card-text">Part of the winning team of SMT competition held at ICON 2014, Goa. We built a Heirarchical Phrase-based SMT system for English to Indic Language MT which performed the best on all 5 language pairs.</div>
+            <div class="card-text">Part of the winning team of SMT competition held at ICON 2014, Goa. We submitted a Heirarchical Phrase-based SMT system for English to Indic Language MT which performed the best on all 5 language pairs.</div>
           
 
           
@@ -3638,7 +3866,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 30-10-2025 16:28:29</p>
+	<p>Last Updated: 31-10-2025 08:18:52</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 
