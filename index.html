@@ -173,49 +173,6 @@ if (!doNotTrack) {
 <style>
    
 
-  .navbar-brand.name-hover-effect {
-    font-size: 1.3rem; 
-    position: relative;
-    min-width: 200px;
-  }
-
-  .navbar-brand.name-hover-effect .en-name,
-  .navbar-brand.name-hover-effect .hi-name {
-     
-    transition: opacity 0.4s ease-in-out, font-size 0.4s ease-in-out;  
-  }
-
-  .navbar-brand.name-hover-effect .en-name {
-     
-    opacity: 1;
-    position: relative;
-  }
-
-  .navbar-brand.name-hover-effect .hi-name {
-     
-    position: absolute;
-    top: 12px;  
-    left: 0;
-    opacity: 0;
-    pointer-events: none; 
-  }
-
-   
-  .navbar-brand.name-hover-effect:hover .en-name {
-     
-    opacity: 0;
-  }
-  .navbar-brand.name-hover-effect:hover .hi-name {
-     
-    font-size: 1.5rem;  
-    opacity: 1;
-    pointer-events: auto;  
-  }
-</style>
-
-<style>
-   
-
   .nav-text-wrapper {
     position: relative;
     display: inline-block;
@@ -238,7 +195,7 @@ if (!doNotTrack) {
     pointer-events: none;
      
     width: 100%;
-    text-align: center;
+    text-align: left;
   }
   
   .hi-big-nav {
@@ -328,20 +285,35 @@ if (!doNotTrack) {
   .name-cycler {
     position: relative;
     min-height: 40px;  
+  }
+
+   
+  a.name-cycler {
+    font-size: 1.3rem;  
+    min-width: 200px;
+  }
+
+   
+  h2.name-cycler {
     text-align: center;
   }
 
+   
   .name-cycler span {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
-    text-align: center;  
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
     pointer-events: none;
   }
 
+   
+  a.name-cycler span { text-align: left; }
+  h2.name-cycler span { text-align: center; }
+
+   
   .name-cycler span.name-en {
     opacity: 1;  
   }
@@ -350,48 +322,60 @@ if (!doNotTrack) {
     opacity: 0;  
   }
 
-  .name-cycler span.is-hover-visible {
+   
+  h2.name-cycler span.is-hover-visible {
     opacity: 1.1;  
     font-size: 1.83rem;
+  }
+  a.name-cycler span.is-hover-visible {
+    opacity: 1;  
+    font-size: 1.5rem;  
   }
 
    
   #profile .portrait-title h3,
   #profile .network-icon {
-    text-align: center;
-    padding-left: 0;  
+    text-align: center;  
+    padding-left: 0; 
   }
 </style>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    const nameContainer = document.querySelector('.name-cycler');
-    if (nameContainer) {
-      const nameEn = nameContainer.querySelector('.name-en');
-      const otherNames = nameContainer.querySelectorAll('.name-other');
-      let currentRandomName = null;
+    
+    const nameContainers = document.querySelectorAll('.name-cycler');
 
-      if (otherNames.length > 0) {
-        nameContainer.addEventListener('mouseenter', function() {
-          
-          const randomIndex = Math.floor(Math.random() * otherNames.length);
-          currentRandomName = otherNames[randomIndex];
+    
+    nameContainers.forEach(function(nameContainer) {
+      
+      
+      if (nameContainer) {
+        const nameEn = nameContainer.querySelector('.name-en');
+        const otherNames = nameContainer.querySelectorAll('.name-other');
+        let currentRandomName = null;
 
-          
-          if (currentRandomName) {
-            currentRandomName.classList.add('is-hover-visible');
-          }
-        });
+        if (otherNames.length > 0) {
+          nameContainer.addEventListener('mouseenter', function() {
+            
+            const randomIndex = Math.floor(Math.random() * otherNames.length);
+            currentRandomName = otherNames[randomIndex];
 
-        nameContainer.addEventListener('mouseleave', function() {
-          
-          if (currentRandomName) {
-            currentRandomName.classList.remove('is-hover-visible');
-            currentRandomName = null;
-          }
-        });
+            
+            if (currentRandomName) {
+              currentRandomName.classList.add('is-hover-visible');
+            }
+          });
+
+          nameContainer.addEventListener('mouseleave', function() {
+            
+            if (currentRandomName) {
+              currentRandomName.classList.remove('is-hover-visible');
+              currentRandomName = null;
+            }
+          });
+        }
       }
-    }
+    }); 
   });
 </script>
 
@@ -442,8 +426,41 @@ if (!doNotTrack) {
 
     
     
-    <a class="navbar-brand name-hover-effect" href="/"><span class="en-name">Diptesh Kanojia</span>
-        <span class="hi-name">दिप्तेश कनोजिया</span></a>
+    <a class="navbar-brand name-cycler" href="/"><span class="name-en">Diptesh Kanojia</span>
+        <span class="name-other">दिप्तेश कनोजिया</span>
+        <span class="name-other">দিপ্তেশ কনোজিয়া</span>
+        <span class="name-other">দিপ্তেশ কানোজিয়া</span>
+        <span class="name-other">દિપ્તેશ કનોજિયા</span>
+        <span class="name-other">ਦਿਪਤੇਸ਼ ਕਨੋਜੀਆ</span>
+        <span class="name-other">ଦିପ୍ତେଶ କନୋଜିଆ</span>
+        <span class="name-other">දිප්තේෂ් කනෝජියා</span>
+        <span class="name-other">دِپتیش کنوجیا</span>
+        <span class="name-other">دپتیش کنوجیا</span>
+        <span class="name-other">திப்தேஷ் கனோஜியா</span>
+        <span class="name-other">దిప్తేశ్ కనోజియా</span>
+        <span class="name-other">ದಿಪ್ತೇಶ್ ಕನೋಜಿಯಾ</span> 
+        <span class="name-other">ദിപ്തേഷ് കനോജിയ</span>
+        <span class="name-other">ᱫᱤᱯᱛᱮᱥ ᱠᱚᱱᱚᱡᱤᱭᱟ</span> 
+        <span class="name-other">ꯗꯤꯞꯇꯦꯁ ꯀꯅꯣꯖꯤꯌꯥ</span>
+        <span class="name-other">Ντίπτες Κανότζια</span>
+        <span class="name-other">Dipteş Kanociya</span>
+        <span class="name-other">Dipteş Kanojiýa</span>
+        <span class="name-other">ዲፕተሽ ካኖጂያ</span>
+        <span class="name-other">ทิปเทศ กาโนจิยา</span>
+        <span class="name-other">Đíp-tét Ka-nô-gia</span>
+        <span class="name-other">Диптеш Каноджия</span>
+        <span class="name-other">Diptesz Kanodzia</span>
+        <span class="name-other">Diptesh Canóidia</span>
+        <span class="name-other">Диптеш Канођија</span>
+        <span class="name-other">Dîpteş Kanocîya</span>
+        <span class="name-other">迪普特什·卡诺吉亚</span>
+        <span class="name-other">ディプテシュ・カノジア</span>
+        <span class="name-other">딥테쉬 카노지아</span>
+        <span class="name-other">דיפטש קנוג'יה</span>
+        <span class="name-other">დიპტეშ კანოჯია</span>
+        <span class="name-other">Դիպտեշ Կանոջիա</span>
+        <span class="name-other">/ˈdɪp.t̪eʃ kəˈnoː.dʒɪ.ja/</span>
+        <span class="name-other" style="font-size: 1rem;">44 69 70 74 65 73 68 <br/> 4B 61 6E 6F 6A 69 61</span></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -816,12 +833,12 @@ if (!doNotTrack) {
         <h2 itemprop="name" class="name-cycler">
           <span class="name-en">Diptesh Kanojia</span>
           <span class="name-other">दिप्तेश कनोजिया</span>
-          <span class="name-other">দিপ্তেশ কনোজিয়া</span>
+          <span class="name-other">দীপ্তেশ কনোজিয়া</span>
           <span class="name-other">দিপ্তেশ কানোজিয়া</span>
           <span class="name-other">દિપ્તેશ કનોજિયા</span>
           <span class="name-other">ਦਿਪਤੇਸ਼ ਕਨੋਜੀਆ</span>
           <span class="name-other">ଦିପ୍ତେଶ କନୋଜିଆ</span>
-          <span class="name-other">දිප්තේෂ් කනොජියා</span>
+          <span class="name-other">දිප්තේෂ් කනෝජියා</span>
           <span class="name-other">دِپتیش کنوجیا</span>
           <span class="name-other">دپتیش کنوجیا</span>
           <span class="name-other">திப்தேஷ் கனோஜியா</span>
@@ -849,7 +866,6 @@ if (!doNotTrack) {
           <span class="name-other">Դիպտեշ Կանոջիա</span>
           <span class="name-other">/ˈdɪp.t̪eʃ kəˈnoː.dʒɪ.ja/</span>
           <span class="name-other" style="font-size: 1rem;">44 69 70 74 65 73 68 <br/> 4B 61 6E 6F 6A 69 61</span>
-          
         </h2>
         <h3 itemprop="jobTitle">Senior Lecturer, University of Surrey</h3>
 
@@ -1777,7 +1793,7 @@ if (!doNotTrack) {
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Featured Publications</h1>
+    <h1>Significant Publications</h1>
     
   </div>
   <div class="col-12 col-lg-8">
@@ -2141,192 +2157,6 @@ if (!doNotTrack) {
 
       
     
-      
-        
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple" itemscope itemtype="http://schema.org/ScholarlyArticle">
-
-  
-    
-
-
-
-<meta content="2021-04-23 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2021-04-23 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/diptesh-kanojia/">Diptesh Kanojia</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/prashant-sharma/">Prashant Sharma</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sayali-ghodekar/">Sayali Ghodekar</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/pushpak-bhattacharyya/">Pushpak Bhattacharyya</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/gholamreza-haffari/">Gholamreza Haffari</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/malhar-kulkarni/">Malhar Kulkarni</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    <time>April 2021</time>
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <em>Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-  
-
-  
-  
-  
-  
-  <a href="/publication/eacl-2021-cognate/">
-      <img src="/publication/eacl-2021-cognate/featured_hu064719642517c0de8b7e0d5c695ad3f3_62861_918x517_fill_q90_lanczos_smart1.jpg" class="article-banner" itemprop="image" alt="">
-  </a>
-  
-
-  <h3 class="article-title mb-1 mt-3" itemprop="name">
-    <a href="/publication/eacl-2021-cognate/" itemprop="url">Cognition-aware Cognate Detection</a>
-  </h3>
-
-  
-  <div class="article-style" itemprop="articleBody">
-    Automatic detection of cognates helps downstream NLP tasks of Machine Translation, Cross-lingual Information Retrieval, Computational Phylogenetics and Cross-lingual Named Entity Recognition. Previous approaches for the task of cognate detection use orthographic, phonetic and semantic similarity based features sets. In this paper, we propose a novel method for enriching the feature sets, with cognitive features extracted from human readers&rsquo; gaze behaviour. We collect gaze behaviour data for a small sample of cognates and show that extracted cognitive features help the task of cognate detection. However, gaze data collection and annotation is a costly task. We use the collected gaze behaviour data to predict cognitive features for a larger sample and show that predicted cognitive features, also, significantly improve the task performance. We report improvements of 10% with the collected gaze features, and 12% using the predicted gaze features, over the previously proposed approaches. Furthermore, we release the collected gaze behaviour data along with our code and cross-lingual models. &lt;/&gt; <em>This paper was awarded an honourable mention during the best papers award in the long papers category at EACL 2021.</em> &lt;/&gt;
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2112.08087" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/eacl-2021-cognate.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/eacl-2021-cognate/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/cfiltnlp/CaCD" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/poster-eacl-2021-cognate.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/ppt-eacl-2021-cognate.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://slideslive.com/38954530/cognitionaware-cognate-detection" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-      
-    
 
   </div>
 </div>
@@ -2410,7 +2240,7 @@ if (!doNotTrack) {
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent Publications</h1>
+    <h1>Recent Research</h1>
     
   </div>
   <div class="col-12 col-lg-8">
@@ -2746,96 +2576,6 @@ if (!doNotTrack) {
 
       
     
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span itemprop="author" class="article-metadata li-cite-author">
-    
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/dipankar-srirag/">Dipankar Srirag</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aditya-joshi/">Aditya Joshi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jordan-painter/">Jordan Painter</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/diptesh-kanojia/">Diptesh Kanojia</a></span>
-
-  </span>
-  (2025).
-  <a href="/publication/srirag-etal-2025-besstie/" itemprop="name">BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English</a>.
-  <em>Findings of the Association for Computational Linguistics: ACL 2025</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aclanthology.org/2025.findings-acl.441.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/srirag-etal-2025-besstie/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/unswnlp/BESSTIE" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://huggingface.co/datasets/unswnlporg/BESSTIE" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/poster-acl-2025-BESSTIE.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
 
     
     <div class="see-all">
@@ -2928,7 +2668,7 @@ if (!doNotTrack) {
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent &amp; Upcoming Talks</h1>
+    <h1>Recent Talks</h1>
     
   </div>
   <div class="col-12 col-lg-8">
@@ -3310,238 +3050,6 @@ if (!doNotTrack) {
 
       
     
-      
-        
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/ebay2023-efficient-explainable-ir/" itemprop="url">Efficient and Explainable Information Retrieval</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      Keynote speaker at eBay Tech day discussing Efficient and Explainable Information Retrieval.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span itemprop="startDate">
-          
-          Oct 1, 2023
-          
-            12:00 AM
-            
-          
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span itemprop="location">eBay Inc., USA</span>
-        
-      </div>
-      
-
-      
-      <div itemprop="author">
-        
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/diptesh-kanojia/">Diptesh Kanojia</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/ebay2023-efficient-explainable-ir/">
-      <img src="/talk/ebay2023-efficient-explainable-ir/featured_hu70183ae3fca5008d6dc1fd667acec43b_143001_150x0_resize_lanczos_2.png" itemprop="image">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/convposter/" itemprop="url">Advances in Natural Language Processing @ Surrey</a>
-    </h3>
-
-    
-    <div class="article-style" itemprop="articleBody">
-      This was a poster I presented at <a href="https://www.surrey.ac.uk/centre-translation-studies/convergence-2023">Convergence 2023</a>. I discuss the work done, the collaborations, our NLP Cafe and publicly available …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span itemprop="startDate">
-          
-          Feb 4, 2023
-          
-            12:00 PM
-            
-          
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span itemprop="location">Surrey, United Kingdom (Online)</span>
-        
-      </div>
-      
-
-      
-      <div itemprop="author">
-        
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/diptesh-kanojia/">Diptesh Kanojia</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/nlp-convergence-poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/convposter/">
-      <img src="/talk/convposter/featured_hu06e41bab16cd3479dd4a279a42ea3377_369324_150x0_resize_lanczos_2.png" itemprop="image">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
 
     
     <div class="see-all">
@@ -3634,7 +3142,7 @@ if (!doNotTrack) {
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent Posts</h1>
+    <h1>Blog Posts</h1>
     <p>I click and I ramble quite often. Some of it will be put up here.</p>
   </div>
   <div class="col-12 col-lg-8">
@@ -3989,7 +3497,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 31-10-2025 13:34:03</p>
+	<p>Last Updated: 31-10-2025 15:16:00</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

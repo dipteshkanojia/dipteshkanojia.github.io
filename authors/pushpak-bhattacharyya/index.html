@@ -173,49 +173,6 @@ if (!doNotTrack) {
 <style>
    
 
-  .navbar-brand.name-hover-effect {
-    font-size: 1.3rem; 
-    position: relative;
-    min-width: 200px;
-  }
-
-  .navbar-brand.name-hover-effect .en-name,
-  .navbar-brand.name-hover-effect .hi-name {
-     
-    transition: opacity 0.4s ease-in-out, font-size 0.4s ease-in-out;  
-  }
-
-  .navbar-brand.name-hover-effect .en-name {
-     
-    opacity: 1;
-    position: relative;
-  }
-
-  .navbar-brand.name-hover-effect .hi-name {
-     
-    position: absolute;
-    top: 12px;  
-    left: 0;
-    opacity: 0;
-    pointer-events: none; 
-  }
-
-   
-  .navbar-brand.name-hover-effect:hover .en-name {
-     
-    opacity: 0;
-  }
-  .navbar-brand.name-hover-effect:hover .hi-name {
-     
-    font-size: 1.5rem;  
-    opacity: 1;
-    pointer-events: auto;  
-  }
-</style>
-
-<style>
-   
-
   .nav-text-wrapper {
     position: relative;
     display: inline-block;
@@ -238,7 +195,7 @@ if (!doNotTrack) {
     pointer-events: none;
      
     width: 100%;
-    text-align: center;
+    text-align: left;
   }
   
   .hi-big-nav {
@@ -328,20 +285,35 @@ if (!doNotTrack) {
   .name-cycler {
     position: relative;
     min-height: 40px;  
+  }
+
+   
+  a.name-cycler {
+    font-size: 1.3rem;  
+    min-width: 200px;
+  }
+
+   
+  h2.name-cycler {
     text-align: center;
   }
 
+   
   .name-cycler span {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
-    text-align: center;  
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
     pointer-events: none;
   }
 
+   
+  a.name-cycler span { text-align: left; }
+  h2.name-cycler span { text-align: center; }
+
+   
   .name-cycler span.name-en {
     opacity: 1;  
   }
@@ -350,48 +322,60 @@ if (!doNotTrack) {
     opacity: 0;  
   }
 
-  .name-cycler span.is-hover-visible {
+   
+  h2.name-cycler span.is-hover-visible {
     opacity: 1.1;  
     font-size: 1.83rem;
+  }
+  a.name-cycler span.is-hover-visible {
+    opacity: 1;  
+    font-size: 1.5rem;  
   }
 
    
   #profile .portrait-title h3,
   #profile .network-icon {
-    text-align: center;
-    padding-left: 0;  
+    text-align: center;  
+    padding-left: 0; 
   }
 </style>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    const nameContainer = document.querySelector('.name-cycler');
-    if (nameContainer) {
-      const nameEn = nameContainer.querySelector('.name-en');
-      const otherNames = nameContainer.querySelectorAll('.name-other');
-      let currentRandomName = null;
+    
+    const nameContainers = document.querySelectorAll('.name-cycler');
 
-      if (otherNames.length > 0) {
-        nameContainer.addEventListener('mouseenter', function() {
-          
-          const randomIndex = Math.floor(Math.random() * otherNames.length);
-          currentRandomName = otherNames[randomIndex];
+    
+    nameContainers.forEach(function(nameContainer) {
+      
+      
+      if (nameContainer) {
+        const nameEn = nameContainer.querySelector('.name-en');
+        const otherNames = nameContainer.querySelectorAll('.name-other');
+        let currentRandomName = null;
 
-          
-          if (currentRandomName) {
-            currentRandomName.classList.add('is-hover-visible');
-          }
-        });
+        if (otherNames.length > 0) {
+          nameContainer.addEventListener('mouseenter', function() {
+            
+            const randomIndex = Math.floor(Math.random() * otherNames.length);
+            currentRandomName = otherNames[randomIndex];
 
-        nameContainer.addEventListener('mouseleave', function() {
-          
-          if (currentRandomName) {
-            currentRandomName.classList.remove('is-hover-visible');
-            currentRandomName = null;
-          }
-        });
+            
+            if (currentRandomName) {
+              currentRandomName.classList.add('is-hover-visible');
+            }
+          });
+
+          nameContainer.addEventListener('mouseleave', function() {
+            
+            if (currentRandomName) {
+              currentRandomName.classList.remove('is-hover-visible');
+              currentRandomName = null;
+            }
+          });
+        }
       }
-    }
+    }); 
   });
 </script>
 
@@ -442,8 +426,41 @@ if (!doNotTrack) {
 
     
     
-    <a class="navbar-brand name-hover-effect" href="/"><span class="en-name">Diptesh Kanojia</span>
-        <span class="hi-name">दिप्तेश कनोजिया</span></a>
+    <a class="navbar-brand name-cycler" href="/"><span class="name-en">Diptesh Kanojia</span>
+        <span class="name-other">दिप्तेश कनोजिया</span>
+        <span class="name-other">দিপ্তেশ কনোজিয়া</span>
+        <span class="name-other">দিপ্তেশ কানোজিয়া</span>
+        <span class="name-other">દિપ્તેશ કનોજિયા</span>
+        <span class="name-other">ਦਿਪਤੇਸ਼ ਕਨੋਜੀਆ</span>
+        <span class="name-other">ଦିପ୍ତେଶ କନୋଜିଆ</span>
+        <span class="name-other">දිප්තේෂ් කනෝජියා</span>
+        <span class="name-other">دِپتیش کنوجیا</span>
+        <span class="name-other">دپتیش کنوجیا</span>
+        <span class="name-other">திப்தேஷ் கனோஜியா</span>
+        <span class="name-other">దిప్తేశ్ కనోజియా</span>
+        <span class="name-other">ದಿಪ್ತೇಶ್ ಕನೋಜಿಯಾ</span> 
+        <span class="name-other">ദിപ്തേഷ് കനോജിയ</span>
+        <span class="name-other">ᱫᱤᱯᱛᱮᱥ ᱠᱚᱱᱚᱡᱤᱭᱟ</span> 
+        <span class="name-other">ꯗꯤꯞꯇꯦꯁ ꯀꯅꯣꯖꯤꯌꯥ</span>
+        <span class="name-other">Ντίπτες Κανότζια</span>
+        <span class="name-other">Dipteş Kanociya</span>
+        <span class="name-other">Dipteş Kanojiýa</span>
+        <span class="name-other">ዲፕተሽ ካኖጂያ</span>
+        <span class="name-other">ทิปเทศ กาโนจิยา</span>
+        <span class="name-other">Đíp-tét Ka-nô-gia</span>
+        <span class="name-other">Диптеш Каноджия</span>
+        <span class="name-other">Diptesz Kanodzia</span>
+        <span class="name-other">Diptesh Canóidia</span>
+        <span class="name-other">Диптеш Канођија</span>
+        <span class="name-other">Dîpteş Kanocîya</span>
+        <span class="name-other">迪普特什·卡诺吉亚</span>
+        <span class="name-other">ディプテシュ・カノジア</span>
+        <span class="name-other">딥테쉬 카노지아</span>
+        <span class="name-other">דיפטש קנוג'יה</span>
+        <span class="name-other">დიპტეშ კანოჯია</span>
+        <span class="name-other">Դիպտեշ Կանոջիա</span>
+        <span class="name-other">/ˈdɪp.t̪eʃ kəˈnoː.dʒɪ.ja/</span>
+        <span class="name-other" style="font-size: 1rem;">44 69 70 74 65 73 68 <br/> 4B 61 6E 6F 6A 69 61</span></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -1089,7 +1106,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 31-10-2025 13:34:03</p>
+	<p>Last Updated: 31-10-2025 15:16:00</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 
