@@ -296,7 +296,7 @@ if (!doNotTrack) {
   .nav-link:hover .hi-med-nav,
   .nav-text-wrapper:hover .hi-med-nav {
     opacity: 1.1;
-    font-size: 1.5rem;
+    font-size: 1.55rem;
     pointer-events: auto;
   }
 
@@ -307,6 +307,91 @@ if (!doNotTrack) {
     pointer-events: auto;
   }
 </style>
+
+<style>
+   
+
+   
+  #profile {
+    text-align: left !important;
+  }
+
+   
+  #profile .portrait {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+   
+  .name-cycler {
+    position: relative;
+    min-height: 40px;  
+    text-align: center;
+  }
+
+  .name-cycler span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;  
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    pointer-events: none;
+  }
+
+  .name-cycler span.name-en {
+    opacity: 1;  
+  }
+
+  .name-cycler:hover span.name-en {
+    opacity: 0;  
+  }
+
+  .name-cycler span.is-hover-visible {
+    opacity: 1;  
+  }
+
+   
+  #profile .portrait-title h3,
+  #profile .network-icon {
+    text-align: center;
+    padding-left: 0;  
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const nameContainer = document.querySelector('.name-cycler');
+    if (nameContainer) {
+      const nameEn = nameContainer.querySelector('.name-en');
+      const otherNames = nameContainer.querySelectorAll('.name-other');
+      let currentRandomName = null;
+
+      if (otherNames.length > 0) {
+        nameContainer.addEventListener('mouseenter', function() {
+          
+          const randomIndex = Math.floor(Math.random() * otherNames.length);
+          currentRandomName = otherNames[randomIndex];
+
+          
+          if (currentRandomName) {
+            currentRandomName.classList.add('is-hover-visible');
+          }
+        });
+
+        nameContainer.addEventListener('mouseleave', function() {
+          
+          if (currentRandomName) {
+            currentRandomName.classList.remove('is-hover-visible');
+            currentRandomName = null;
+          }
+        });
+      }
+    }
+  });
+</script>
 
 
 
@@ -1292,7 +1377,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 31-10-2025 08:18:52</p>
+	<p>Last Updated: 31-10-2025 10:01:07</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 
