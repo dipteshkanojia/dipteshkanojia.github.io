@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Diptesh Kanojia">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Diptesh Kanojia is an NLP Researcher working on cross-lingual and multimodal representation learning to address challenges like online toxicity, misinformation, and digital accessibility for low-resource languages.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://dipteshkanojia.co.uk/authors/daniel-deutsch/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="hsl(220, 100%, 70%)">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.fa09b1c767863f1b7a0470599a1ab8a4.css">
+
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-219532492-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="/authors/daniel-deutsch/index.xml" type="application/rss+xml" title="Diptesh Kanojia">
+  <link rel="feed" href="/authors/daniel-deutsch/index.xml" type="application/rss+xml" title="Diptesh Kanojia">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://dipteshkanojia.co.uk/authors/daniel-deutsch/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@diptesh">
+  <meta property="twitter:creator" content="@diptesh">
+  
+  <meta property="og:site_name" content="Diptesh Kanojia">
+  <meta property="og:url" content="https://dipteshkanojia.co.uk/authors/daniel-deutsch/">
+  <meta property="og:title" content="Daniel Deutsch | Diptesh Kanojia">
+  <meta property="og:description" content="Diptesh Kanojia is an NLP Researcher working on cross-lingual and multimodal representation learning to address challenges like online toxicity, misinformation, and digital accessibility for low-resource languages."><meta property="og:image" content="https://dipteshkanojia.co.uk/img/sharing.png">
+  <meta property="twitter:image" content="https://dipteshkanojia.co.uk/img/sharing.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2025-11-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-219532492-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+
+<style>
+.article-style figure {
+   
+  max-width: 500px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ 
+.article-style figure figcaption h4 {
+  text-align: center;
+}
+</style>
+
+<style>
+   
+
+  .nav-text-wrapper {
+    position: relative;
+    display: inline-block;
+  }
+
+  .en-nav, .hi-nav, .hi-big-nav, .hi-med-nav, .hi-sm-nav {
+    transition: opacity 0.5s ease-in-out;
+  }
+
+  .en-nav {
+    opacity: 1;
+    position: relative;
+  }
+
+  .hi-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: left;
+  }
+  
+  .hi-big-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: center;
+  }
+
+  .hi-sm-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: left;
+  }
+
+  .hi-med-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: center;
+  }
+
+   
+  .nav-link:hover .en-nav,
+  .nav-text-wrapper:hover .en-nav {
+    opacity: 0;
+  }
+
+  .nav-link:hover .hi-nav,
+  .nav-text-wrapper:hover .hi-nav {
+    opacity: 1.1;
+    font-size: 1.25rem;
+    pointer-events: auto;
+  }
+
+  .nav-link:hover .hi-big-nav,
+  .nav-text-wrapper:hover .hi-big-nav {
+    opacity: 1.1;
+    font-size: 2.5rem;
+    pointer-events: auto;
+  }
+
+  .nav-link:hover .hi-med-nav,
+  .nav-text-wrapper:hover .hi-med-nav {
+    opacity: 1.1;
+    font-size: 1.55rem;
+    pointer-events: auto;
+  }
+
+  .nav-link:hover .hi-sm-nav,
+  .nav-text-wrapper:hover .hi-sm-nav {
+    opacity: 1;
+    font-size: 1rem;
+    pointer-events: auto;
+  }
+</style>
+
+<style>
+   
+
+   
+  .name-cycler {
+    position: relative;
+    min-height: 40px;  
+  }
+
+   
+  a.name-cycler {
+    font-size: 1.3rem;  
+    min-width: 200px;
+  }
+
+   
+  .name-cycler span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    pointer-events: none;
+  }
+  
+   
+   
+  a.name-cycler span { text-align: left; }
+  
+   
+
+   
+  .name-cycler span.name-en {
+    opacity: 1;  
+  }
+
+  .name-cycler:hover span.name-en {
+    opacity: 0;  
+  }
+
+   
+  h2.name-cycler span.is-hover-visible {
+    opacity: 1.1;  
+    font-size: 1.83rem;
+  }
+  a.name-cycler span.is-hover-visible {
+    opacity: 1;  
+    font-size: 1.5rem;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    
+    const nameContainers = document.querySelectorAll('.name-cycler');
+
+    
+    nameContainers.forEach(function(nameContainer) {
+      
+      
+      if (nameContainer) {
+        const nameEn = nameContainer.querySelector('.name-en');
+        const otherNames = nameContainer.querySelectorAll('.name-other');
+        let currentRandomName = null;
+
+        if (otherNames.length > 0) {
+          nameContainer.addEventListener('mouseenter', function() {
+            
+            const randomIndex = Math.floor(Math.random() * otherNames.length);
+            currentRandomName = otherNames[randomIndex];
+
+            
+            if (currentRandomName) {
+              currentRandomName.classList.add('is-hover-visible');
+            }
+          });
+
+          nameContainer.addEventListener('mouseleave', function() {
+            
+            if (currentRandomName) {
+              currentRandomName.classList.remove('is-hover-visible');
+              currentRandomName = null;
+            }
+          });
+        }
+      }
+    }); 
+  });
+</script>
+
+
+
+  <title>Daniel Deutsch | Diptesh Kanojia</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+    
+    <a class="navbar-brand name-cycler" href="/"><span class="name-en">Diptesh Kanojia</span>
+        <span class="name-other">दिप्तेश कनोजिया</span>
+        <span class="name-other">দিপ্তেশ কনোজিয়া</span>
+        <span class="name-other">দিপ্তেশ কানোজিয়া</span>
+        <span class="name-other">દિપ્તેશ કનોજિયા</span>
+        <span class="name-other">ਦਿਪਤੇਸ਼ ਕਨੋਜੀਆ</span>
+        <span class="name-other">ଦିପ୍ତେଶ କନୋଜିଆ</span>
+        <span class="name-other">දිප්තේෂ් කනෝජියා</span>
+        <span class="name-other">دِپتیش کنوجیا</span>
+        <span class="name-other">دپتیش کنوجیا</span>
+        <span class="name-other">திப்தேஷ் கனோஜியா</span>
+        <span class="name-other">దిప్తేశ్ కనోజియా</span>
+        <span class="name-other">ದಿಪ್ತೇಶ್ ಕನೋಜಿಯಾ</span> 
+        <span class="name-other">ദിപ്തേഷ് കനോജിയ</span>
+        <span class="name-other">ᱫᱤᱯᱛᱮᱥ ᱠᱚᱱᱚᱡᱤᱭᱟ</span> 
+        <span class="name-other">ꯗꯤꯞꯇꯦꯁ ꯀꯅꯣꯖꯤꯌꯥ</span>
+        <span class="name-other">Ντίπτες Κανότζια</span>
+        <span class="name-other">Dipteş Kanociya</span>
+        <span class="name-other">Dipteş Kanojiýa</span>
+        <span class="name-other">ዲፕተሽ ካኖጂያ</span>
+        <span class="name-other">ทิปเทศ กาโนจิยา</span>
+        <span class="name-other">Đíp-tét Ka-nô-gia</span>
+        <span class="name-other">Диптеш Каноджия</span>
+        <span class="name-other">Diptesz Kanodzia</span>
+        <span class="name-other">Diptesh Canóidia</span>
+        <span class="name-other">Диптеш Канођија</span>
+        <span class="name-other">Dîpteş Kanocîya</span>
+        <span class="name-other">迪普特什·卡诺吉亚</span>
+        <span class="name-other">ディプテシュ・カノジア</span>
+        <span class="name-other">딥테쉬 카노지아</span>
+        <span class="name-other">דיפטש קנוג'יה</span>
+        <span class="name-other">დიპტეშ კანოჯია</span>
+        <span class="name-other">Դիպտեշ Կանոջիա</span>
+        <span class="name-other">/ˈdɪp.t̪eʃ kəˈnoː.dʒɪ.ja/</span>
+        <span class="name-other" style="font-size: 1rem;">44 69 70 74 65 73 68 <br/> 4B 61 6E 6F 6A 69 61</span></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about">
+              
+
+                <span>Home</span>
+                
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience">
+              
+
+                <span class="nav-text-wrapper">
+                  <span class="en-nav">Experience</span>
+                  <span class="hi-nav">
+                    अनुभव
+                    
+                  </span>
+                </span>
+
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured">
+              
+
+                <span class="nav-text-wrapper">
+                  <span class="en-nav">Research</span>
+                  <span class="hi-nav">
+                    अनुसंधान
+                    
+                  </span>
+                </span>
+
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks">
+              
+
+                <span>Talks</span>
+                
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts">
+              
+
+                <span class="nav-text-wrapper">
+                  <span class="en-nav">Blog</span>
+                  <span class="hi-nav">
+                    पोस्ट
+                    
+                  </span>
+                </span>
+
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact">
+              
+
+                <span>Contact</span>
+                
+              </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name">Daniel Deutsch</h1>
+</div>
+
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    
+    
+
+    
+    
+    
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Latest</h3>
+      <ul>
+        
+        <li>
+          <a href="/publication/lavie-etal-2025-findings/">Findings of the WMT25 Shared Task on Automated Translation Evaluation Systems: Linguistic Diversity is Challenging and References Still Help</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+  
+</section>
+
+      
+
+    
+    
+    
+    <script src="/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.23e2fabfaf271b1b075bb9e0280085b7.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+	<p>Last Updated: 01-11-2025 13:22:48</p>
+	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -6,10 +6,19 @@
     <description>Recent content in Frederic Blain on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/frederic-blain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Findings of the WMT25 Shared Task on Automated Translation Evaluation Systems: Linguistic Diversity is Challenging and References Still Help</title>
+      <link>https://dipteshkanojia.co.uk/publication/lavie-etal-2025-findings/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/lavie-etal-2025-findings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Findings of the Quality Estimation Shared Task at WMT 2024: Are LLMs Closing the Gap in QE?</title>
