@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Diptesh Kanojia">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Despite excellent results on benchmarks over a small subset of languages, large language models struggle to process text from languages situated in &#39;lower-resource&#39; scenarios such as dialects/sociolects (national or social varieties of a language), Creoles (languages arising from linguistic contact between multiple languages) and other low-resource languages. This introductory tutorial will identify common challenges, approaches, and themes in natural language processing (NLP) research for confronting and overcoming the obstacles inherent to data-poor contexts. By connecting past ideas to the present field, this tutorial aims to ignite collaboration and cross-pollination between researchers working in these scenarios. Our notion of &#39;lower-resource&#39; broadly denotes the outstanding lack of data required for model training - and may be applied to scenarios apart from the three covered in the tutorial.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://dipteshkanojia.co.uk/talk/colingtutorial-2025/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.fa09b1c767863f1b7a0470599a1ab8a4.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.3a01f56545a3e0d8864010e8d755b014.css">
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-219532492-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://dipteshkanojia.co.uk/talk/colingtutorial-2025/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@diptesh">
+  <meta property="twitter:creator" content="@diptesh">
+  
+  <meta property="og:site_name" content="Diptesh Kanojia">
+  <meta property="og:url" content="https://dipteshkanojia.co.uk/talk/colingtutorial-2025/">
+  <meta property="og:title" content="Connecting Ideas in Lower-Resource Scenarios: NLP for National Varieties, Creoles, and Other Low-resource Languages | Diptesh Kanojia">
+  <meta property="og:description" content="Despite excellent results on benchmarks over a small subset of languages, large language models struggle to process text from languages situated in &#39;lower-resource&#39; scenarios such as dialects/sociolects (national or social varieties of a language), Creoles (languages arising from linguistic contact between multiple languages) and other low-resource languages. This introductory tutorial will identify common challenges, approaches, and themes in natural language processing (NLP) research for confronting and overcoming the obstacles inherent to data-poor contexts. By connecting past ideas to the present field, this tutorial aims to ignite collaboration and cross-pollination between researchers working in these scenarios. Our notion of &#39;lower-resource&#39; broadly denotes the outstanding lack of data required for model training - and may be applied to scenarios apart from the three covered in the tutorial."><meta property="og:image" content="https://dipteshkanojia.co.uk/talk/colingtutorial-2025/featured.png">
+  <meta property="twitter:image" content="https://dipteshkanojia.co.uk/talk/colingtutorial-2025/featured.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2025-01-20T09:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2025-01-20T09:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-219532492-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+
+<style>
+.article-style figure {
+   
+  max-width: 500px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ 
+.article-style figure figcaption h4 {
+  text-align: center;
+}
+</style>
+
+<style>
+   
+
+  .nav-text-wrapper {
+    position: relative;
+    display: inline-block;
+  }
+
+  .en-nav, .hi-nav, .hi-big-nav, .hi-med-nav, .hi-sm-nav {
+    transition: opacity 0.35s ease-in-out;
+  }
+
+  .en-nav {
+    opacity: 1;
+    position: relative;
+  }
+
+  .hi-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: left;
+  }
+  
+  .hi-big-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: center;
+  }
+
+  .hi-sm-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: left;
+  }
+
+  .hi-med-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+     
+    width: 100%;
+    text-align: center;
+  }
+
+   
+  .nav-link:hover .en-nav,
+  .nav-text-wrapper:hover .en-nav {
+    opacity: 0;
+  }
+
+  .nav-link:hover .hi-nav,
+  .nav-text-wrapper:hover .hi-nav {
+    opacity: 1.1;
+    font-size: 1.1rem;
+    pointer-events: auto;
+  }
+
+  .nav-link:hover .hi-big-nav,
+  .nav-text-wrapper:hover .hi-big-nav {
+    opacity: 1.1;
+    font-size: 2.5rem;
+    pointer-events: auto;
+  }
+
+  .nav-link:hover .hi-med-nav,
+  .nav-text-wrapper:hover .hi-med-nav {
+    opacity: 1.1;
+    font-size: 1.55rem;
+    pointer-events: auto;
+  }
+
+  .nav-link:hover .hi-sm-nav,
+  .nav-text-wrapper:hover .hi-sm-nav {
+    opacity: 1;
+    font-size: 1rem;
+    pointer-events: auto;
+  }
+</style>
+
+<style>
+   
+
+   
+  .name-cycler {
+    position: relative;
+    min-height: 40px;  
+  }
+
+   
+  a.name-cycler {
+    font-size: 1.3rem;  
+    min-width: 200px;
+  }
+
+   
+  .name-cycler span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    pointer-events: none;
+  }
+  
+   
+   
+  a.name-cycler span { text-align: left; }
+  
+   
+
+   
+  .name-cycler span.name-en {
+    opacity: 1;  
+  }
+
+  .name-cycler:hover span.name-en {
+    opacity: 0;  
+  }
+
+   
+  h2.name-cycler span.is-hover-visible {
+    opacity: 1.1;  
+    font-size: 1.65rem;
+  }
+  a.name-cycler span.is-hover-visible {
+    opacity: 1;  
+    font-size: 1.5rem;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    
+    const nameContainers = document.querySelectorAll('.name-cycler');
+
+    
+    nameContainers.forEach(function(nameContainer) {
+      
+      
+      if (nameContainer) {
+        const nameEn = nameContainer.querySelector('.name-en');
+        const otherNames = nameContainer.querySelectorAll('.name-other');
+        let currentRandomName = null;
+
+        if (otherNames.length > 0) {
+          nameContainer.addEventListener('mouseenter', function() {
+            
+            const randomIndex = Math.floor(Math.random() * otherNames.length);
+            currentRandomName = otherNames[randomIndex];
+
+            
+            if (currentRandomName) {
+              currentRandomName.classList.add('is-hover-visible');
+            }
+          });
+
+          nameContainer.addEventListener('mouseleave', function() {
+            
+            if (currentRandomName) {
+              currentRandomName.classList.remove('is-hover-visible');
+              currentRandomName = null;
+            }
+          });
+        }
+      }
+    }); 
+  });
+</script>
+
+
+
+  <title>Connecting Ideas in Lower-Resource Scenarios: NLP for National Varieties, Creoles, and Other Low-resource Languages | Diptesh Kanojia</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+    
+    <a class="navbar-brand name-cycler" href="/"><span class="name-en">Diptesh Kanojia</span>
+        <span class="name-other">दिप्तेश कनोजिया</span>
+        </a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about">
+              
+
+                <span>Home</span>
+                
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience">
+              
+
+                <span>Experience</span>
+                
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured">
+              
+
+                <span class="nav-text-wrapper">
+                  <span class="en-nav">Research</span>
+                  <span class="hi-nav">
+                    अनुसंधान
+                    
+                  </span>
+                </span>
+
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks">
+              
+
+                <span>Talks</span>
+                
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts">
+              
+
+                <span class="nav-text-wrapper">
+                  <span class="en-nav">Blog</span>
+                  <span class="hi-nav">
+                    पोस्ट
+                    
+                  </span>
+                </span>
+
+              </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact">
+              
+
+                <span>Contact</span>
+                
+              </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <div class="pub" itemscope itemtype="http://schema.org/Event">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/talk/colingtutorial-2025/featured_huccf4b03859f3aa296ff21cd8dd135053_2719383_800x0_resize_lanczos_2.png');"></div>
+  <span class="article-header-caption">COLING 2025 Tutorial on NLP for Lower-Resource Scenarios</span>
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">Connecting Ideas in Lower-Resource Scenarios: NLP for National Varieties, Creoles, and Other Low-resource Languages</h1>
+
+        
+
+        
+
+
+
+<meta content="2025-01-20 09:00:00 &#43;0000 GMT" itemprop="datePublished">
+<meta content="2025-01-20 09:00:00 &#43;0000 GMT" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aditya-joshi/">Aditya Joshi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/diptesh-kanojia/">Diptesh Kanojia</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/heather-lent/">Heather Lent</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/hour-kaing/">Hour Kaing</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/haiyue-song/">Haiyue Song</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2409.12683" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/talk/colingtutorial-2025/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025/tree/main/slides" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+
+
+</div>
+
+
+
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://dipteshkanojia.co.uk/talk/colingtutorial-2025/&amp;text=Connecting%20Ideas%20in%20Lower-Resource%20Scenarios:%20NLP%20for%20National%20Varieties,%20Creoles,%20and%20Other%20Low-resource%20Languages" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Connecting%20Ideas%20in%20Lower-Resource%20Scenarios:%20NLP%20for%20National%20Varieties,%20Creoles,%20and%20Other%20Low-resource%20Languages&amp;body=https://dipteshkanojia.co.uk/talk/colingtutorial-2025/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://dipteshkanojia.co.uk/talk/colingtutorial-2025/&amp;title=Connecting%20Ideas%20in%20Lower-Resource%20Scenarios:%20NLP%20for%20National%20Varieties,%20Creoles,%20and%20Other%20Low-resource%20Languages" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/talk/colingtutorial-2025/featured_huccf4b03859f3aa296ff21cd8dd135053_2719383_680x500_fill_q90_lanczos_center_2.png" itemprop="image" alt="">
+        <span class="article-header-caption">COLING 2025 Tutorial on NLP for Lower-Resource Scenarios</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">Connecting Ideas in Lower-Resource Scenarios: NLP for National Varieties, Creoles, and Other Low-resource Languages</h1>
+
+  
+
+  
+
+
+
+<meta content="2025-01-20 09:00:00 &#43;0000 GMT" itemprop="datePublished">
+<meta content="2025-01-20 09:00:00 &#43;0000 GMT" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aditya-joshi/">Aditya Joshi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/diptesh-kanojia/">Diptesh Kanojia</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/heather-lent/">Heather Lent</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/hour-kaing/">Hour Kaing</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/haiyue-song/">Haiyue Song</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://dipteshkanojia.co.uk/talk/colingtutorial-2025/&amp;text=Connecting%20Ideas%20in%20Lower-Resource%20Scenarios:%20NLP%20for%20National%20Varieties,%20Creoles,%20and%20Other%20Low-resource%20Languages" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Connecting%20Ideas%20in%20Lower-Resource%20Scenarios:%20NLP%20for%20National%20Varieties,%20Creoles,%20and%20Other%20Low-resource%20Languages&amp;body=https://dipteshkanojia.co.uk/talk/colingtutorial-2025/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://dipteshkanojia.co.uk/talk/colingtutorial-2025/&amp;title=Connecting%20Ideas%20in%20Lower-Resource%20Scenarios:%20NLP%20for%20National%20Varieties,%20Creoles,%20and%20Other%20Low-resource%20Languages" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2409.12683" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/talk/colingtutorial-2025/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025/tree/main/slides" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Despite excellent results on benchmarks over a small subset of languages, large language models struggle to process text from languages situated in &lsquo;lower-resource&rsquo; scenarios such as dialects/sociolects (national or social varieties of a language), Creoles (languages arising from linguistic contact between multiple languages) and other low-resource languages. This introductory tutorial will identify common challenges, approaches, and themes in natural language processing (NLP) research for confronting and overcoming the obstacles inherent to data-poor contexts. By connecting past ideas to the present field, this tutorial aims to ignite collaboration and cross-pollination between researchers working in these scenarios. Our notion of &lsquo;lower-resource&rsquo; broadly denotes the outstanding lack of data required for model training - and may be applied to scenarios apart from the three covered in the tutorial.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            Jan 20, 2025
+            <div class="talk-time">
+              
+                9:00 AM
+                
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://coling2025.org/" target="_blank" rel="noopener">
+            COLING 2025 Tutorial
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Abu Dhabi, UAE</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
+    </div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/nlp/">nlp</a>
+  
+  <a class="badge badge-light" href="/tags/tutorial/">tutorial</a>
+  
+  <a class="badge badge-light" href="/tags/low-resource/">low-resource</a>
+  
+  <a class="badge badge-light" href="/tags/dialects/">dialects</a>
+  
+  <a class="badge badge-light" href="/tags/creoles/">creoles</a>
+  
+  <a class="badge badge-light" href="/tags/language-varieties/">language varieties</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/aditya-joshi/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
+      
+
+    
+    
+    
+    <script src="/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.b4d709614570a6d523f35980c8bacd0f.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+	<p>Last Updated: 09-11-2025 15:03:35</p>
+	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
