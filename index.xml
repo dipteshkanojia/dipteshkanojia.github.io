@@ -6,10 +6,19 @@
     <description>Recent content on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 12:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts</title>
+      <link>https://dipteshkanojia.co.uk/post/</link>
+      <pubDate>Sat, 21 Feb 2026 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -17,15 +26,6 @@
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://dipteshkanojia.co.uk/post/</link>
-      <pubDate>Wed, 29 Oct 2025 02:57:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/post/</guid>
       <description></description>
     </item>
     

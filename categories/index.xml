@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Oct 2025 02:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 12:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Personal</title>
       <link>https://dipteshkanojia.co.uk/categories/personal/</link>
-      <pubDate>Wed, 29 Oct 2025 02:57:00 +0000</pubDate>
+      <pubDate>Sat, 21 Feb 2026 12:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://dipteshkanojia.co.uk/categories/travel/</link>
+      <pubDate>Sat, 21 Feb 2026 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/categories/travel/</guid>
       <description></description>
     </item>
     
