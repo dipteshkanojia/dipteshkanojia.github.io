@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>translation-quality on Diptesh Kanojia</title>
+    <link>https://dipteshkanojia.co.uk/tags/translation-quality/</link>
+    <description>Recent content in translation-quality on Diptesh Kanojia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Dec 2025 12:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.co.uk/tags/translation-quality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimizing Large Language Models for Low-resource Quality Estimation</title>
+      <link>https://dipteshkanojia.co.uk/talk/wat-aacl-2025/</link>
+      <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/talk/wat-aacl-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

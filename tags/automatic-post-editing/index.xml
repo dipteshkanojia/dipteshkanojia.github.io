@@ -6,10 +6,19 @@
     <description>Recent content in automatic post-editing on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 12:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/tags/automatic-post-editing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimizing Large Language Models for Low-resource Quality Estimation</title>
+      <link>https://dipteshkanojia.co.uk/talk/wat-aacl-2025/</link>
+      <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/talk/wat-aacl-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Giving the Old a Fresh Spin: Quality Estimation-Assisted Constrained Decoding for Automatic Post-Editing</title>

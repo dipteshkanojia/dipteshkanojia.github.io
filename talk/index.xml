@@ -6,10 +6,19 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 12:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimizing Large Language Models for Low-resource Quality Estimation</title>
+      <link>https://dipteshkanojia.co.uk/talk/wat-aacl-2025/</link>
+      <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/talk/wat-aacl-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models</title>
