@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on Diptesh Kanojia</title>
+    <link>https://dipteshkanojia.co.uk/categories/coding/</link>
+    <description>Recent content in Coding on Diptesh Kanojia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Feb 2026 17:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.co.uk/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Bashing Scripts to Libraries</title>
+      <link>https://dipteshkanojia.co.uk/post/bash-scripts-to-library/</link>
+      <pubDate>Sat, 28 Feb 2026 17:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/post/bash-scripts-to-library/</guid>
+      <description>&lt;p&gt;New Library: &lt;a href=&#34;https://github.com/dipteshkanojia/mynlpbash&#34;&gt;mynlpbash&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve spent time working in an NLP lab, you know the drill: over the years, you accumulate a tangled web of scattered bash scripts, quick hacks, CSV/TSV files, and utility functions. They work, but only &lt;em&gt;you&lt;/em&gt; know exactly how to run them, and usually only on the specific machine they were written for.&lt;/p&gt;
+&lt;p&gt;I had a bunch of these bash scripts lying around from my time in the lab, many of which used to work in tandem with the &lt;a href=&#34;https://github.com/anoopkunchukuttan/indic_nlp_library&#34;&gt;indic_nlp_library by Anoop Kunchukuttan&lt;/a&gt;. Back in the day, this was the our go-to toolkit for all Indic language processing needs.&lt;/p&gt;
+&lt;p&gt;The scripts were functional, but they lacked documentation, structure, and extensibility. Reusing them meant copy-pasting code blocks and hoping paths wouldn&amp;rsquo;t break.&lt;/p&gt;
+&lt;h3 id=&#34;claude&#34;&gt;Claude&lt;/h3&gt;
+&lt;p&gt;Instead of manually rewriting everything from scratch, a task I had been thinking about for months, I decided to enlist Claude via Antigravity. I fed my messy, disconnected bash scripts to the LLM and asked it to help me architect them into a proper Python library.&lt;/p&gt;
+&lt;p&gt;The results were fantastic. Claude didn&amp;rsquo;t just translate bash to Python; it helped me structure the whole thing as a project.&lt;/p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;SS1.png&#34; width=&#34;100%&#34; &gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;a-full-blown-library&#34;&gt;A Full-Blown Library!&lt;/h3&gt;
+&lt;p&gt;What started as a weekend cleanup project is now a full-blown open-source library. The new toolkit not only encapsulates those old lab scripts but also provides a way to install/setup &lt;code&gt;indic_nlp_library&lt;/code&gt; and use it for NLP processing, right alongside many other powerful NLP tools currently available on GitHub.&lt;/p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;SS2.png&#34; width=&#34;100%&#34; &gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;It drastically lowers the barrier to entry. Instead of worrying about setting up environment variables, downloading the right resource dictionaries, and managing paths for &lt;code&gt;indic_nlp_library&lt;/code&gt;, the new wrapper handles the heavy lifting. You can directly call functions for tokenization, transliteration, and text normalization across multiple Indian languages and English. I will think more about adding my regular expression based scripts and WordNet management scriptsI have to this, that is a whole different set I still manage (but perhaps don&amp;rsquo;t use enough). Time to unify this whole thing into one.&lt;/p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;SS3.png&#34; width=&#34;100%&#34; &gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I guess if you have old scripts and can&amp;rsquo;t make sense of them, it is worth throwing them into an LLM and asking it organize/extend them. You might be surprised by how easily your old hacks can be transformed into robust(ish) tools. Do check out &lt;code&gt;[mynlpbash] @ &lt;/code&gt; &lt;a href=&#34;https://github.com/dipteshkanojia/mynlpbash&#34;&gt;https://github.com/dipteshkanojia/mynlpbash&lt;/a&gt;. :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
