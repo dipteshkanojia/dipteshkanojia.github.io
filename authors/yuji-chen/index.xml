@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuji Chen on Diptesh Kanojia</title>
+    <link>https://dipteshkanojia.co.uk/authors/yuji-chen/</link>
+    <description>Recent content in Yuji Chen on Diptesh Kanojia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.co.uk/authors/yuji-chen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MUNIChus: MUltilingual News Image Captioning Benchmark</title>
+      <link>https://dipteshkanojia.co.uk/publication/chen-2026-munichus/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/chen-2026-munichus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

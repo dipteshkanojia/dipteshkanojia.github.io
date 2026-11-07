@@ -6,10 +6,28 @@
     <description>Recent content in Jordan Painter on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/jordan-painter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation</title>
+      <link>https://dipteshkanojia.co.uk/publication/painter-2026-diallm/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/painter-2026-diallm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SurreyCTS at BEA 2026 Shared Task 1: Semantic Funnelling and Entropy-based Multilingual Lexical Difficulty Prediction</title>
+      <link>https://dipteshkanojia.co.uk/publication/willoughby-2026-surreycts/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/willoughby-2026-surreycts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English</title>

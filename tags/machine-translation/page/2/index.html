@@ -101,7 +101,7 @@
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-219532492-1', 'auto');
-      
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -142,10 +142,36 @@
   <meta property="og:description" content="Diptesh Kanojia is an NLP Researcher working on cross-lingual and multimodal representation learning to address challenges like online toxicity, misinformation, and digital accessibility for low-resource languages."><meta property="og:image" content="https://dipteshkanojia.co.uk/img/sharing.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/img/sharing.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-11-01T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2026-10-25T00:00:00&#43;00:00">
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
 
   
@@ -709,6 +735,49 @@ if (!doNotTrack) {
   
   
   <div>
+    <h2><a href="/publication/deoghare-etal-2025-refer/">Refer to the Reference: Reference-focused Synthetic Automatic Post-Editing Data Generation</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/sindhujan-etal-2025-llms/">When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages</a></h2>
+    <div class="article-style">
+      
+      This paper investigates the reference-less evaluation of machine translation for low-resource language pairs, known as quality estimation (QE). Segment-level QE is a challenging cross-lingual language understanding task that provides a quality score …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/qian-etal-2024-multi/">A Multi-task Learning Framework for Evaluating Machine Translation of Emotion-loaded User-generated Content</a></h2>
+    <div class="article-style">
+      
+      Machine translation (MT) of user-generated content (UGC) poses unique challenges, including handling slang, emotion, and literary devices like irony and sarcasm. Evaluating the quality of these translations is challenging as current metrics do not …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/qian-etal-2024-large-language/">Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?</a></h2>
+    <div class="article-style">
+      
+      This paper investigates whether large language models (LLMs) are state-of-the-art quality estimators for machine translation of user-generated content (UGC) that contains emotional expressions, without the use of reference translations. To achieve …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/zerva-etal-2024-findings/">Findings of the Quality Estimation Shared Task at WMT 2024: Are LLMs Closing the Gap in QE?</a></h2>
+    <div class="article-style">
+      
+      We report the results of the WMT 2024 shared task on Quality Estimation, in which the challenge is to predict the quality of the output of neural machine translation systems at the word and sentence levels, without access to reference translations. …
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/publication/deoghare-etal-2024-together/">Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages</a></h2>
     <div class="article-style">
       
@@ -767,51 +836,6 @@ if (!doNotTrack) {
     <div class="article-style">
       
       Automatic Post-Editing (APE) is the task of automatically identifying and correcting errors in the Machine Translation (MT) outputs. We propose a repair-filter-use methodology that uses an APE system to correct errors on the target side of the MT …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/bhattacharyya-2023-wmt-ape-findings/">Findings of the WMT 2023 Shared Task on Automatic Post-Editing</a></h2>
-    <div class="article-style">
-      
-      We present the results from the 9th round of the WMT shared task on MT Automatic Post-Editing, which consists of automatically correcting the output of a “black-box” machine translation system by learning from human corrections. Like last year, the …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/blain-etal-2023-findings/">Findings of the WMT 2023 Shared Task on Quality Estimation</a></h2>
-    <div class="article-style">
-      
-      We report the results of the WMT 2023 shared task on Quality Estimation, in which the challenge is to predict the quality of the output of neural machine translation systems at the word and sentence levels, without access to reference translations. …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/deoghare-etal-2023-quality/">Quality Estimation-Assisted Automatic Post-Editing</a></h2>
-    <div class="article-style">
-      
-      Automatic Post-Editing (APE) systems are prone to over-correction of the Machine Translation (MT) outputs. While Word-level Quality Estimation (QE) system can provide a way to curtail the over-correction, a significant performance gain has not been …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/sindhujan-etal-2023-surreyai/">SurreyAI 2023 Submission for the Quality Estimation Shared Task</a></h2>
-    <div class="article-style">
-      
-      Quality Estimation (QE) systems are important in situations where it is necessary to assess the quality of translations, but there is no reference available. This paper describes the approach adopted by the SurreyAI team for addressing the …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/qian-etal-2023-challenges/">Challenges of Human vs Machine Translation of Emotion-Loaded Chinese Microblog Texts</a></h2>
-    <div class="article-style">
-      
-      This paper attempts to identify challenges professional translators face when translating emotion-loaded texts as well as errors machine translation (MT) makes when translating this content. We invited ten Chinese-English translators to translate …
       
     </div>
   </div>
@@ -947,7 +971,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 28-02-2026 17:43:17</p>
+	<p>Last Updated: 07-11-2026 23:51:25</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

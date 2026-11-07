@@ -101,7 +101,7 @@
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-219532492-1', 'auto');
-      
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -145,6 +145,32 @@
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
 
   
@@ -716,7 +742,7 @@ if (!doNotTrack) {
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alon-lavie/">Alon Lavie</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/greg-hanneman/">Greg Hanneman</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sweta-agrawal/">Sweta Agrawal</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/diptesh-kanojia/">Diptesh Kanojia</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/chi-kiu-lo/">Chi-kiu Lo</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/vilem-zouhar/">Vilém Zouhar</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/frederic-blain/">Frédéric Blain</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/chrysoula-zerva/">Chrysoula Zerva</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/eleftherios-avramidis/">Eleftherios Avramidis</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sourabh-dattatray-deoghare/">Sourabh Dattatray Deoghare</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/archchana-sindhujan/">Archchana Sindhujan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jiayi-wang/">Jiayi Wang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/david-ifeoluwa-adelani/">David Ifeoluwa Adelani</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/brian-thompson/">Brian Thompson</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/tom-kocmi/">Tom Kocmi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus-freitag/">Markus Freitag</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/daniel-deutsch/">Daniel Deutsch</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alon-lavie/">Alon Lavie</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/greg-hanneman/">Greg Hanneman</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sweta-agrawal/">Sweta Agrawal</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/diptesh-kanojia/">Diptesh Kanojia</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/chi-kiu-lo/">Chi-kiu Lo</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/vilem-zouhar/">Vilém Zouhar</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/frederic-blain/">Frédéric Blain</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/chrysoula-zerva/">Chrysoula Zerva</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/eleftherios-avramidis/">Eleftherios Avramidis</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sourabh-deoghare/">Sourabh Deoghare</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/archchana-sindhujan/">Archchana Sindhujan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jiayi-wang/">Jiayi Wang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/david-ifeoluwa-adelani/">David Ifeoluwa Adelani</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/brian-thompson/">Brian Thompson</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/tom-kocmi/">Tom Kocmi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus-freitag/">Markus Freitag</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/daniel-deutsch/">Daniel Deutsch</a></span>
 
   </div>
   
@@ -1037,7 +1063,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 28-02-2026 17:43:17</p>
+	<p>Last Updated: 07-11-2026 23:51:25</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

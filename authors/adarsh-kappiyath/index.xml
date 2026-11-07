@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adarsh Kappiyath on Diptesh Kanojia</title>
+    <link>https://dipteshkanojia.co.uk/authors/adarsh-kappiyath/</link>
+    <description>Recent content in Adarsh Kappiyath on Diptesh Kanojia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.co.uk/authors/adarsh-kappiyath/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation</title>
+      <link>https://dipteshkanojia.co.uk/publication/painter-2026-diallm/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/painter-2026-diallm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

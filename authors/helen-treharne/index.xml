@@ -6,10 +6,37 @@
     <description>Recent content in Helen Treharne on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/helen-treharne/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection</title>
+      <link>https://dipteshkanojia.co.uk/publication/koushik-2026-decodable/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/koushik-2026-decodable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRACE: Textual Relevance Augmentation and Contextual Encoding for Multimodal Hate Detection</title>
+      <link>https://dipteshkanojia.co.uk/publication/koushik-2026-trace/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/koushik-2026-trace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech</title>
+      <link>https://dipteshkanojia.co.uk/publication/koushik-2026-tandem/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/koushik-2026-tandem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards a Robust Framework for Multimodal Hate Detection: A Study on Video vs. Image-based Content</title>
@@ -17,15 +44,6 @@
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/publication/koushik-etal-2025-multimodal-hate-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CAMU: Context Augmentation for Meme Understanding</title>
-      <link>https://dipteshkanojia.co.uk/publication/koushik-etal-2025-camu/</link>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/publication/koushik-etal-2025-camu/</guid>
       <description></description>
     </item>
     

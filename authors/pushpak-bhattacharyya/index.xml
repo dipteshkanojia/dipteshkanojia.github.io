@@ -6,10 +6,28 @@
     <description>Recent content in Pushpak Bhattacharyya on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/pushpak-bhattacharyya/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IndicQE-APE: A Consolidated Benchmark for Quality Estimation and Automatic Post-Editing over Indic Languages</title>
+      <link>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging Domains for Automatic Post-Editing: A Classifier-Guided Multi-Domain Adaptation Framework</title>
+      <link>https://dipteshkanojia.co.uk/publication/deoghare-2026-bridging/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/deoghare-2026-bridging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Giving the Old a Fresh Spin: Quality Estimation-Assisted Constrained Decoding for Automatic Post-Editing</title>
@@ -116,6 +134,15 @@
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/publication/lrec-2022-hiner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual History Tool and Computational Phylogenetics for Sanskrit with Special Reference to Classical Indian Texts</title>
+      <link>https://dipteshkanojia.co.uk/publication/kanojia-2022-textual/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/kanojia-2022-textual/</guid>
       <description></description>
     </item>
     

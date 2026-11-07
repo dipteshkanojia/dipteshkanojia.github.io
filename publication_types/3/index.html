@@ -101,7 +101,7 @@
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-219532492-1', 'auto');
-      
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -142,10 +142,36 @@
   <meta property="og:description" content="Diptesh Kanojia is an NLP Researcher working on cross-lingual and multimodal representation learning to address challenges like online toxicity, misinformation, and digital accessibility for low-resource languages."><meta property="og:image" content="https://dipteshkanojia.co.uk/img/sharing.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/img/sharing.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-08-25T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2026-10-06T00:00:00&#43;00:00">
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
 
   
@@ -709,6 +735,60 @@ if (!doNotTrack) {
   
   
   <div>
+    <h2><a href="/publication/farooq-2026-quality/">Quality-Aware Self-Correcting Speech Translation on an Edge Device</a></h2>
+    <div class="article-style">
+      
+      We present a fully offline speech-to-speech translation pipeline that runs on a Jetson Nano (4 GB) and corrects its own weak translations without retraining. A Whisper-tiny ASR feeds an Opus-MT translator; multilingual BERT cosine similarity acts as …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/koushik-2026-beyond/">Beyond Relevance: Structured Semantic Supervision for Product Search with LLM-Augmented Annotations</a></h2>
+    <div class="article-style">
+      
+      E-commerce search requires distinguishing products that are merely related to a query from those that directly satisfy the user's shopping intent. We augment query-product pairs with structured LLM-generated query and product attributes and …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/koushik-2026-decodable/">Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection</a></h2>
+    <div class="article-style">
+      
+      When large vision-language models misclassify harmful memes, the failure may reflect missing internal evidence or an inability to route represented evidence to their outputs. We distinguish these cases in Gemma-3 and Qwen3.5 using sparse …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/sindhujan-2026-beyond/">Beyond Scalar Scores: Reinforcement Learning for Error-Aware Quality Estimation of Machine Translation</a></h2>
+    <div class="article-style">
+      
+      Quality Estimation (QE) aims to assess the quality of machine translation (MT) outputs without relying on reference translations, making it essential for real-world, large-scale MT evaluation. Large Language Models (LLMs) have shown significant …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/koushik-2026-tandem/">TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech</a></h2>
+    <div class="article-style">
+      
+      Social media platforms are increasingly dominated by long-form multimodal content, where harmful narratives are constructed through a complex interplay of audio, visual, and textual cues. While automated systems can flag hate speech with high …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/nazarieh-2025-magictalk/">MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control</a></h2>
+    <div class="article-style">
+      
+      Audio-driven talking face generation has gained significant attention for applications in digital media and virtual avatars. While recent methods improve audio-lip synchronization, they often struggle with temporal consistency, identity preservation, …
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/publication/koushik-etal-2025-mind/">The Mind&#39;s Eye: A Multi-Faceted Reward Framework for Guiding Visual Metaphor Generation</a></h2>
     <div class="article-style">
       
@@ -727,24 +807,10 @@ if (!doNotTrack) {
   </div>
   
   <div>
-    <h2><a href="/publication/koushik-etal-2025-camu/">CAMU: Context Augmentation for Meme Understanding</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
     <h2><a href="/publication/liu-etal-2025-dgfm/">DGFM: Full Body Dance Generation Driven by Music Foundation Models</a></h2>
     <div class="article-style">
       
       In music-driven dance motion generation, most existing methods use hand-crafted features and neglect that music foundation models have profoundly impacted cross-modal content generation. To bridge this gap, we propose a diffusion-based method that …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/liu-etal-2025-gcdance/">GCDance: Genre-Controlled 3D Full Body Dance Generation Driven By Music</a></h2>
-    <div class="article-style">
       
     </div>
   </div>
@@ -772,40 +838,6 @@ if (!doNotTrack) {
     <div class="article-style">
       
       This paper investigates data sampling strategies to create a benchmark for dialectal sentiment classification of Google Places reviews written in English. Based on location-based filtering, we collect a self-supervised dataset of reviews in …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/carmo-etal-2024-edit/">Edit Distances and Their Applications to Downstream Tasks in Research and Commercial Contexts</a></h2>
-    <div class="article-style">
-      
-      The tutorial describes the concept of edit distances applied to research and commercial contexts. We use Translation Edit Rate (TER), Levenshtein, Damerau-Levenshtein, Longest Common Subsequence and n-gram distances to demonstrate the frailty of …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/joshi-etal-2024-connecting/">Connecting Ideas in &#39;Lower-Resource&#39; Scenarios: NLP for National Varieties, Creoles and Other Low-resource Scenarios</a></h2>
-    <div class="article-style">
-      
-      Despite excellent results on benchmarks over a small subset of languages, large language models struggle to process text from languages situated in 'lower-resource' scenarios such as dialects/sociolects (national or social varieties of a language), …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/delfani-etal-2024-google/">Google Translate Error Analysis for Mental Healthcare Information: Evaluating Accuracy, Comprehensibility, and Implications for Multilingual Healthcare Communication</a></h2>
-    <div class="article-style">
-      
-      This study explores the use of Google Translate (GT) for translating mental healthcare (MHealth) information and evaluates its accuracy, comprehensibility, and implications for multilingual healthcare communication through analysing GT output in the …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/gala-etal-2024-airavata/">Airavata: Introducing Hindi Instruction-tuned LLM</a></h2>
-    <div class="article-style">
       
     </div>
   </div>
@@ -939,7 +971,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 28-02-2026 17:43:17</p>
+	<p>Last Updated: 07-11-2026 23:51:25</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

@@ -6,10 +6,613 @@
     <description>Recent content in Tags on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>automatic post-editing</title>
+      <link>https://dipteshkanojia.co.uk/tags/automatic-post-editing/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/automatic-post-editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>benchmark</title>
+      <link>https://dipteshkanojia.co.uk/tags/benchmark/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indic languages</title>
+      <link>https://dipteshkanojia.co.uk/tags/indic-languages/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/indic-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine translation</title>
+      <link>https://dipteshkanojia.co.uk/tags/machine-translation/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quality estimation</title>
+      <link>https://dipteshkanojia.co.uk/tags/quality-estimation/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/quality-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MT evaluation</title>
+      <link>https://dipteshkanojia.co.uk/tags/mt-evaluation/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/mt-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudo-references</title>
+      <link>https://dipteshkanojia.co.uk/tags/pseudo-references/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/pseudo-references/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WMT</title>
+      <link>https://dipteshkanojia.co.uk/tags/wmt/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/wmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evaluation</title>
+      <link>https://dipteshkanojia.co.uk/tags/evaluation/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evaluation systems</title>
+      <link>https://dipteshkanojia.co.uk/tags/evaluation-systems/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/evaluation-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>llm</title>
+      <link>https://dipteshkanojia.co.uk/tags/llm/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM-as-a-judge</title>
+      <link>https://dipteshkanojia.co.uk/tags/llm-as-a-judge/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/llm-as-a-judge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shared task</title>
+      <link>https://dipteshkanojia.co.uk/tags/shared-task/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/shared-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dialect adaptation</title>
+      <link>https://dipteshkanojia.co.uk/tags/dialect-adaptation/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/dialect-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English dialects</title>
+      <link>https://dipteshkanojia.co.uk/tags/english-dialects/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/english-dialects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLMs</title>
+      <link>https://dipteshkanojia.co.uk/tags/llms/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preference alignment</title>
+      <link>https://dipteshkanojia.co.uk/tags/preference-alignment/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/preference-alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinforcement learning</title>
+      <link>https://dipteshkanojia.co.uk/tags/reinforcement-learning/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edge computing</title>
+      <link>https://dipteshkanojia.co.uk/tags/edge-computing/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minimum Bayes-risk decoding</title>
+      <link>https://dipteshkanojia.co.uk/tags/minimum-bayes-risk-decoding/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/minimum-bayes-risk-decoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech translation</title>
+      <link>https://dipteshkanojia.co.uk/tags/speech-translation/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/speech-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-commerce</title>
+      <link>https://dipteshkanojia.co.uk/tags/e-commerce/</link>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information retrieval</title>
+      <link>https://dipteshkanojia.co.uk/tags/information-retrieval/</link>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/information-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>product search</title>
+      <link>https://dipteshkanojia.co.uk/tags/product-search/</link>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/product-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantic supervision</title>
+      <link>https://dipteshkanojia.co.uk/tags/semantic-supervision/</link>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/semantic-supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>harmful meme detection</title>
+      <link>https://dipteshkanojia.co.uk/tags/harmful-meme-detection/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/harmful-meme-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mechanistic interpretability</title>
+      <link>https://dipteshkanojia.co.uk/tags/mechanistic-interpretability/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/mechanistic-interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sparse autoencoders</title>
+      <link>https://dipteshkanojia.co.uk/tags/sparse-autoencoders/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/sparse-autoencoders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vision-language models</title>
+      <link>https://dipteshkanojia.co.uk/tags/vision-language-models/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/vision-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D</title>
+      <link>https://dipteshkanojia.co.uk/tags/3d/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dance generation</title>
+      <link>https://dipteshkanojia.co.uk/tags/dance-generation/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/dance-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffusion</title>
+      <link>https://dipteshkanojia.co.uk/tags/diffusion/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffusion models</title>
+      <link>https://dipteshkanojia.co.uk/tags/diffusion-models/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/diffusion-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genre-controlled</title>
+      <link>https://dipteshkanojia.co.uk/tags/genre-controlled/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/genre-controlled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-driven</title>
+      <link>https://dipteshkanojia.co.uk/tags/music-driven/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/music-driven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEA shared task</title>
+      <link>https://dipteshkanojia.co.uk/tags/bea-shared-task/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/bea-shared-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>educational NLP</title>
+      <link>https://dipteshkanojia.co.uk/tags/educational-nlp/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/educational-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lexical difficulty prediction</title>
+      <link>https://dipteshkanojia.co.uk/tags/lexical-difficulty-prediction/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/lexical-difficulty-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilingual</title>
+      <link>https://dipteshkanojia.co.uk/tags/multilingual/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilingual transformers</title>
+      <link>https://dipteshkanojia.co.uk/tags/multilingual-transformers/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/multilingual-transformers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avatar generation</title>
+      <link>https://dipteshkanojia.co.uk/tags/avatar-generation/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/avatar-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CVPR</title>
+      <link>https://dipteshkanojia.co.uk/tags/cvpr/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffusion transformer</title>
+      <link>https://dipteshkanojia.co.uk/tags/diffusion-transformer/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/diffusion-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal</title>
+      <link>https://dipteshkanojia.co.uk/tags/multimodal/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal generation</title>
+      <link>https://dipteshkanojia.co.uk/tags/multimodal-generation/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/multimodal-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talking head</title>
+      <link>https://dipteshkanojia.co.uk/tags/talking-head/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/talking-head/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adapters</title>
+      <link>https://dipteshkanojia.co.uk/tags/adapters/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/adapters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>domain adaptation</title>
+      <link>https://dipteshkanojia.co.uk/tags/domain-adaptation/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low-resource</title>
+      <link>https://dipteshkanojia.co.uk/tags/low-resource/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/low-resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low-resource languages</title>
+      <link>https://dipteshkanojia.co.uk/tags/low-resource-languages/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/low-resource-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>https://dipteshkanojia.co.uk/tags/image/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image captioning</title>
+      <link>https://dipteshkanojia.co.uk/tags/image-captioning/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/image-captioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilingual NLP</title>
+      <link>https://dipteshkanojia.co.uk/tags/multilingual-nlp/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/multilingual-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal benchmark</title>
+      <link>https://dipteshkanojia.co.uk/tags/multimodal-benchmark/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/multimodal-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news image captioning</title>
+      <link>https://dipteshkanojia.co.uk/tags/news-image-captioning/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/news-image-captioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACM Multimedia</title>
+      <link>https://dipteshkanojia.co.uk/tags/acm-multimedia/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/acm-multimedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contrastive alignment</title>
+      <link>https://dipteshkanojia.co.uk/tags/contrastive-alignment/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/contrastive-alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>textual control</title>
+      <link>https://dipteshkanojia.co.uk/tags/textual-control/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/textual-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parameter-efficient fine-tuning</title>
+      <link>https://dipteshkanojia.co.uk/tags/parameter-efficient-fine-tuning/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/parameter-efficient-fine-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recursive models</title>
+      <link>https://dipteshkanojia.co.uk/tags/recursive-models/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/recursive-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alphanumeric queries</title>
+      <link>https://dipteshkanojia.co.uk/tags/alphanumeric-queries/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/alphanumeric-queries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-commerce search</title>
+      <link>https://dipteshkanojia.co.uk/tags/e-commerce-search/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/e-commerce-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search suggestions</title>
+      <link>https://dipteshkanojia.co.uk/tags/search-suggestions/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/search-suggestions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAAI</title>
+      <link>https://dipteshkanojia.co.uk/tags/aaai/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hateful memes</title>
+      <link>https://dipteshkanojia.co.uk/tags/hateful-memes/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/hateful-memes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal hate detection</title>
+      <link>https://dipteshkanojia.co.uk/tags/multimodal-hate-detection/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/multimodal-hate-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual grounding</title>
+      <link>https://dipteshkanojia.co.uk/tags/visual-grounding/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/visual-grounding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>claude</title>
@@ -35,15 +638,6 @@
       <pubDate>Sat, 28 Feb 2026 17:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/indic_nlp_library/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>llm</title>
-      <link>https://dipteshkanojia.co.uk/tags/llm/</link>
-      <pubDate>Sat, 28 Feb 2026 17:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/llm/</guid>
       <description></description>
     </item>
     
@@ -129,20 +723,47 @@
     </item>
     
     <item>
-      <title>automatic post-editing</title>
-      <link>https://dipteshkanojia.co.uk/tags/automatic-post-editing/</link>
-      <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
+      <title>audio-visual</title>
+      <link>https://dipteshkanojia.co.uk/tags/audio-visual/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.co.uk/tags/automatic-post-editing/</guid>
+      <guid>https://dipteshkanojia.co.uk/tags/audio-visual/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>evaluation</title>
-      <link>https://dipteshkanojia.co.uk/tags/evaluation/</link>
-      <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
+      <title>multimodal hate speech</title>
+      <link>https://dipteshkanojia.co.uk/tags/multimodal-hate-speech/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.co.uk/tags/evaluation/</guid>
+      <guid>https://dipteshkanojia.co.uk/tags/multimodal-hate-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>online</title>
+      <link>https://dipteshkanojia.co.uk/tags/online/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>online safety</title>
+      <link>https://dipteshkanojia.co.uk/tags/online-safety/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/online-safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temporal grounding</title>
+      <link>https://dipteshkanojia.co.uk/tags/temporal-grounding/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/temporal-grounding/</guid>
       <description></description>
     </item>
     
@@ -174,15 +795,6 @@
     </item>
     
     <item>
-      <title>quality estimation</title>
-      <link>https://dipteshkanojia.co.uk/tags/quality-estimation/</link>
-      <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/quality-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>talks</title>
       <link>https://dipteshkanojia.co.uk/tags/talks/</link>
       <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
@@ -201,11 +813,29 @@
     </item>
     
     <item>
-      <title>evaluation systems</title>
-      <link>https://dipteshkanojia.co.uk/tags/evaluation-systems/</link>
-      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <title>explainability</title>
+      <link>https://dipteshkanojia.co.uk/tags/explainability/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.co.uk/tags/evaluation-systems/</guid>
+      <guid>https://dipteshkanojia.co.uk/tags/explainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal sarcasm detection</title>
+      <link>https://dipteshkanojia.co.uk/tags/multimodal-sarcasm-detection/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/multimodal-sarcasm-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prompting</title>
+      <link>https://dipteshkanojia.co.uk/tags/prompting/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/prompting/</guid>
       <description></description>
     </item>
     
@@ -215,24 +845,6 @@
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/linguistic-diversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine translation</title>
-      <link>https://dipteshkanojia.co.uk/tags/machine-translation/</link>
-      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/machine-translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shared task</title>
-      <link>https://dipteshkanojia.co.uk/tags/shared-task/</link>
-      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/shared-task/</guid>
       <description></description>
     </item>
     
@@ -264,38 +876,38 @@
     </item>
     
     <item>
+      <title>audio-driven</title>
+      <link>https://dipteshkanojia.co.uk/tags/audio-driven/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/audio-driven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>identity preservation</title>
+      <link>https://dipteshkanojia.co.uk/tags/identity-preservation/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/identity-preservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talking face generation</title>
+      <link>https://dipteshkanojia.co.uk/tags/talking-face-generation/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/talking-face-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>nlp-cafe</title>
       <link>https://dipteshkanojia.co.uk/tags/nlp-cafe/</link>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0100</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/nlp-cafe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LLMs</title>
-      <link>https://dipteshkanojia.co.uk/tags/llms/</link>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/llms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>low-resource</title>
-      <link>https://dipteshkanojia.co.uk/tags/low-resource/</link>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/low-resource/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>low-resource languages</title>
-      <link>https://dipteshkanojia.co.uk/tags/low-resource-languages/</link>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/low-resource-languages/</guid>
       <description></description>
     </item>
     
@@ -336,29 +948,11 @@
     </item>
     
     <item>
-      <title>prompting</title>
-      <link>https://dipteshkanojia.co.uk/tags/prompting/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/prompting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>social media</title>
       <link>https://dipteshkanojia.co.uk/tags/social-media/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>image</title>
-      <link>https://dipteshkanojia.co.uk/tags/image/</link>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/image/</guid>
       <description></description>
     </item>
     
@@ -399,15 +993,6 @@
     </item>
     
     <item>
-      <title>benchmark</title>
-      <link>https://dipteshkanojia.co.uk/tags/benchmark/</link>
-      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sarcasm detection</title>
       <link>https://dipteshkanojia.co.uk/tags/sarcasm-detection/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
@@ -444,29 +1029,11 @@
     </item>
     
     <item>
-      <title>e-commerce</title>
-      <link>https://dipteshkanojia.co.uk/tags/e-commerce/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/e-commerce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>embeddings</title>
       <link>https://dipteshkanojia.co.uk/tags/embeddings/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/embeddings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>information retrieval</title>
-      <link>https://dipteshkanojia.co.uk/tags/information-retrieval/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/information-retrieval/</guid>
       <description></description>
     </item>
     
@@ -543,15 +1110,6 @@
     </item>
     
     <item>
-      <title>multimodal</title>
-      <link>https://dipteshkanojia.co.uk/tags/multimodal/</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/multimodal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>video</title>
       <link>https://dipteshkanojia.co.uk/tags/video/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
@@ -606,33 +1164,6 @@
     </item>
     
     <item>
-      <title>context augmentation</title>
-      <link>https://dipteshkanojia.co.uk/tags/context-augmentation/</link>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/context-augmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meme understanding</title>
-      <link>https://dipteshkanojia.co.uk/tags/meme-understanding/</link>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/meme-understanding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>audio-visual</title>
-      <link>https://dipteshkanojia.co.uk/tags/audio-visual/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/audio-visual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>audio-visual segmentation</title>
       <link>https://dipteshkanojia.co.uk/tags/audio-visual-segmentation/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
@@ -678,15 +1209,6 @@
     </item>
     
     <item>
-      <title>3D</title>
-      <link>https://dipteshkanojia.co.uk/tags/3d/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/3d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cross-modal</title>
       <link>https://dipteshkanojia.co.uk/tags/cross-modal/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
@@ -696,47 +1218,11 @@
     </item>
     
     <item>
-      <title>dance generation</title>
-      <link>https://dipteshkanojia.co.uk/tags/dance-generation/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/dance-generation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diffusion</title>
-      <link>https://dipteshkanojia.co.uk/tags/diffusion/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/diffusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genre-controlled</title>
-      <link>https://dipteshkanojia.co.uk/tags/genre-controlled/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/genre-controlled/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>music foundation models</title>
       <link>https://dipteshkanojia.co.uk/tags/music-foundation-models/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/music-foundation-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music-driven</title>
-      <link>https://dipteshkanojia.co.uk/tags/music-driven/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/music-driven/</guid>
       <description></description>
     </item>
     
@@ -831,15 +1317,6 @@
     </item>
     
     <item>
-      <title>diffusion models</title>
-      <link>https://dipteshkanojia.co.uk/tags/diffusion-models/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/diffusion-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>one-shot</title>
       <link>https://dipteshkanojia.co.uk/tags/one-shot/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
@@ -921,29 +1398,11 @@
     </item>
     
     <item>
-      <title>multilingual</title>
-      <link>https://dipteshkanojia.co.uk/tags/multilingual/</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/multilingual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>user intent</title>
       <link>https://dipteshkanojia.co.uk/tags/user-intent/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/user-intent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>alphanumeric queries</title>
-      <link>https://dipteshkanojia.co.uk/tags/alphanumeric-queries/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/alphanumeric-queries/</guid>
       <description></description>
     </item>
     
@@ -1200,15 +1659,6 @@
     </item>
     
     <item>
-      <title>explainability</title>
-      <link>https://dipteshkanojia.co.uk/tags/explainability/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/explainability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>keynote</title>
       <link>https://dipteshkanojia.co.uk/tags/keynote/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0100</pubDate>
@@ -1281,6 +1731,42 @@
     </item>
     
     <item>
+      <title>neural machine translation</title>
+      <link>https://dipteshkanojia.co.uk/tags/neural-machine-translation/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/neural-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source toolkit</title>
+      <link>https://dipteshkanojia.co.uk/tags/open-source-toolkit/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/open-source-toolkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PEFT</title>
+      <link>https://dipteshkanojia.co.uk/tags/peft/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/peft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer learning</title>
+      <link>https://dipteshkanojia.co.uk/tags/transfer-learning/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>chinese-english</title>
       <link>https://dipteshkanojia.co.uk/tags/chinese-english/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
@@ -1295,15 +1781,6 @@
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/quality-assessment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural machine translation</title>
-      <link>https://dipteshkanojia.co.uk/tags/neural-machine-translation/</link>
-      <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/neural-machine-translation/</guid>
       <description></description>
     </item>
     
@@ -1686,11 +2163,38 @@
     </item>
     
     <item>
-      <title>transfer learning</title>
-      <link>https://dipteshkanojia.co.uk/tags/transfer-learning/</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <title>classical Indian texts</title>
+      <link>https://dipteshkanojia.co.uk/tags/classical-indian-texts/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dipteshkanojia.co.uk/tags/transfer-learning/</guid>
+      <guid>https://dipteshkanojia.co.uk/tags/classical-indian-texts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computational phylogenetics</title>
+      <link>https://dipteshkanojia.co.uk/tags/computational-phylogenetics/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/computational-phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sanskrit</title>
+      <link>https://dipteshkanojia.co.uk/tags/sanskrit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/sanskrit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>textual history</title>
+      <link>https://dipteshkanojia.co.uk/tags/textual-history/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/textual-history/</guid>
       <description></description>
     </item>
     
@@ -1857,6 +2361,33 @@
     </item>
     
     <item>
+      <title>distributional semantics</title>
+      <link>https://dipteshkanojia.co.uk/tags/distributional-semantics/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/distributional-semantics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>false friends</title>
+      <link>https://dipteshkanojia.co.uk/tags/false-friends/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/false-friends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD thesis</title>
+      <link>https://dipteshkanojia.co.uk/tags/phd-thesis/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/tags/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>best paper honourable mention</title>
       <link>https://dipteshkanojia.co.uk/tags/best-paper-honourable-mention/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
@@ -1916,15 +2447,6 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/zero-shot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>distributional semantics</title>
-      <link>https://dipteshkanojia.co.uk/tags/distributional-semantics/</link>
-      <pubDate>Fri, 03 Apr 2020 05:30:00 +0100</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/distributional-semantics/</guid>
       <description></description>
     </item>
     
@@ -2037,15 +2559,6 @@
     </item>
     
     <item>
-      <title>textual history</title>
-      <link>https://dipteshkanojia.co.uk/tags/textual-history/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/textual-history/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>indian languages</title>
       <link>https://dipteshkanojia.co.uk/tags/indian-languages/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
@@ -2082,15 +2595,6 @@
     </item>
     
     <item>
-      <title>online</title>
-      <link>https://dipteshkanojia.co.uk/tags/online/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/online/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tool</title>
       <link>https://dipteshkanojia.co.uk/tags/tool/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
@@ -2114,15 +2618,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/tags/linguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sanskrit</title>
-      <link>https://dipteshkanojia.co.uk/tags/sanskrit/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/tags/sanskrit/</guid>
       <description></description>
     </item>
     

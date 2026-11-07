@@ -6,10 +6,37 @@
     <description>Recent content in Tharindu Ranasinghe on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/tharindu-ranasinghe/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IndicQE-APE: A Consolidated Benchmark for Quality Estimation and Automatic Post-Editing over Indic Languages</title>
+      <link>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MUNIChus: MUltilingual News Image Captioning Benchmark</title>
+      <link>https://dipteshkanojia.co.uk/publication/chen-2026-munichus/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/chen-2026-munichus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Open-Source Vision-Language Models for Multimodal Sarcasm Detection</title>
+      <link>https://dipteshkanojia.co.uk/publication/basnet-2025-evaluating/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/basnet-2025-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What do Large Language Models Need for Machine Translation Evaluation?</title>

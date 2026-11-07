@@ -6,10 +6,37 @@
     <description>Recent content in Sourabh Deoghare on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/sourabh-deoghare/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IndicQE-APE: A Consolidated Benchmark for Quality Estimation and Automatic Post-Editing over Indic Languages</title>
+      <link>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging Domains for Automatic Post-Editing: A Classifier-Guided Multi-Domain Adaptation Framework</title>
+      <link>https://dipteshkanojia.co.uk/publication/deoghare-2026-bridging/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/deoghare-2026-bridging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT25 Shared Task on Automated Translation Evaluation Systems: Linguistic Diversity is Challenging and References Still Help</title>
+      <link>https://dipteshkanojia.co.uk/publication/lavie-etal-2025-findings/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/lavie-etal-2025-findings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Giving the Old a Fresh Spin: Quality Estimation-Assisted Constrained Decoding for Automatic Post-Editing</title>
@@ -17,6 +44,15 @@
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/publication/deoghare-etal-2025-giving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refer to the Reference: Reference-focused Synthetic Automatic Post-Editing Data Generation</title>
+      <link>https://dipteshkanojia.co.uk/publication/deoghare-etal-2025-refer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/deoghare-etal-2025-refer/</guid>
       <description></description>
     </item>
     

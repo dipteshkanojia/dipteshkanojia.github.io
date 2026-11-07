@@ -6,10 +6,55 @@
     <description>Recent content in low-resource languages on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/tags/low-resource-languages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bridging Domains for Automatic Post-Editing: A Classifier-Guided Multi-Domain Adaptation Framework</title>
+      <link>https://dipteshkanojia.co.uk/publication/deoghare-2026-bridging/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/deoghare-2026-bridging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MUNIChus: MUltilingual News Image Captioning Benchmark</title>
+      <link>https://dipteshkanojia.co.uk/publication/chen-2026-munichus/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/chen-2026-munichus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-Specific Quality Estimation for Machine Translation in Low-Resource Scenarios</title>
+      <link>https://dipteshkanojia.co.uk/publication/gurav-2026-domain/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/gurav-2026-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter-Efficient Quality Estimation via Frozen Recursive Models</title>
+      <link>https://dipteshkanojia.co.uk/publication/abubacar-2026-parameter/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/abubacar-2026-parameter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Scalar Scores: Reinforcement Learning for Error-Aware Quality Estimation of Machine Translation</title>
+      <link>https://dipteshkanojia.co.uk/publication/sindhujan-2026-beyond/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/sindhujan-2026-beyond/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reference-Less Evaluation of Machine Translation: Navigating Through the Resource-Scarce Scenarios</title>

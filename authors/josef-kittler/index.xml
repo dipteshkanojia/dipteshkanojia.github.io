@@ -6,10 +6,28 @@
     <description>Recent content in Josef Kittler on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/josef-kittler/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SyncDreamer: Controllable and Expressive Avatar Generation Beyond the Talking Head</title>
+      <link>https://dipteshkanojia.co.uk/publication/nazarieh-2026-syncdreamer/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/nazarieh-2026-syncdreamer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control</title>
+      <link>https://dipteshkanojia.co.uk/publication/nazarieh-2025-magictalk/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/nazarieh-2025-magictalk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation</title>

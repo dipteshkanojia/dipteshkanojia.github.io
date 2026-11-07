@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitesh M. Khapra on Diptesh Kanojia</title>
+    <link>https://dipteshkanojia.co.uk/authors/mitesh-m.-khapra/</link>
+    <description>Recent content in Mitesh M. Khapra on Diptesh Kanojia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.co.uk/authors/mitesh-m.-khapra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IndicQE-APE: A Consolidated Benchmark for Quality Estimation and Automatic Post-Editing over Indic Languages</title>
+      <link>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airavata: Introducing Hindi Instruction-tuned LLM</title>
+      <link>https://dipteshkanojia.co.uk/publication/gala-etal-2024-airavata/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/gala-etal-2024-airavata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

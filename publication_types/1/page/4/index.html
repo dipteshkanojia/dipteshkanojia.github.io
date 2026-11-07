@@ -101,7 +101,7 @@
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-219532492-1', 'auto');
-      
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -142,10 +142,36 @@
   <meta property="og:description" content="Diptesh Kanojia is an NLP Researcher working on cross-lingual and multimodal representation learning to address challenges like online toxicity, misinformation, and digital accessibility for low-resource languages."><meta property="og:image" content="https://dipteshkanojia.co.uk/img/sharing.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/img/sharing.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-11-01T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2026-10-25T00:00:00&#43;00:00">
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
 
   
@@ -709,109 +735,109 @@ if (!doNotTrack) {
   
   
   <div>
-    <h2><a href="/publication/qian-2023-evaluation-chinese-english-mt/">Evaluation of Chinese-English Machine Translation of Emotion-Loaded Microblog Texts: A Human Annotated Dataset for the Quality Assessment of Emotion Translation</a></h2>
+    <h2><a href="/publication/qian-etal-2024-evaluating/">Evaluating Machine Translation for Emotion-loaded User Generated Content (TransEval4Emo-UGC)</a></h2>
     <div class="article-style">
       
-      In this paper, we focus on how current Machine Translation (MT) engines perform on the translation of emotion-loaded texts by evaluating outputs from Google Translate according to a framework proposed in this paper. We propose this evaluation …
+      This paper presents a dataset for evaluating the machine translation of emotion-loaded user generated content. It contains human-annotated quality evaluation data and post-edited reference translations. The dataset is available at our GitHub …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/wmt-2022-findings-ape/">Findings of the WMT 2022 Shared Task on Automatic Post-Editing</a></h2>
+    <h2><a href="/publication/saeid-etal-2024-decoding/">Decoding Cyberbullying on Social Media: A Machine Learning Exploration</a></h2>
     <div class="article-style">
       
-      We present the results from the 8th round of the WMT shared task on MT Automatic Post-Editing, which consists in automatically correcting the output of a 'black-box' machine translation system by learning from human corrections. This year, the task …
+      Social media, a vast platform for communication and entertainment, unfortunately, is an ideal breeding ground for cyberbullying. While most common among teenagers, it also affects other demographics. Despite strict zero-tolerance policies on social …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/wmt-2022-findings-qe/">Findings of the WMT 2022 Shared Task on Quality Estimation</a></h2>
+    <h2><a href="/publication/zilio-etal-2024-using/">Using character-level models for efficient abbreviation and long-form detection</a></h2>
     <div class="article-style">
       
-      We report the results of the WMT 2022 shared task on Quality Estimation, in which the challenge is to predict the quality of the output of neural machine translation systems at the word and sentence levels, without access to reference translations. …
+      Abbreviations and their associated long forms are important textual elements that are present in almost every scientific communication, and having information about these forms can help improve several NLP tasks. In this paper, our aim is to …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/nlpcss-emnlp-2022-sarcasm/">Utilizing Weak Supervision to Create S3D: A Sarcasm Annotated Dataset</a></h2>
+    <h2><a href="/publication/bhosale-etal-2024-diffsed/">DiffSED: Sound Event Detection with Denoising Diffusion</a></h2>
     <div class="article-style">
       
-      Sarcasm is prevalent in all corners of social media, posing many challenges within Natural Language Processing (NLP), particularly for sentiment analysis. Sarcasm detection remains a largely unsolved problem in many NLP tasks due to its contradictory …
+      Sound Event Detection (SED) aims to predict the temporal boundaries of all the events of interest and their class labels, given an unconstrained audio sample. Taking either the split-and-classify (i.e., frame-level) strategy or the more principled …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/coling-2022-factcheck/">Harnessing Abstractive Summarization for Fact-Checked Claim Detection</a></h2>
+    <h2><a href="/publication/bhattacharyya-2023-wmt-ape-findings/">Findings of the WMT 2023 Shared Task on Automatic Post-Editing</a></h2>
     <div class="article-style">
       
-      Social media platforms have become new battlegrounds for anti-social elements, with misinformation being the weapon of choice. Fact-checking organizations try to debunk as many claims as possible while staying true to their journalistic processes but …
+      We present the results from the 9th round of the WMT shared task on MT Automatic Post-Editing, which consists of automatically correcting the output of a “black-box” machine translation system by learning from human corrections. Like last year, the …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/lrec-2022-hiner/">HiNER: A Large Hindi Named Entity Recognition Dataset</a></h2>
+    <h2><a href="/publication/blain-etal-2023-findings/">Findings of the WMT 2023 Shared Task on Quality Estimation</a></h2>
     <div class="article-style">
       
-      Named Entity Recognition (NER) is a foundational NLP task that aims to provide class labels like Person, Location, Organisation, Time, and Number to words in free text. Named Entities can also be multi-word expressions where the additional I-O-B …
+      We report the results of the WMT 2023 shared task on Quality Estimation, in which the challenge is to predict the quality of the output of neural machine translation systems at the word and sentence levels, without access to reference translations. …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/lrec-2022-plod/">PLOD: An Abbreviation Detection Dataset for Scientific Documents</a></h2>
+    <h2><a href="/publication/tiwari-etal-2023-predict/">Predict and Use: Harnessing Predicted Gaze to Improve Multimodal Sarcasm Detection</a></h2>
     <div class="article-style">
       
-      The detection and extraction of abbreviations from unstructured texts can help to improve the performance of Natural Language Processing tasks, such as machine translation and information retrieval. However, in terms of publicly available datasets, …
+      Sarcasm is a complex linguistic construct with incongruity at its very core. Detecting sarcasm depends on the actual content spoken and tonality, facial expressions, the context of an utterance, and personal traits like language proficiency and …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/wassa-2022-emotion/">SURREY-CTS-NLP at WASSA2022: An Experiment of Discourse and Sentiment Analysis for the Prediction of Empathy, Distress and Emotion</a></h2>
+    <h2><a href="/publication/deoghare-etal-2023-quality/">Quality Estimation-Assisted Automatic Post-Editing</a></h2>
     <div class="article-style">
       
-      This paper summarises the submissions our team, SURREY-CTS-NLP has made for the WASSA 2022 Shared Task for the prediction of empathy, distress and emotion. In this work, we tested different learning strategies, like ensemble learning and multi-task …
+      Automatic Post-Editing (APE) systems are prone to over-correction of the Machine Translation (MT) outputs. While Word-level Quality Estimation (QE) system can provide a way to curtail the over-correction, a significant performance gain has not been …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/sdu-st-aaai-2022-acronym/">An Ensemble Approach to Acronym Extraction using Transformers</a></h2>
+    <h2><a href="/publication/sindhujan-etal-2023-surreyai/">SurreyAI 2023 Submission for the Quality Estimation Shared Task</a></h2>
     <div class="article-style">
       
-      Acronyms are abbreviated units of a phrase constructed by using initial components of the phrase in a text. Automatic extraction of acronyms from a text can help various Natural Language Processing tasks like machine translation, information …
+      Quality Estimation (QE) systems are important in situations where it is necessary to assess the quality of translations, but there is no reference available. This paper describes the approach adopted by the SurreyAI team for addressing the …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/icon-2021-fakenews-evidence/">Automated Evidence Collection for Fake News Detection</a></h2>
+    <h2><a href="/publication/qian-etal-2023-challenges/">Challenges of Human vs Machine Translation of Emotion-Loaded Chinese Microblog Texts</a></h2>
     <div class="article-style">
       
-      Fake news, misinformation, and unverifiable facts on social media platforms propagate disharmony and affect society, especially when dealing with an epidemic like COVID-19. The task of Fake News Detection aims to tackle the effects of such …
+      This paper attempts to identify challenges professional translators face when translating emotion-loaded texts as well as errors machine translation (MT) makes when translating this content. We invited ten Chinese-English translators to translate …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/wmt-2021-qeeval/">Pushing the Right Buttons: Adversarial Evaluation of Quality Estimation</a></h2>
+    <h2><a href="/publication/bhosale-etal-2023-leveraging/">Leveraging Foundation Models for Unsupervised Audio-Visual Segmentation</a></h2>
     <div class="article-style">
       
-      Current Machine Translation (MT) systems achieve very good results on a growing variety of language pairs and datasets. However, they are known to produce fluent translation outputs that can contain important meaning errors, thus undermining their …
+      Audio-Visual Segmentation (AVS) aims to precisely outline audible objects in a visual scene at the pixel level. Existing AVS methods require fine-grained annotations of audio-mask pairs in supervised learning fashion. This limits their scalability …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/emnlp-2021-standup/">&#39;So You Think You’re Funny?&#39;: Rating the Humour Quotient in Standup Comedy</a></h2>
+    <h2><a href="/publication/rawat-2023-modelling-political-aggression/">Modelling Political Aggression on Social Media Platforms</a></h2>
     <div class="article-style">
       
-      Computational Humour (CH) has attracted the interest of Natural Language Processing and Computational Linguistics communities. Creating datasets for automatic measurement of humour quotient is difficult due to multiple possible interpretations of the …
+      Recent years have seen a proliferation of aggressive social media posts, often wreaking even real-world consequences for victims. Aggressive behaviour on social media is especially evident during important sociopolitical events such as elections, …
       
     </div>
   </div>
@@ -947,7 +973,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 28-02-2026 17:43:17</p>
+	<p>Last Updated: 07-11-2026 23:51:25</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

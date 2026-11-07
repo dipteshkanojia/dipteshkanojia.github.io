@@ -6,10 +6,19 @@
     <description>Recent content in André Martins on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/andre-martins/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IndicQE-APE: A Consolidated Benchmark for Quality Estimation and Automatic Post-Editing over Indic Languages</title>
+      <link>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Findings of the Quality Estimation Shared Task at WMT 2024: Are LLMs Closing the Gap in QE?</title>
@@ -26,6 +35,15 @@
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/publication/blain-etal-2023-findings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT 2022 Shared Task on Quality Estimation</title>
+      <link>https://dipteshkanojia.co.uk/publication/wmt-2022-findings-qe/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/wmt-2022-findings-qe/</guid>
       <description></description>
     </item>
     

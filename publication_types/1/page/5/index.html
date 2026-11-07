@@ -101,7 +101,7 @@
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-219532492-1', 'auto');
-      
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -142,10 +142,36 @@
   <meta property="og:description" content="Diptesh Kanojia is an NLP Researcher working on cross-lingual and multimodal representation learning to address challenges like online toxicity, misinformation, and digital accessibility for low-resource languages."><meta property="og:image" content="https://dipteshkanojia.co.uk/img/sharing.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/img/sharing.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-11-01T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2026-10-25T00:00:00&#43;00:00">
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
 
   
@@ -709,109 +735,109 @@ if (!doNotTrack) {
   
   
   <div>
-    <h2><a href="/publication/aclfind-2021-nci/">FrameNet-assisted Noun Compound Interpretation</a></h2>
+    <h2><a href="/publication/nafis-etal-2023-towards/">Towards Safer Communities: Detecting Aggression and Offensive Language in Code-Mixed Tweets to Combat Cyberbullying</a></h2>
     <div class="article-style">
       
-      Given a noun compound (NC), we address the problem of predicting the appropriate semantic label linking the constituents of the NC. This problem is called Noun Compound Interpretation (NCI). We use FrameNet as a semantic label repository. For …
+      Cyberbullying is a serious societal issue widespread on various channels and platforms, particularly social networking sites. Such platforms have proven to be exceptionally fertile grounds for such behavior. The dearth of high-quality training data …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/eacl-2021-cognate/">Cognition-aware Cognate Detection</a></h2>
+    <h2><a href="/publication/dabre-2023-yanmtt/">YANMTT: Yet Another Neural Machine Translation Toolkit</a></h2>
     <div class="article-style">
       
-      Automatic detection of cognates helps downstream NLP tasks of Machine Translation, Cross-lingual Information Retrieval, Computational Phylogenetics and Cross-lingual Named Entity Recognition. Previous approaches for the task of cognate detection use …
+      In this paper, we present our open-source neural machine translation (NMT) toolkit called 'Yet Another Neural Machine Translation Toolkit' abbreviated as YANMTT - https://github.com/prajdabre/yanmtt, which is built on top of the HuggingFace …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/coling-2020-cognate/">Harnessing Cross-lingual Features to Improve Cognate Detection for Low-resource Languages</a></h2>
+    <h2><a href="/publication/deoghare-etal-2023-multi/">A Multi-task Learning Framework for Quality Estimation</a></h2>
     <div class="article-style">
       
-      Cognates are variants of the same lexical form across different languages; for example 'fonema' in Spanish and 'phoneme' in English are cognates, both of which mean 'a unit of sound'. The task of automatic detection of cognates among any two …
+      Quality Estimation (QE) is the task of evaluating machine translation output in the absence of reference translation. Conventional approaches to QE involve training separate models at different levels of granularity viz., word-level, sentence-level, …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/ijcai-2020-gazesurvey/">A Survey on Using Gaze Behaviour for Natural Language Processing</a></h2>
+    <h2><a href="/publication/qian-2023-evaluation-chinese-english-mt/">Evaluation of Chinese-English Machine Translation of Emotion-Loaded Microblog Texts: A Human Annotated Dataset for the Quality Assessment of Emotion Translation</a></h2>
     <div class="article-style">
       
-      Gaze behaviour has been used as a way to gather cognitive information for a number of years. In this paper, we discuss the use of gaze behaviour in solving different tasks in natural language processing (NLP) without having to record it at test time. …
+      In this paper, we focus on how current Machine Translation (MT) engines perform on the translation of emotion-loaded texts by evaluating outputs from Google Translate according to a framework proposed in this paper. We propose this evaluation …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/icon-2020-aeg/">Cognitively Aided Zero-Shot Automatic Essay Grading</a></h2>
+    <h2><a href="/publication/wmt-2022-findings-ape/">Findings of the WMT 2022 Shared Task on Automatic Post-Editing</a></h2>
     <div class="article-style">
       
-      Automatic essay grading (AEG) is a process in which machines assign a grade to an essay written in response to a topic, called the prompt. Zero-shot AEG is when we train a system to grade essays written to a new prompt which was not present in our …
+      We present the results from the 8th round of the WMT shared task on MT Automatic Post-Editing, which consists in automatically correcting the output of a 'black-box' machine translation system by learning from human corrections. This year, the task …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/aacl-2020-aeg/">Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour</a></h2>
+    <h2><a href="/publication/wmt-2022-findings-qe/">Findings of the WMT 2022 Shared Task on Quality Estimation</a></h2>
     <div class="article-style">
       
-      The gaze behaviour of a reader is helpful in solving several NLP tasks such as automatic essay grading. However, collecting gaze behaviour from readers is costly in terms of time and money. In this paper, we propose a way to improve automatic essay …
+      We report the results of the WMT 2022 shared task on Quality Estimation, in which the challenge is to predict the quality of the output of neural machine translation systems at the word and sentence levels, without access to reference translations. …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/lrec-2020-embeddings/">&#34;A Passage to India&#34;: Pre-trained Word Embeddings for Indian Languages</a></h2>
+    <h2><a href="/publication/nlpcss-emnlp-2022-sarcasm/">Utilizing Weak Supervision to Create S3D: A Sarcasm Annotated Dataset</a></h2>
     <div class="article-style">
       
-      Dense word vectors or 'word embeddings' which encode semantic properties of words, have now become integral to NLP tasks like Machine Translation (MT), Question Answering (QA), Word Sense Disambiguation (WSD), and Information Retrieval (IR). In this …
+      Sarcasm is prevalent in all corners of social media, posing many challenges within Natural Language Processing (NLP), particularly for sentiment analysis. Sarcasm detection remains a largely unsolved problem in many NLP tasks due to its contradictory …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/lrec-2020-cognate/">Challenge Datasets of Cognate and False Friend Pairs for Indian Languages</a></h2>
+    <h2><a href="/publication/coling-2022-factcheck/">Harnessing Abstractive Summarization for Fact-Checked Claim Detection</a></h2>
     <div class="article-style">
       
-      Cognates are present in multiple variants of the same text across different languages (e.g., hund in German and hound in English language mean dog). They pose a challenge to various Natural Language Processing (NLP) applications such as Machine …
+      Social media platforms have become new battlegrounds for anti-social elements, with misinformation being the weapon of choice. Fact-checking organizations try to debunk as many claims as possible while staying true to their journalistic processes but …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/lrec-2020-cdsa/">Recommendation Chart of Domains for Cross-Domain Sentiment Analysis: Findings of A 20 Domain Study</a></h2>
+    <h2><a href="/publication/lrec-2022-hiner/">HiNER: A Large Hindi Named Entity Recognition Dataset</a></h2>
     <div class="article-style">
       
-      Cross-domain sentiment analysis (CDSA) helps to address the problem of data scarcity in scenarios where labelled data for a domain (known as the target domain) is unavailable or insufficient. However, the decision to choose a domain (known as the …
+      Named Entity Recognition (NER) is a foundational NLP task that aims to provide class labels like Person, Location, Organisation, Time, and Number to words in free text. Named Entities can also be multi-word expressions where the additional I-O-B …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/sssu-2020-commentaries/">Strategies of Effective Digitization of Commentaries and Sub-commentaries: Towards the Construction of Textual History</a></h2>
+    <h2><a href="/publication/lrec-2022-plod/">PLOD: An Abbreviation Detection Dataset for Scientific Documents</a></h2>
     <div class="article-style">
       
-      This paper describes additional aspects of a digital tool called the ‘Textual History Tool’. We describe its various salient features with special reference to those of its features that may help the philologist digitize commentaries and …
+      The detection and extraction of abbreviations from unstructured texts can help to improve the performance of Natural Language Processing tasks, such as machine translation and information retrieval. However, in terms of publicly available datasets, …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/cods-2020-cognate/">&#34;Keep Your Dimensions on a Leash&#34;: True Cognate Detection using Siamese Deep Neural Networks</a></h2>
+    <h2><a href="/publication/wassa-2022-emotion/">SURREY-CTS-NLP at WASSA2022: An Experiment of Discourse and Sentiment Analysis for the Prediction of Empathy, Distress and Emotion</a></h2>
     <div class="article-style">
       
-      Automatic Cognate Detection helps NLP tasks of Machine Translation, Information Retrieval, and Phylogenetics. Cognate words are defined as word pairs across languages which exhibit partial or full lexical similarity and mean the same (e.g., …
+      This paper summarises the submissions our team, SURREY-CTS-NLP has made for the WASSA 2022 Shared Task for the prediction of empathy, distress and emotion. In this work, we tested different learning strategies, like ensemble learning and multi-task …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/cods-2020-typological/">Harnessing Deep Cross-lingual Word Embeddings to Infer Accurate Phylogenetic Trees</a></h2>
+    <h2><a href="/publication/sdu-st-aaai-2022-acronym/">An Ensemble Approach to Acronym Extraction using Transformers</a></h2>
     <div class="article-style">
       
-      Establishing language relatedness by inferring phylogenetic trees has been a topic of interest in the area of diachronic linguistics. However, existing methods face meaning conflation deficiency due to the usage of lexical similarity-based measures. …
+      Acronyms are abbreviated units of a phrase constructed by using initial components of the phrase in a text. Automatic extraction of acronyms from a text can help various Natural Language Processing tasks like machine translation, information …
       
     </div>
   </div>
@@ -947,7 +973,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 28-02-2026 17:43:17</p>
+	<p>Last Updated: 07-11-2026 23:51:25</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

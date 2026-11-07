@@ -6,10 +6,19 @@
     <description>Recent content in audio-visual on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/tags/audio-visual/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech</title>
+      <link>https://dipteshkanojia.co.uk/publication/koushik-2026-tandem/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/koushik-2026-tandem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AV-GS: Learning Material and Geometry aware Priors for Novel View Acoustic Synthesis</title>

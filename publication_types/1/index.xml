@@ -6,10 +6,136 @@
     <description>Recent content in 1 on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IndicQE-APE: A Consolidated Benchmark for Quality Estimation and Automatic Post-Editing over Indic Languages</title>
+      <link>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/kanojia-2026-indicqe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In the Blind: Building Pseudo-References for MT Evaluation</title>
+      <link>https://dipteshkanojia.co.uk/publication/kanojia-2026-blind/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/kanojia-2026-blind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT26 Shared Task on Automated Translation Quality Evaluation Systems: Compact Open Models are Competitive Quality Evaluators</title>
+      <link>https://dipteshkanojia.co.uk/publication/lavie-2026-findings/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/lavie-2026-findings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation</title>
+      <link>https://dipteshkanojia.co.uk/publication/painter-2026-diallm/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/painter-2026-diallm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SurreyCTS at BEA 2026 Shared Task 1: Semantic Funnelling and Entropy-based Multilingual Lexical Difficulty Prediction</title>
+      <link>https://dipteshkanojia.co.uk/publication/willoughby-2026-surreycts/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/willoughby-2026-surreycts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SyncDreamer: Controllable and Expressive Avatar Generation Beyond the Talking Head</title>
+      <link>https://dipteshkanojia.co.uk/publication/nazarieh-2026-syncdreamer/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/nazarieh-2026-syncdreamer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging Domains for Automatic Post-Editing: A Classifier-Guided Multi-Domain Adaptation Framework</title>
+      <link>https://dipteshkanojia.co.uk/publication/deoghare-2026-bridging/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/deoghare-2026-bridging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MUNIChus: MUltilingual News Image Captioning Benchmark</title>
+      <link>https://dipteshkanojia.co.uk/publication/chen-2026-munichus/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/chen-2026-munichus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TeMuDance: Contrastive Alignment-Based Textual Control for Music-Driven Dance Generation</title>
+      <link>https://dipteshkanojia.co.uk/publication/liu-2026-temudance/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/liu-2026-temudance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-Specific Quality Estimation for Machine Translation in Low-Resource Scenarios</title>
+      <link>https://dipteshkanojia.co.uk/publication/gurav-2026-domain/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/gurav-2026-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter-Efficient Quality Estimation via Frozen Recursive Models</title>
+      <link>https://dipteshkanojia.co.uk/publication/abubacar-2026-parameter/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/abubacar-2026-parameter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Search Suggestions for Alphanumeric Queries</title>
+      <link>https://dipteshkanojia.co.uk/publication/agrawal-2026-improving/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/agrawal-2026-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRACE: Textual Relevance Augmentation and Contextual Encoding for Multimodal Hate Detection</title>
+      <link>https://dipteshkanojia.co.uk/publication/koushik-2026-trace/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/koushik-2026-trace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Open-Source Vision-Language Models for Multimodal Sarcasm Detection</title>
+      <link>https://dipteshkanojia.co.uk/publication/basnet-2025-evaluating/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/basnet-2025-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Findings of the WMT25 Shared Task on Automated Translation Evaluation Systems: Linguistic Diversity is Challenging and References Still Help</title>
@@ -323,6 +449,15 @@
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/publication/nafis-etal-2023-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YANMTT: Yet Another Neural Machine Translation Toolkit</title>
+      <link>https://dipteshkanojia.co.uk/publication/dabre-2023-yanmtt/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/dabre-2023-yanmtt/</guid>
       <description></description>
     </item>
     

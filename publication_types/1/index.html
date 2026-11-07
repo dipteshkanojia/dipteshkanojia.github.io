@@ -101,7 +101,7 @@
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-219532492-1', 'auto');
-      
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -142,10 +142,36 @@
   <meta property="og:description" content="Diptesh Kanojia is an NLP Researcher working on cross-lingual and multimodal representation learning to address challenges like online toxicity, misinformation, and digital accessibility for low-resource languages."><meta property="og:image" content="https://dipteshkanojia.co.uk/img/sharing.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/img/sharing.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-11-01T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2026-10-25T00:00:00&#43;00:00">
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
 
   
@@ -709,107 +735,109 @@ if (!doNotTrack) {
   
   
   <div>
-    <h2><a href="/publication/lavie-etal-2025-findings/">Findings of the WMT25 Shared Task on Automated Translation Evaluation Systems: Linguistic Diversity is Challenging and References Still Help</a></h2>
+    <h2><a href="/publication/kanojia-2026-indicqe/">IndicQE-APE: A Consolidated Benchmark for Quality Estimation and Automatic Post-Editing over Indic Languages</a></h2>
     <div class="article-style">
       
-      The WMT25 Shared Task on Automated Translation Evaluation Systems evaluates metrics and quality estimation systems that assess the quality of language translation systems. This task unifies and consolidates the separate WMT shared tasks on Machine …
+      Indic quality estimation (QE) and automatic post-editing (APE) data is spread across separate releases, so no single resource supports training and evaluation across tasks and language pairs on one footing. We consolidate the WMT 2020-2024 …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/sindhujan-etal-2025-alope/">ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models</a></h2>
+    <h2><a href="/publication/kanojia-2026-blind/">In the Blind: Building Pseudo-References for MT Evaluation</a></h2>
     <div class="article-style">
       
-      Large Language Models (LLMs) have shown remarkable performance across a wide range of natural language processing tasks. Quality Estimation (QE) for Machine Translation (MT), which assesses the quality of a source-target pair without relying on …
+      The WMT26 General MT task evaluates systems on 10 language pairs that have no human references (neither translated from scratch nor post-edited from MT output by humans). We describe how we built the pseudo-references for these pairs and six other …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/saeid-etal-2025-cyberbullying/">Cyberbullying Detection via Aggression-Enhanced Prompting</a></h2>
+    <h2><a href="/publication/lavie-2026-findings/">Findings of the WMT26 Shared Task on Automated Translation Quality Evaluation Systems: Compact Open Models are Competitive Quality Evaluators</a></h2>
     <div class="article-style">
       
-      Detecting cyberbullying on social media remains a critical challenge due to its subtle and varied expressions. This study investigates whether integrating aggression detection as an auxiliary task within a unified training framework can enhance the …
+      We present the findings of the WMT26 Shared Task on Automated Translation Quality Evaluation Systems, continuing last year's unification of the earlier separate WMT Metrics and Quality Estimation shared tasks. This year we evaluated three …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/srirag-etal-2025-besstie/">BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English</a></h2>
+    <h2><a href="/publication/painter-2026-diallm/">DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation</a></h2>
     <div class="article-style">
       
-      Despite large language models (LLMs) being known to exhibit bias against non-mainstream varieties, there are no known labeled datasets for sentiment analysis of English. To address this gap, we introduce BESSTIE, a benchmark for sentiment and sarcasm …
+      Large language models increasingly understand dialectal English, yet still produce only standard, US-leaning English, leaving dialectal generation, the harder half of the problem, largely unaddressed. We introduce DiaLLM, which continually pretrains …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/sindhujan-etal-2025-prompt/">Prompt-based Explainable Quality Estimation for English-Malayalam</a></h2>
+    <h2><a href="/publication/willoughby-2026-surreycts/">SurreyCTS at BEA 2026 Shared Task 1: Semantic Funnelling and Entropy-based Multilingual Lexical Difficulty Prediction</a></h2>
     <div class="article-style">
       
-      The aim of this project was to curate data for the English-Malayalam language pair for the tasks of Quality Estimation (QE) and Automatic Post-Editing (APE) of Machine Translation. Whilst the primary aim of the project was to create a dataset for a …
+      We describe the SurreyCTS system for the BEA 2026 shared task on lexical difficulty prediction. Our approach combines multilingual transformer encoders (RemBERT and COMET) with engineered linguistic features including semantic funnelling, lexical …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/koushik-etal-2025-multimodal-hate-detection/">Towards a Robust Framework for Multimodal Hate Detection: A Study on Video vs. Image-based Content</a></h2>
+    <h2><a href="/publication/nazarieh-2026-syncdreamer/">SyncDreamer: Controllable and Expressive Avatar Generation Beyond the Talking Head</a></h2>
     <div class="article-style">
       
-      Social media platforms enable the propagation of hateful content across different modalities such as textual, auditory, and visual, necessitating effective detection methods. While recent approaches have shown promise in handling individual …
+      Generating realistic and expressive audio-driven talking avatars remains a central challenge in digital human synthesis. Existing methods often depend on intermediate representations such as pose estimations for natural body motion, which restricts …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/qian-etal-2025-automatically/">Automatically Generating Chinese Homophone Words to Probe Machine Translation Estimation Systems</a></h2>
+    <h2><a href="/publication/deoghare-2026-bridging/">Bridging Domains for Automatic Post-Editing: A Classifier-Guided Multi-Domain Adaptation Framework</a></h2>
     <div class="article-style">
       
-      Evaluating machine translation (MT) of user-generated content (UGC) involves unique challenges such as checking whether the nuance of emotions from the source are preserved in the target text. Recent studies have proposed emotion-related datasets, …
+      Automatic Post-Editing (APE) is a widely studied approach for enhancing the output quality of Neural Machine Translation (NMT) systems. While most prior work has focused on general-purpose APE, the potential of domain-specific APE, such as for …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/deoghare-etal-2025-giving/">Giving the Old a Fresh Spin: Quality Estimation-Assisted Constrained Decoding for Automatic Post-Editing</a></h2>
+    <h2><a href="/publication/chen-2026-munichus/">MUNIChus: MUltilingual News Image Captioning Benchmark</a></h2>
     <div class="article-style">
       
-      Automatic Post-Editing (APE) systems often struggle with over-correction, where unnecessary modifications are made to a translation, diverging from the principle of minimal editing. In this paper, we propose a novel technique to mitigate …
+      The goal of news image captioning is to generate captions by integrating news article content with corresponding images, highlighting the relationship between textual context and visual elements. The majority of research on news image captioning …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/bhosale-etal-2025-unsupervised/">Unsupervised Audio-Visual Segmentation with Modality Alignment</a></h2>
+    <h2><a href="/publication/liu-2026-temudance/">TeMuDance: Contrastive Alignment-Based Textual Control for Music-Driven Dance Generation</a></h2>
     <div class="article-style">
       
-      Audio-Visual Segmentation (AVS) aims to identify, at the pixel level, the object in a visual scene that produces a given sound. Current AVS methods rely on costly fine-grained annotations of mask-audio pairs, making them impractical for scalability. …
+      Existing music-driven dance generation approaches have achieved strong realism and effective audio-motion alignment. However, they generally lack semantic controllability, making it difficult to guide specific movements through natural language …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/deoghare-etal-2025-refer/">Refer to the Reference: Reference-focused Synthetic Automatic Post-Editing Data Generation</a></h2>
+    <h2><a href="/publication/gurav-2026-domain/">Domain-Specific Quality Estimation for Machine Translation in Low-Resource Scenarios</a></h2>
     <div class="article-style">
+      
+      Quality Estimation (QE) is essential for assessing machine translation quality in reference-less settings, particularly for domain-specific and low-resource language scenarios. In this paper, we investigate sentence-level QE for English to Indic …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/sindhujan-etal-2025-llms/">When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages</a></h2>
+    <h2><a href="/publication/abubacar-2026-parameter/">Parameter-Efficient Quality Estimation via Frozen Recursive Models</a></h2>
     <div class="article-style">
       
-      This paper investigates the reference-less evaluation of machine translation for low-resource language pairs, known as quality estimation (QE). Segment-level QE is a challenging cross-lingual language understanding task that provides a quality score …
+      Tiny Recursive Models (TRM) achieve strong results on reasoning tasks through iterative refinement of a shared network. We investigate whether these recursive mechanisms transfer to Quality Estimation (QE) for low-resource languages using a …
       
     </div>
   </div>
   
   <div>
-    <h2><a href="/publication/bhosale-etal-2024-av/">AV-GS: Learning Material and Geometry aware Priors for Novel View Acoustic Synthesis</a></h2>
+    <h2><a href="/publication/agrawal-2026-improving/">Improving Search Suggestions for Alphanumeric Queries</a></h2>
     <div class="article-style">
       
-      Novel view acoustic synthesis (NVAS) aims to render binaural audio at any target viewpoint, given a mono audio emitted by a sound source at a 3D scene. Existing methods have proposed NeRF-based implicit models to exploit visual cues as a condition …
+      Alphanumeric identifiers such as manufacturer part numbers (MPNs), SKUs, and model codes are ubiquitous in e-commerce catalogs and search. These identifiers are sparse, non-linguistic, and highly sensitive to tokenization and typographical variation, …
       
     </div>
   </div>
@@ -943,7 +971,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 28-02-2026 17:43:17</p>
+	<p>Last Updated: 07-11-2026 23:51:25</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

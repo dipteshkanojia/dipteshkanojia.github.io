@@ -101,7 +101,7 @@
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-219532492-1', 'auto');
-      
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -142,10 +142,36 @@
   <meta property="og:description" content="Diptesh Kanojia is an NLP Researcher working on cross-lingual and multimodal representation learning to address challenges like online toxicity, misinformation, and digital accessibility for low-resource languages."><meta property="og:image" content="https://dipteshkanojia.co.uk/img/sharing.png">
   <meta property="twitter:image" content="https://dipteshkanojia.co.uk/img/sharing.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-12-24T12:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2026-10-25T00:00:00&#43;00:00">
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
 
   
@@ -709,6 +735,69 @@ if (!doNotTrack) {
   
   
   <div>
+    <h2><a href="/publication/kanojia-2026-indicqe/">IndicQE-APE: A Consolidated Benchmark for Quality Estimation and Automatic Post-Editing over Indic Languages</a></h2>
+    <div class="article-style">
+      
+      Indic quality estimation (QE) and automatic post-editing (APE) data is spread across separate releases, so no single resource supports training and evaluation across tasks and language pairs on one footing. We consolidate the WMT 2020-2024 …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/kanojia-2026-blind/">In the Blind: Building Pseudo-References for MT Evaluation</a></h2>
+    <div class="article-style">
+      
+      The WMT26 General MT task evaluates systems on 10 language pairs that have no human references (neither translated from scratch nor post-edited from MT output by humans). We describe how we built the pseudo-references for these pairs and six other …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/lavie-2026-findings/">Findings of the WMT26 Shared Task on Automated Translation Quality Evaluation Systems: Compact Open Models are Competitive Quality Evaluators</a></h2>
+    <div class="article-style">
+      
+      We present the findings of the WMT26 Shared Task on Automated Translation Quality Evaluation Systems, continuing last year's unification of the earlier separate WMT Metrics and Quality Estimation shared tasks. This year we evaluated three …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/farooq-2026-quality/">Quality-Aware Self-Correcting Speech Translation on an Edge Device</a></h2>
+    <div class="article-style">
+      
+      We present a fully offline speech-to-speech translation pipeline that runs on a Jetson Nano (4 GB) and corrects its own weak translations without retraining. A Whisper-tiny ASR feeds an Opus-MT translator; multilingual BERT cosine similarity acts as …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/gurav-2026-domain/">Domain-Specific Quality Estimation for Machine Translation in Low-Resource Scenarios</a></h2>
+    <div class="article-style">
+      
+      Quality Estimation (QE) is essential for assessing machine translation quality in reference-less settings, particularly for domain-specific and low-resource language scenarios. In this paper, we investigate sentence-level QE for English to Indic …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/abubacar-2026-parameter/">Parameter-Efficient Quality Estimation via Frozen Recursive Models</a></h2>
+    <div class="article-style">
+      
+      Tiny Recursive Models (TRM) achieve strong results on reasoning tasks through iterative refinement of a shared network. We investigate whether these recursive mechanisms transfer to Quality Estimation (QE) for low-resource languages using a …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/sindhujan-2026-beyond/">Beyond Scalar Scores: Reinforcement Learning for Error-Aware Quality Estimation of Machine Translation</a></h2>
+    <div class="article-style">
+      
+      Quality Estimation (QE) aims to assess the quality of machine translation (MT) outputs without relying on reference translations, making it essential for real-world, large-scale MT evaluation. Large Language Models (LLMs) have shown significant …
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/talk/wat-aacl-2025/">Optimizing Large Language Models for Low-resource Quality Estimation</a></h2>
     <div class="article-style">
       
@@ -749,69 +838,6 @@ if (!doNotTrack) {
     <div class="article-style">
       
       Large Language Models (LLMs) have shown remarkable performance across a wide range of natural language processing tasks. Quality Estimation (QE) for Machine Translation (MT), which assesses the quality of a source-target pair without relying on …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/sindhujan-etal-2025-prompt/">Prompt-based Explainable Quality Estimation for English-Malayalam</a></h2>
-    <div class="article-style">
-      
-      The aim of this project was to curate data for the English-Malayalam language pair for the tasks of Quality Estimation (QE) and Automatic Post-Editing (APE) of Machine Translation. Whilst the primary aim of the project was to create a dataset for a …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/qian-etal-2025-automatically/">Automatically Generating Chinese Homophone Words to Probe Machine Translation Estimation Systems</a></h2>
-    <div class="article-style">
-      
-      Evaluating machine translation (MT) of user-generated content (UGC) involves unique challenges such as checking whether the nuance of emotions from the source are preserved in the target text. Recent studies have proposed emotion-related datasets, …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/deoghare-etal-2025-giving/">Giving the Old a Fresh Spin: Quality Estimation-Assisted Constrained Decoding for Automatic Post-Editing</a></h2>
-    <div class="article-style">
-      
-      Automatic Post-Editing (APE) systems often struggle with over-correction, where unnecessary modifications are made to a translation, diverging from the principle of minimal editing. In this paper, we propose a novel technique to mitigate …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/sindhujan-etal-2025-llms/">When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages</a></h2>
-    <div class="article-style">
-      
-      This paper investigates the reference-less evaluation of machine translation for low-resource language pairs, known as quality estimation (QE). Segment-level QE is a challenging cross-lingual language understanding task that provides a quality score …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/qian-etal-2024-large-language/">Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?</a></h2>
-    <div class="article-style">
-      
-      This paper investigates whether large language models (LLMs) are state-of-the-art quality estimators for machine translation of user-generated content (UGC) that contains emotional expressions, without the use of reference translations. To achieve …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/zerva-etal-2024-findings/">Findings of the Quality Estimation Shared Task at WMT 2024: Are LLMs Closing the Gap in QE?</a></h2>
-    <div class="article-style">
-      
-      We report the results of the WMT 2024 shared task on Quality Estimation, in which the challenge is to predict the quality of the output of neural machine translation systems at the word and sentence levels, without access to reference translations. …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/sindhujan-etal-2024-optimizing/">Optimizing Quality Estimation for Low-Resource Language Translations: Exploring the Role of Language Relatedness</a></h2>
-    <div class="article-style">
-      
-      Quality Estimation (QE) is vital to determine the effectiveness of MT systems. This paper investigates QE for machine translation (MT) for low-resource Indic languages. We analyse the influence of language relatedness within linguistic families and …
       
     </div>
   </div>
@@ -945,7 +971,7 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
-	<p>Last Updated: 28-02-2026 17:43:17</p>
+	<p>Last Updated: 07-11-2026 23:51:25</p>
 	<p>"Nearly everyone can stand adversity, but if you want to test their character, give them power."</p>
 </footer>
 

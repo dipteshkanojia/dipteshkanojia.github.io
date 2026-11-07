@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roman Bauer on Diptesh Kanojia</title>
+    <link>https://dipteshkanojia.co.uk/authors/roman-bauer/</link>
+    <description>Recent content in Roman Bauer on Diptesh Kanojia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.co.uk/authors/roman-bauer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parameter-Efficient Quality Estimation via Frozen Recursive Models</title>
+      <link>https://dipteshkanojia.co.uk/publication/abubacar-2026-parameter/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/abubacar-2026-parameter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,28 @@
     <description>Recent content in Wenwu Wang on Diptesh Kanojia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dipteshkanojia.co.uk/authors/wenwu-wang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GCDance: Genre-Controlled Music-Driven 3D Full Body Dance Generation</title>
+      <link>https://dipteshkanojia.co.uk/publication/liu-2026-gcdance/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/liu-2026-gcdance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TeMuDance: Contrastive Alignment-Based Textual Control for Music-Driven Dance Generation</title>
+      <link>https://dipteshkanojia.co.uk/publication/liu-2026-temudance/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/liu-2026-temudance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DGFM: Full Body Dance Generation Driven by Music Foundation Models</title>
@@ -17,15 +35,6 @@
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://dipteshkanojia.co.uk/publication/liu-etal-2025-dgfm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GCDance: Genre-Controlled 3D Full Body Dance Generation Driven By Music</title>
-      <link>https://dipteshkanojia.co.uk/publication/liu-etal-2025-gcdance/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dipteshkanojia.co.uk/publication/liu-etal-2025-gcdance/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audio-driven on Diptesh Kanojia</title>
+    <link>https://dipteshkanojia.co.uk/tags/audio-driven/</link>
+    <description>Recent content in audio-driven on Diptesh Kanojia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dipteshkanojia.co.uk/tags/audio-driven/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control</title>
+      <link>https://dipteshkanojia.co.uk/publication/nazarieh-2025-magictalk/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipteshkanojia.co.uk/publication/nazarieh-2025-magictalk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
